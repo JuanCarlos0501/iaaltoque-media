@@ -26,5 +26,6 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
 7. Metricool `createScheduledPost` con **`draft: true`** (el usuario aprueba en la app de Metricool), para hoy a las 19:00 Lima
    (o la mejor hora según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true),
    youtube (type short, madeForKids false, category EDUCATION, título = `titulo`).
+   Portada: añade `videoCoverMilliseconds: 800` (cuadro del gancho). Si Metricool lo rechaza con VIDEO_THUMBNAIL_NOT_APPLICABLE, repite sin ese campo.
 8. Añadir la línea del reel a `reels/historial.md` y hacer push.
 9. Avisar al usuario (PushNotification + mensaje): título del reel y enlace del borrador en Metricool para aprobarlo.
