@@ -14,7 +14,7 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
 
 ## Pasos de cada día
 1. Elegir tema: revisar `reels/historial.md`; buscar en la web qué está en tendencia en IA práctica en español.
-   Usar vidIQ como mucho una vez por semana (pocos créditos).
+   No usar vidIQ (dado de baja). Para estadísticas, usar Metricool.
 2. Crear `reels/reel_NN/guion.json` (ver formato en `tools/make_reel.py`). Añadir `titulo`, `descripcion` y `hashtags`.
 3. Voz: `python3 -c "import json,sys;sys.path.insert(0,'tools');from make_reel import narration;open('reels/reel_NN/voz.txt','w').write(narration(json.load(open('reels/reel_NN/guion.json'))))"`
    y luego `python3 tools/tts.py reels/reel_NN/voz.txt reels/reel_NN/voz` (la clave la inserta el secreto de red del entorno).
