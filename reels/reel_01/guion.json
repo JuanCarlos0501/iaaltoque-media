@@ -1,0 +1,17 @@
+{
+  "id": "reel_01",
+  "titulo": "Cómo editar videos con Claude sin saber editar",
+  "scenes": [
+    {"type": "hook", "title": ["Ya no necesitas", "saber editar"], "pill": "Así funciona con Claude",
+     "say": "Ya no necesitas saber editar videos. Ahora le hablas a la IA, y ella edita por ti. Así funciona con Claude."},
+    {"type": "step", "n": 1, "title": ["Instala la app de", "escritorio de Claude"], "lines": ["Dale acceso a una carpeta", "con tu video"],
+     "say": "Paso uno: instala la app de escritorio de Claude, y dale acceso a una carpeta con tu video."},
+    {"type": "step", "n": 2, "title": ["Pídele lo que quieres", "con palabras normales"], "lines": ["«Quita las pausas largas y agrega subtítulos palabra por palabra»"],
+     "say": "Paso dos: pídele lo que quieres, con palabras normales. Por ejemplo: quita las pausas largas, y agrega subtítulos palabra por palabra."},
+    {"type": "step", "n": 3, "title": ["Claude hace los cortes", "y te deja el video listo"], "lines": ["Versión vertical 9:16", "Versión horizontal 16:9"],
+     "say": "Paso tres: Claude escribe y ejecuta el código que hace los cortes, y te deja el video listo en tu carpeta. También puede sacarte una versión vertical para reels, y otra horizontal para YouTube."},
+    {"type": "list", "badge": "OJO", "title": ["Claude no mira la imagen:", "se guía por lo que se dice"], "items": ["Tutoriales", "Videos hablados"],
+     "say": "Ojo: Claude no mira la imagen. Se guía por lo que se dice. Por eso funciona genial con tutoriales y videos hablados."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
