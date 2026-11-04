@@ -2,9 +2,9 @@
 
 Paso uno: entra a NotebookLM, crea un cuaderno, y sube tu PDF, un enlace o tus apuntes como fuente.
 
-Paso dos: en el panel Studio, busca Resumen de audio, y abre sus opciones para personalizarlo.
+Paso dos: en el panel Studio, busca Resumen de audio, y toca el lápiz para personalizarlo.
 
-Paso tres: elige el idioma, por ejemplo español de Latinoamérica, y el formato: detallado, breve, crítica o debate.
+Paso tres: elige el idioma, por ejemplo español de Latinoamérica, y el formato: análisis detallado, resumen, opinión o debate.
 
 Paso cuatro: escribe en qué deben enfocarse, por ejemplo, explícalo como para un examen. Toca Generar, y en unos minutos tendrás dos voces conversando sobre tu documento.
 
