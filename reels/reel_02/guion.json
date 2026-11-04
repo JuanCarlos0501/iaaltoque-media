@@ -1,0 +1,19 @@
+{
+  "id": "reel_02",
+  "titulo": "Convierte cualquier PDF en un podcast en español con IA",
+  "descripcion": "¿No tienes tiempo de leer ese PDF? Con NotebookLM de Google lo conviertes en un podcast en español, con dos voces que te lo explican. Es gratis: sube tu documento, elige Resumen de audio, el idioma y el formato, y listo. Ideal para estudiar o repasar en el camino. 🎧",
+  "hashtags": ["#IA", "#NotebookLM", "#InteligenciaArtificial", "#Productividad", "#Estudiar", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu PDF ahora es", "un podcast"], "pill": "Gratis con NotebookLM",
+     "say": "¿No tienes tiempo de leer ese PDF? Conviértelo en un podcast en español, gratis, con NotebookLM de Google."},
+    {"type": "step", "n": 1, "title": ["Crea un cuaderno", "y sube tu fuente"], "lines": ["notebooklm.google.com", "PDF, enlace o apuntes"],
+     "say": "Paso uno: entra a NotebookLM, crea un cuaderno, y sube tu PDF, un enlace o tus apuntes como fuente."},
+    {"type": "step", "n": 2, "title": ["En Studio, abre", "Resumen de audio"], "lines": ["Entra en las opciones", "para personalizarlo"],
+     "say": "Paso dos: en el panel Studio, busca Resumen de audio, y abre sus opciones para personalizarlo."},
+    {"type": "step", "n": 3, "title": ["Elige idioma", "y formato"], "lines": ["Español (Latinoamérica)", "Detallado · Breve", "Crítica · Debate"],
+     "say": "Paso tres: elige el idioma, por ejemplo español de Latinoamérica, y el formato: detallado, breve, crítica o debate."},
+    {"type": "step", "n": 4, "title": ["Dile en qué enfocarse", "y toca Generar"], "lines": ["«Explícalo como para", "un examen»"],
+     "say": "Paso cuatro: escribe en qué deben enfocarse, por ejemplo, explícalo como para un examen. Toca Generar, y en unos minutos tendrás dos voces conversando sobre tu documento."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

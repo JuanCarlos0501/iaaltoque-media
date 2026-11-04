@@ -1,0 +1,11 @@
+¿No tienes tiempo de leer ese PDF? Conviértelo en un podcast en español, gratis, con NotebookLM de Google.
+
+Paso uno: entra a NotebookLM, crea un cuaderno, y sube tu PDF, un enlace o tus apuntes como fuente.
+
+Paso dos: en el panel Studio, busca Resumen de audio, y abre sus opciones para personalizarlo.
+
+Paso tres: elige el idioma, por ejemplo español de Latinoamérica, y el formato: detallado, breve, crítica o debate.
+
+Paso cuatro: escribe en qué deben enfocarse, por ejemplo, explícalo como para un examen. Toca Generar, y en unos minutos tendrás dos voces conversando sobre tu documento.
+
+Sigue a IA al Toque, para más trucos como este.
