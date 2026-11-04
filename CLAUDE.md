@@ -23,9 +23,10 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
 5. Revisar 6 fotogramas a lo largo del video (texto legible, nada cortado, subtítulos sincronizados). Corregir y volver a renderizar si hace falta.
 6. `git add reels/reel_NN && git commit && git push`. URL pública del video:
    `https://raw.githubusercontent.com/JuanCarlos0501/iaaltoque-media/main/reels/reel_NN/reel_NN.mp4`
-7. Metricool `createScheduledPost` con **`draft: true`** (el usuario aprueba en la app de Metricool), para hoy a las 19:00 Lima
-   (o la mejor hora según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true),
+7. Metricool `createScheduledPost` **programado** (`draft: false`, `autoPublish: true`) para hoy a las **10:00 Lima**
+   (la hora con más actividad según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true),
    youtube (type short, madeForKids false, category EDUCATION, título = `titulo`).
    Portada: añade `videoCoverMilliseconds: 800` (cuadro del gancho). Si Metricool lo rechaza con VIDEO_THUMBNAIL_NOT_APPLICABLE, repite sin ese campo.
+   En la automatización diaria este paso lo hace la tarea de las 7:21 (la de las 6:34 no tiene el conector de Metricool).
 8. Añadir la línea del reel a `reels/historial.md` y hacer push.
-9. Avisar al usuario (PushNotification + mensaje): título del reel y enlace del borrador en Metricool para aprobarlo.
+9. Avisar al usuario (PushNotification + mensaje): título del reel, que sale a las 10:00 y el enlace en Metricool por si quiere editarlo antes.
