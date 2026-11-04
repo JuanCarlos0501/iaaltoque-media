@@ -46,7 +46,7 @@ SERVICIOS = [
     (["radiance", "aclar", "manchas"], "Radiance C-Matrix", "Tono más uniforme", "S/ 99",
      "#Manchas #CuidadoDeLaPiel"),
 ]
-GENERICO = (["spa"], "Metabolic Spa CAX", "Ciencia · estética · bienestar", "Evaluación gratis",
+GENERICO = (["spa"], "Metabolic Spa CAX", "Ciencia · estética · bienestar", "Agenda tu evaluación",
             "#EsteticaAvanzada #CuidadoDeLaPiel")
 
 GOLD = (217, 182, 110)
