@@ -17,7 +17,7 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
    Usar vidIQ como mucho una vez por semana (pocos créditos).
 2. Crear `reels/reel_NN/guion.json` (ver formato en `tools/make_reel.py`). Añadir `titulo`, `descripcion` y `hashtags`.
 3. Voz: `python3 -c "import json,sys;sys.path.insert(0,'tools');from make_reel import narration;open('reels/reel_NN/voz.txt','w').write(narration(json.load(open('reels/reel_NN/guion.json'))))"`
-   y luego `python3 tools/tts.py reels/reel_NN/voz.txt reels/reel_NN/voz` (requiere `ELEVENLABS_API_KEY`).
+   y luego `python3 tools/tts.py reels/reel_NN/voz.txt reels/reel_NN/voz` (la clave la inserta el secreto de red del entorno).
    Si falla, NO usar otra voz: avisar al usuario y parar.
 4. Video: `python3 tools/make_reel.py reels/reel_NN/guion.json reels/reel_NN/voz.mp3 reels/reel_NN/reel_NN.mp4 reels/reel_NN/voz.align.json`
 5. Revisar 6 fotogramas a lo largo del video (texto legible, nada cortado, subtítulos sincronizados). Corregir y volver a renderizar si hace falta.
