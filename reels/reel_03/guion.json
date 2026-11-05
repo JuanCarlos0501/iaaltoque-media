@@ -1,0 +1,19 @@
+{
+  "id": "reel_03",
+  "titulo": "Traduce cualquier cartel o menú con la cámara de tu celular",
+  "descripcion": "¿Un menú, un cartel o una etiqueta en otro idioma? Con Google Lens lo traduces al instante con la cámara: abre la app de Google, toca el ícono de cámara, elige Traducir y apunta al texto. También funciona con fotos de tu galería. Gratis en Android y iPhone. 📸🌎",
+  "hashtags": ["#IA", "#GoogleLens", "#Traductor", "#Viajes", "#TrucosIA", "#InteligenciaArtificial", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Traduce carteles", "con tu cámara"], "pill": "Gratis con Google Lens",
+     "say": "¿Un menú o un cartel en otro idioma? Tradúcelo al instante con la cámara de tu celular, gratis, con Google Lens. Ideal para viajes, etiquetas o instrucciones."},
+    {"type": "step", "n": 1, "title": ["Abre la app", "de Google"], "lines": ["Toca el ícono de cámara", "en la barra de búsqueda"],
+     "say": "Paso uno: abre la app de Google, y toca el ícono de cámara en la barra de búsqueda. Funciona en Android y en iPhone."},
+    {"type": "step", "n": 2, "title": ["Elige", "Traducir"], "lines": ["Está abajo, entre", "las opciones de Lens"],
+     "say": "Paso dos: abajo, entre las opciones de Lens, elige Traducir. Lens detecta solo el idioma del texto."},
+    {"type": "step", "n": 3, "title": ["Apunta", "al texto"], "lines": ["La traducción aparece", "encima del original"],
+     "say": "Paso tres: apunta al texto, y la traducción aparece encima del original. Si quieres, toma la foto para copiarla."},
+    {"type": "step", "n": 4, "title": ["También con fotos", "de tu galería"], "lines": ["Arriba cambias el idioma", "de origen y de destino"],
+     "say": "Paso cuatro: ¿ya tienes la foto? Súbela desde tu galería. Y arriba puedes cambiar los idiomas, por ejemplo, de inglés a español."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
