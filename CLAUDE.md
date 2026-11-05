@@ -27,6 +27,11 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
    (la hora con más actividad según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true),
    youtube (type short, madeForKids false, category EDUCATION, título = `titulo`).
    Portada: añade `videoCoverMilliseconds: 800` (cuadro del gancho). Si Metricool lo rechaza con VIDEO_THUMBNAIL_NOT_APPLICABLE, repite sin ese campo.
-   En la automatización diaria este paso lo hace la tarea de las 7:21 (la de las 6:34 no tiene el conector de Metricool).
+   En la automatización diaria este paso lo hace la tarea "IA al Toque - programar en Metricool" (8:21 y 11:21 Lima), no la de producción.
+
+## Automatización diaria (3 reels)
+- "IA al Toque - crear reels (Code)": 6:34 Lima, entorno de nube **IA al Toque** (tiene `api.elevenlabs.io` permitido y el secreto de red con la clave). Pasos 1–6 y 8 para tres reels: A "video listo, falta programar 10:00", B "…12:00", C "…18:00".
+- "IA al Toque - programar en Metricool": 8:21 y 11:21 Lima. Programa en Metricool a las 10:00, 12:00 y 18:00 y avisa por push.
+- Las tareas de tipo Chat corren en el entorno por defecto, que bloquea ElevenLabs: la producción debe ser una tarea de Code en el entorno IA al Toque.
 8. Añadir la línea del reel a `reels/historial.md` y hacer push.
 9. Avisar al usuario (PushNotification + mensaje): título del reel, que sale a las 10:00 y el enlace en Metricool por si quiere editarlo antes.
