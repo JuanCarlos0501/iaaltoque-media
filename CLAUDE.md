@@ -24,7 +24,7 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
 6. `git add reels/reel_NN && git commit && git push`. URL pública del video:
    `https://raw.githubusercontent.com/JuanCarlos0501/iaaltoque-media/main/reels/reel_NN/reel_NN.mp4`
 7. Metricool `createScheduledPost` **programado** (`draft: false`, `autoPublish: true`) para hoy a las **10:00 Lima**
-   (la hora con más actividad según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true),
+   (la hora con más actividad según `getBestTimeToPostByNetwork`). Redes: instagram (REEL, isAiGenerated true), tiktok (isAigc true, title = `titulo`: Metricool lo exige),
    youtube (type short, madeForKids false, category EDUCATION, título = `titulo`).
    Portada: añade `videoCoverMilliseconds: 800` (cuadro del gancho). Si Metricool lo rechaza con VIDEO_THUMBNAIL_NOT_APPLICABLE, repite sin ese campo.
    En la automatización diaria este paso lo hace la tarea "IA al Toque - programar en Metricool" (8:21 y 11:21 Lima), no la de producción.
