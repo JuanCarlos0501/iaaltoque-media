@@ -1,0 +1,19 @@
+{
+  "id": "reel_05",
+  "titulo": "Menú de la semana y lista de compras en 1 minuto con ChatGPT",
+  "descripcion": "¿No sabes qué cocinar esta semana? Dale a ChatGPT tus datos (cuántos son, presupuesto, tiempo y qué no comen) y pídele el menú de lunes a domingo en una tabla y la lista de compras por sección. Luego ajusta lo que no te guste. Ojo: los precios que da son estimados, revisa con tu mercado. 🛒",
+  "hashtags": ["#IA", "#ChatGPT", "#MenuSemanal", "#ListaDeCompras", "#TrucosIA", "#Ahorro", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Menú de la semana", "en 1 minuto"], "pill": "Caso práctico con ChatGPT",
+     "say": "¿No sabes qué cocinar esta semana? Pídele a ChatGPT el menú completo y la lista de compras. Funciona con la versión gratuita. Te muestro un caso práctico."},
+    {"type": "list", "badge": "TUS DATOS", "title": ["Dale todo", "el contexto"], "items": ["Somos 4 personas", "Presupuesto de la semana", "Recetas de 30 minutos"],
+     "say": "Primero, dale tus datos: cuántos son, tu presupuesto, cuánto tiempo tienes para cocinar, y qué no comen, por ejemplo, nada de mariscos."},
+    {"type": "list", "badge": "EL PEDIDO", "title": ["Pide el formato", "exacto"], "items": ["Menú de lunes a domingo", "en una tabla", "Compras por sección"],
+     "say": "Luego, pide el formato exacto: el menú de lunes a domingo en una tabla, y la lista de compras ordenada por sección del mercado."},
+    {"type": "list", "badge": "AJUSTA", "title": ["Pide", "cambios"], "items": ["Otro plato el jueves", "Usa lo que sobró", "Hazlo más barato"],
+     "say": "¿Algo no te gusta? Pide cambios: otro plato para el jueves, aprovechar lo que sobró, o bajar el costo. Puedes pedirlo las veces que quieras."},
+    {"type": "list", "badge": "OJO", "title": ["Revisa precios", "y cantidades"], "items": ["Los precios son estimados", "Compara con tu mercado"],
+     "say": "Ojo: los precios que te da son estimados. Revisa las cantidades, y compáralos con tu mercado."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
