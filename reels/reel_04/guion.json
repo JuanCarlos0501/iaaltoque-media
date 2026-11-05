@@ -1,0 +1,19 @@
+{
+  "id": "reel_04",
+  "titulo": "Crea tu propio asistente de IA gratis: 3 ideas con Gems de Gemini",
+  "descripcion": "¿Le pides siempre lo mismo a la IA? Con las Gems de Gemini creas asistentes personalizados, gratis: escribes sus instrucciones una vez y lo usas cuando quieras. Se crean desde gemini.google.com en la web. Tres ideas: corrector de correos, tutor paciente y ayudante para redes. 💡",
+  "hashtags": ["#IA", "#Gemini", "#GeminiGems", "#Productividad", "#TrucosIA", "#InteligenciaArtificial", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Crea tu propio", "asistente de IA"], "pill": "Gratis con Gemini Gems",
+     "say": "¿Le pides siempre lo mismo a la IA? Crea tu propio asistente, gratis, con las Gems de Gemini. Aquí van tres ideas."},
+    {"type": "list", "badge": "CÓMO", "title": ["Créala", "desde la web"], "items": ["gemini.google.com", "Gems: crea una nueva", "Nombre e instrucciones"],
+     "say": "Entra a Gemini desde la web, busca Gems en el menú, y crea una nueva. Ponle un nombre, y escribe sus instrucciones una sola vez. Así no repites el mismo pedido cada día."},
+    {"type": "list", "badge": "IDEA 1", "title": ["Tu corrector", "de correos"], "items": ["Corrige y ordena", "Tono claro y amable", "Respeta tus datos"],
+     "say": "Idea uno: un corrector de correos. Le pegas tu borrador, y en segundos te lo devuelve claro, amable y sin errores."},
+    {"type": "list", "badge": "IDEA 2", "title": ["Tu tutor", "paciente"], "items": ["Explica paso a paso", "Con ejemplos simples", "Luego te pregunta"],
+     "say": "Idea dos: un tutor que te explica cualquier tema paso a paso, con ejemplos simples, y luego te hace preguntas."},
+    {"type": "list", "badge": "IDEA 3", "title": ["Tu ayudante", "para redes"], "items": ["Ideas de publicaciones", "Textos con tu estilo", "Listos para copiar"],
+     "say": "Idea tres: un ayudante para redes, que te da ideas de publicaciones y escribe los textos con tu estilo."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
