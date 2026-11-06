@@ -1,0 +1,83 @@
+{
+  "id": "reel_07",
+  "titulo": "ChatGPT vs Gemini vs Perplexity: ¿cuál usar para buscar información?",
+  "descripcion": "Las tres IA buscan en internet gratis, pero cada una brilla en algo: Perplexity muestra las fuentes numeradas, Gemini se apoya en Google y puede verificar su respuesta, y ChatGPT explica y ordena muy bien. Sea cual sea, abre las fuentes antes de creer un dato. 🔎",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#Gemini",
+    "#Perplexity",
+    "#Comparativa",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "¿Cuál busca",
+        "mejor en internet?"
+      ],
+      "pill": "ChatGPT vs Gemini vs Perplexity",
+      "say": "ChatGPT, Gemini o Perplexity: ¿cuál usar para buscar información? Las tres buscan en internet gratis, pero cada una brilla en algo distinto."
+    },
+    {
+      "type": "list",
+      "badge": "PERPLEXITY",
+      "title": [
+        "Ideal para",
+        "ver fuentes"
+      ],
+      "items": [
+        "Fuentes numeradas",
+        "en cada respuesta",
+        "Bueno para investigar"
+      ],
+      "say": "Perplexity: ideal si quieres ver de dónde sale cada dato. Cada respuesta trae sus fuentes numeradas, y puedes abrirlas con un toque."
+    },
+    {
+      "type": "list",
+      "badge": "GEMINI",
+      "title": [
+        "Ideal para lo",
+        "de Google"
+      ],
+      "items": [
+        "Se apoya en Google",
+        "Botón para verificar",
+        "la respuesta"
+      ],
+      "say": "Gemini: se apoya en Google, y tiene un botón para verificar la respuesta con la búsqueda. Útil para lugares, noticias y datos del día."
+    },
+    {
+      "type": "list",
+      "badge": "CHATGPT",
+      "title": [
+        "Ideal para",
+        "explicar y ordenar"
+      ],
+      "items": [
+        "Resume y compara",
+        "Tablas y listas claras"
+      ],
+      "say": "ChatGPT: también busca en la web, y es muy bueno para explicar, resumir y ordenar lo que encuentra en tablas o listas. Ideal para comparar opciones."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Abre siempre",
+        "las fuentes"
+      ],
+      "items": [
+        "La IA también se equivoca",
+        "Confirma datos importantes"
+      ],
+      "say": "Ojo: las tres pueden equivocarse. Abre las fuentes antes de creer un dato importante, sobre todo precios, fechas y salud."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
