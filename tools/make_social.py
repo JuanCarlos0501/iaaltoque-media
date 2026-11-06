@@ -109,8 +109,8 @@ def example(n, total):
     return frame(1080, 1350, body, n, total)
 
 
-def build_carousels():
-    for slug, slides in CARRUSELES.items():
+def build_carousels(carruseles=None, outdir=None):
+    for slug, slides in (carruseles or CARRUSELES).items():
         n = len(slides)
         for i, s in enumerate(slides, 1):
             k = s[0]
@@ -120,7 +120,7 @@ def build_carousels():
                 svg = card(s[1], s[2], "", i, n, prompt_box(s[3], 560))
             elif k == "example": svg = example(i, n)
             else: svg = cta(n)
-            render(svg, ROOT / "social/carruseles" / slug / f"{i:02d}.jpg")
+            render(svg, (outdir or ROOT / "social/carruseles") / slug / f"{i:02d}.jpg")
 
 
 HISTORIAS = [
@@ -130,6 +130,7 @@ HISTORIAS = [
     ("h_lun", "Arranca la semana", "Con un truco de IA nuevo"),
     ("h_mar", "Martes de IA", "Hoy hay reel nuevo"),
     ("h_mie", "Mitad de semana", "Un atajo más con IA"),
+    ("h_jue", "Jueves de IA", "Un truco nuevo te espera"),
 ]
 
 
@@ -148,4 +149,14 @@ def build_stories():
 
 
 if __name__ == "__main__":
-    build_carousels(); build_stories()
+    # Uso: python3 tools/make_social.py                -> carruseles de ejemplo + historias
+    #      python3 tools/make_social.py spec.json      -> solo los carruseles del JSON
+    # spec.json: {"c04_slug": [["cover", "Título\\nlínea 2", "subtítulo"],
+    #                          ["card", "1", "Encabezado", "texto\\ncon saltos"],
+    #                          ["prompt", "1", "Encabezado", "prompt\\ncon saltos"],
+    #                          ["cta"]]}
+    import json
+    if len(sys.argv) > 1:
+        build_carousels({k: [tuple(x) for x in v] for k, v in json.load(open(sys.argv[1])).items()})
+    else:
+        build_carousels(); build_stories()
