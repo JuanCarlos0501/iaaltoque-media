@@ -24,8 +24,16 @@ ENTRADA, EDITADOS, PUBLICADOS, ESTADOS = (BASE / "1 Entrada", BASE / "2 Editados
 TMP = H / "_diario"
 HOY = datetime.date.today().isoformat()
 VF = ("scale=1080:1920:flags=bilinear,zscale=t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,"
-      "tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p,fps=30")
-VF_SDR = "scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,format=yuv420p,fps=30"
+      "tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p,fps=30," + "{PRO}")
+# Clips no HDR (o grabados en horizontal): fondo desenfocado del mismo clip, sin barras negras.
+VF_SDR = ("split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:2[bg];"
+          "[b]scale=1080:1920:force_original_aspect_ratio=decrease[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,"
+          "format=yuv420p,fps=30,{PRO}")
+# Acabado profesional suave: un poco más de contraste y color (sin "filtro"), nitidez fina, sin ruido.
+PRO = "eq=contrast=1.05:saturation=1.08:gamma=0.98,hqdn3d=1.5:1.5:3:3,unsharp=5:5:0.45:3:3:0"
+VF, VF_SDR = VF.replace("{PRO}", PRO), VF_SDR.replace("{PRO}", PRO)
+# Audio: quita retumbe y ruido de fondo, nivela a -16 LUFS (estándar de redes) con picos ≤ -1.5 dB.
+AF = "highpass=f=80,afftdn=nf=-25,acompressor=threshold=-20dB:ratio=2.5:attack=10:release=200,loudnorm=I=-16:TP=-1.5:LRA=9,aresample=48000"
 PARTE = 14
 
 
@@ -89,7 +97,7 @@ def cmd_unir(nombre, servicio):
     sh("ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", str(lista), "-c", "copy", str(v))
     av = TMP / f"{f.stem}_av.mp4"
     sh("ffmpeg", "-v", "error", "-y", "-i", str(v), "-i", str(f), "-map", "0:v", "-map", "1:a?",
-       "-af", "loudnorm=I=-16:TP=-1.5,aresample=48000", "-ac", "2", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k",
+       "-af", AF, "-ac", "2", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k",
        "-shortest", str(av))
     c, texto = cierre(servicio)
     l2 = TMP / f"{f.stem}_final.txt"
