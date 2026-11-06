@@ -1,0 +1,82 @@
+{
+  "id": "reel_06",
+  "titulo": "Estudia con fichas y cuestionarios gratis en NotebookLM (Gemini Notebook)",
+  "descripcion": "Sube tus apuntes o un PDF a NotebookLM (ahora se llama Gemini Notebook) y en el panel Studio crea fichas y cuestionarios hechos solo con tu material. Elige la dificultad, guíalo con una instrucción y repasa hasta dominarlo. 📚",
+  "hashtags": [
+    "#IA",
+    "#NotebookLM",
+    "#GeminiNotebook",
+    "#Estudiar",
+    "#TrucosIA",
+    "#Estudiantes",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tus apuntes",
+        "en fichas de estudio"
+      ],
+      "pill": "Gratis con NotebookLM",
+      "say": "¿Tienes examen? Convierte tus apuntes en fichas y cuestionarios en segundos, gratis, con NotebookLM, que ahora se llama Gemini Notebook."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Sube tu",
+        "material"
+      ],
+      "lines": [
+        "PDF, apuntes, web o video",
+        "Crea un cuaderno nuevo"
+      ],
+      "say": "Primero, crea un cuaderno nuevo y sube tu material: un PDF, tus apuntes, una página web o un video."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Abre el",
+        "panel Studio"
+      ],
+      "lines": [
+        "Toca Tarjetas didácticas",
+        "o Cuestionario"
+      ],
+      "say": "Luego, abre el panel Studio, que está a la derecha, y elige tarjetas didácticas para memorizar, o cuestionario para ponerte a prueba."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Ajusta antes",
+        "de crear"
+      ],
+      "lines": [
+        "Dificultad: fácil,",
+        "media o difícil",
+        "Añade una instrucción"
+      ],
+      "say": "Antes de crearlas, elige la dificultad: fácil, media o difícil. Y escribe una instrucción, por ejemplo: solo el capítulo tres."
+    },
+    {
+      "type": "list",
+      "badge": "VENTAJA",
+      "title": [
+        "Solo usa",
+        "tus fuentes"
+      ],
+      "items": [
+        "Preguntas de tu material",
+        "Compártelo con un enlace"
+      ],
+      "say": "Lo mejor: todo sale solo de tus fuentes, nada inventado de otro lado. Repasa las veces que quieras, y compártelo con tus compañeros con un enlace."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}

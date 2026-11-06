@@ -206,10 +206,11 @@ def main():
 
     cap_png = []
     for i, (_, _, txt) in enumerate(cap_list):
-        w = max(300, int(len(txt) * 33 + 90))
+        fs = min(62, int(62 * 25 / max(len(txt), 1)))  # subtítulos largos: letra más chica para no salir del cuadro
+        w = min(980, max(300, int(len(txt) * 33 * fs / 62 + 90)))
         svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">'
                f'<rect x="{500 - w/2:.0f}" y="15" width="{w}" height="120" rx="30" fill="#000" opacity="0.72"/>'
-               f'<text x="500" y="98" text-anchor="middle" {FONT} font-weight="700" font-size="62" fill="{WHITE}">{esc(txt)}</text></svg>')
+               f'<text x="500" y="{75 + fs * 0.37:.0f}" text-anchor="middle" {FONT} font-weight="700" font-size="{fs}" fill="{WHITE}">{esc(txt)}</text></svg>')
         p = WORK / f"c{i:03d}.png"; svg2png(svg, p); cap_png.append(p)
 
     parts = []
