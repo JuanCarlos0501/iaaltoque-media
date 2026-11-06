@@ -30,8 +30,8 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
    En la automatización diaria este paso lo hace la tarea "IA al Toque - programar en Metricool" (8:21 y 11:21 Lima), no la de producción.
 
 ## Automatización diaria (3 reels)
-- "IA al Toque - crear reels (Code)": 6:34 Lima, entorno de nube **IA al Toque** (tiene `api.elevenlabs.io` permitido y el secreto de red con la clave). Pasos 1–6 y 8 para tres reels: A "video listo, falta programar 10:00", B "…12:00", C "…18:00".
+- "IA al Toque - producir 3 reels (nube)" (trig_01KaKZ4hFZPEboqxvXspRVsQ): 6:34 Lima, entorno de nube **IA al Toque** (api.elevenlabs.io permitido, secreto de red con la clave) y con el conector Claude_Code_Remote: el repo llega clonado y el push a main funciona (probado el 6 nov). Pasos 1–6 y 8 para tres reels: A "video listo, falta programar 10:00", B "…12:00", C "…18:00".
 - "IA al Toque - programar en Metricool": 8:21 y 11:21 Lima. Programa en Metricool a las 10:00, 12:00 y 18:00 y avisa por push.
-- Las tareas de tipo Chat corren en el entorno por defecto, que bloquea ElevenLabs: la producción debe ser una tarea de Code en el entorno IA al Toque.
+- Ojo: una tarea de producción sin el repo autorizado falla con 403 al hacer push (pasó el 6 nov con "crear reels (Code)", ya desactivada). Las tareas de tipo Chat corren en el entorno por defecto, que bloquea ElevenLabs.
 8. Añadir la línea del reel a `reels/historial.md` y hacer push.
 9. Avisar al usuario (PushNotification + mensaje): título del reel, que sale a las 10:00 y el enlace en Metricool por si quiere editarlo antes.
