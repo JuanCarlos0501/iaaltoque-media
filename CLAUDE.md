@@ -11,6 +11,10 @@ Documento de marca y guiones: https://claude.ai/artifact/DjzGM379bGwBbW6b371mT1
 - Verificar con búsqueda web cualquier función, precio o dato de una herramienta. Nada inventado.
 - No repetir temas de `reels/historial.md`. Alternar formatos (pasos, lista, comparativa, caso real).
 - Nada de marcas o personajes ajenos dibujados; solo Kusi.
+- Ganchos (lo que más funcionó en TikTok, datos de Metricool al 6 nov: "Edita videos sin saber editar" 486 vistas, "Crea tu propio asistente gratis" 214; los tutoriales sueltos de una herramienta, <70):
+  - El `hook` y el `titulo` prometen un resultado sorprendente o un "sin saber": "Haz X sin saber X", "Tu propio asistente/tutor/editor gratis", "Deja que la IA haga X por ti".
+  - Habla del beneficio para la persona, no del nombre de la herramienta: la herramienta se presenta en la segunda escena.
+  - Al menos 2 de los 3 reels del día con este tipo de gancho; el tercero puede ser comparativa o caso real con gancho de curiosidad ("¿Cuál es mejor para…?").
 
 ## Pasos de cada día
 1. Elegir tema: revisar `reels/historial.md`; buscar en la web qué está en tendencia en IA práctica en español.
