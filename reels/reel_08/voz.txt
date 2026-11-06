@@ -1,0 +1,11 @@
+¿Y si Gemini no te diera la respuesta, sino que te enseñara como un profesor? Te muestro un caso real con su modo Aprendizaje guiado.
+
+Primero, abre Gemini en la web o en la app, y elige Aprendizaje guiado junto a la barra de chat. Es gratis.
+
+El caso: Ana tiene examen de fracciones el viernes. Escribe: tengo examen el viernes, y no entiendo cómo sumar fracciones con distinto denominador.
+
+En lugar de resolverlo, Gemini le explica paso a paso, le hace preguntas para ver si entendió, y al final le pone una prueba corta.
+
+Tip: sube una foto de tu ejercicio, y pide más práctica hasta que te salga solo. Y si no entiendes algo, pídele que te lo explique de otra forma.
+
+Sigue a IA al Toque, para más trucos como este.

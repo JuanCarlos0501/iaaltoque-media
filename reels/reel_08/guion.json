@@ -1,0 +1,84 @@
+{
+  "id": "reel_08",
+  "titulo": "Gemini te enseña como un tutor: modo Aprendizaje guiado (caso real)",
+  "descripcion": "Caso real: preparar un examen de fracciones con el modo Aprendizaje guiado de Gemini. En vez de darte la respuesta, te explica paso a paso, te hace preguntas y te pone pruebas cortas. Es gratis en la web y en la app. 🎓",
+  "hashtags": [
+    "#IA",
+    "#Gemini",
+    "#AprendizajeGuiado",
+    "#Estudiar",
+    "#Estudiantes",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Gemini como",
+        "tu profesor"
+      ],
+      "pill": "Caso real: Aprendizaje guiado",
+      "say": "¿Y si Gemini no te diera la respuesta, sino que te enseñara como un profesor? Te muestro un caso real con su modo Aprendizaje guiado."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Activa el",
+        "modo"
+      ],
+      "lines": [
+        "Abre Gemini, web o app",
+        "Elige Aprendizaje guiado",
+        "junto a la barra de chat"
+      ],
+      "say": "Primero, abre Gemini en la web o en la app, y elige Aprendizaje guiado junto a la barra de chat. Es gratis."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Cuéntale",
+        "tu caso"
+      ],
+      "lines": [
+        "Tengo examen de fracciones",
+        "el viernes y no entiendo",
+        "cómo sumarlas"
+      ],
+      "say": "El caso: Ana tiene examen de fracciones el viernes. Escribe: tengo examen el viernes, y no entiendo cómo sumar fracciones con distinto denominador."
+    },
+    {
+      "type": "list",
+      "badge": "RESULTADO",
+      "title": [
+        "Te guía",
+        "paso a paso"
+      ],
+      "items": [
+        "Te hace preguntas",
+        "Explica con imágenes",
+        "Pruebas cortas al final"
+      ],
+      "say": "En lugar de resolverlo, Gemini le explica paso a paso, le hace preguntas para ver si entendió, y al final le pone una prueba corta."
+    },
+    {
+      "type": "list",
+      "badge": "TIP",
+      "title": [
+        "Sube tu",
+        "propia tarea"
+      ],
+      "items": [
+        "Foto de un ejercicio",
+        "Pide más práctica"
+      ],
+      "say": "Tip: sube una foto de tu ejercicio, y pide más práctica hasta que te salga solo. Y si no entiendes algo, pídele que te lo explique de otra forma."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
