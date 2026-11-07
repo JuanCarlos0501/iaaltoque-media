@@ -1,0 +1,84 @@
+{
+  "id": "reel_11",
+  "titulo": "Tu propio entrenador de entrevistas gratis con la voz de ChatGPT (caso real)",
+  "descripcion": "Caso real: Carlos practica una entrevista de trabajo hablando con ChatGPT. Activa el modo de voz, pídele que actúe como reclutador y recibe consejos al final. Gratis, con límite de uso. 💼",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#EntrevistaDeTrabajo",
+    "#Empleo",
+    "#ModoVoz",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu entrenador de",
+        "entrevistas gratis"
+      ],
+      "pill": "Caso real",
+      "say": "¿Tienes una entrevista de trabajo y te pones nervioso? Practica con tu propio entrenador, gratis. Te muestro el caso de Carlos."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Activa",
+        "la voz"
+      ],
+      "lines": [
+        "Abre la app de ChatGPT",
+        "Toca el ícono de voz",
+        "junto a la barra"
+      ],
+      "say": "Carlos abre la app de ChatGPT y toca el ícono de voz, al lado de la barra de chat. La versión gratis tiene un límite de uso, pero alcanza."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Dale",
+        "el papel"
+      ],
+      "lines": [
+        "Actúa como reclutador",
+        "para un puesto de ventas",
+        "Una pregunta a la vez"
+      ],
+      "say": "Luego le dice: actúa como reclutador para un puesto de ventas. Hazme una pregunta a la vez, y al final dime qué mejorar."
+    },
+    {
+      "type": "list",
+      "badge": "RESULTADO",
+      "title": [
+        "Practica",
+        "en voz alta"
+      ],
+      "items": [
+        "Preguntas como en la real",
+        "Respondes hablando",
+        "Consejos al final"
+      ],
+      "say": "ChatGPT le hace preguntas como en una entrevista real, por ejemplo: cuéntame de ti, o por qué quieres este puesto. Carlos responde en voz alta, y al terminar recibe consejos."
+    },
+    {
+      "type": "list",
+      "badge": "TIP",
+      "title": [
+        "Hazlo",
+        "a tu medida"
+      ],
+      "items": [
+        "Pega el aviso de trabajo",
+        "Repite hasta estar seguro"
+      ],
+      "say": "Tip: pega primero el aviso de trabajo, para que las preguntas sean de ese puesto. Y repite la práctica hasta que te sientas seguro."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
