@@ -1,0 +1,19 @@
+{
+  "id": "reel_09",
+  "titulo": "Crea tu propia app sin saber programar (gratis con Gemini Canvas)",
+  "descripcion": "Haz tu propia app sin saber programar: abre Gemini, toca Canvas, describe lo que quieres y la IA escribe el código por ti. Pruébala, pide cambios y compártela con un enlace. Gratis con tu cuenta de Google. 📱",
+  "hashtags": ["#IA", "#Gemini", "#GeminiCanvas", "#SinProgramar", "#CreaTuApp", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Crea tu app", "sin programar"], "pill": "Gratis en 1 minuto",
+     "say": "¿Quieres tu propia app, pero no sabes programar? Deja que la IA la haga por ti, gratis y en un minuto."},
+    {"type": "step", "n": 1, "title": ["Abre", "Canvas"], "lines": ["Entra a Gemini, web o app", "Toca Canvas debajo", "de la barra de chat"],
+     "say": "Te presento Canvas de Gemini. Entra a Gemini, en la web o en la app, y toca Canvas, debajo de la barra de chat."},
+    {"type": "step", "n": 2, "title": ["Describe", "tu app"], "lines": ["Hazme una app para", "dividir la cuenta entre", "amigos, con propina"],
+     "say": "Ahora describe lo que quieres, con detalle. Por ejemplo: hazme una app para dividir la cuenta del restaurante entre amigos, con la propina incluida."},
+    {"type": "step", "n": 3, "title": ["Pruébala", "y mejórala"], "lines": ["Úsala ahí mismo", "Pide cambios: botones", "más grandes, otro color"],
+     "say": "En segundos, Gemini escribe el código y te muestra la app funcionando. Pruébala ahí mismo y pide cambios: botones más grandes, otro color o modo oscuro."},
+    {"type": "list", "badge": "TIP", "title": ["Compártela", "con un enlace"], "items": ["Toca Compartir", "Envía el enlace", "Nada que instalar"],
+     "say": "Tip: toca Compartir y envía el enlace, así tus amigos la usan sin instalar nada. Ojo: con cuentas del trabajo o del colegio quizás no puedas compartirla."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

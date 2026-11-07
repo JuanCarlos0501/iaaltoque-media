@@ -1,0 +1,11 @@
+¿Quieres tu propia app, pero no sabes programar? Deja que la IA la haga por ti, gratis y en un minuto.
+
+Te presento Canvas de Gemini. Entra a Gemini, en la web o en la app, y toca Canvas, debajo de la barra de chat.
+
+Ahora describe lo que quieres, con detalle. Por ejemplo: hazme una app para dividir la cuenta del restaurante entre amigos, con la propina incluida.
+
+En segundos, Gemini escribe el código y te muestra la app funcionando. Pruébala ahí mismo y pide cambios: botones más grandes, otro color o modo oscuro.
+
+Tip: toca Compartir y envía el enlace, así tus amigos la usan sin instalar nada. Ojo: con cuentas del trabajo o del colegio quizás no puedas compartirla.
+
+Sigue a IA al Toque, para más trucos como este.
