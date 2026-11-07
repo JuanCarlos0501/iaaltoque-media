@@ -1,0 +1,19 @@
+{
+  "id": "reel_10",
+  "titulo": "Edita tus fotos sin saber Photoshop: 3 ideas con Gemini (gratis)",
+  "descripcion": "Edita tus fotos sin saber Photoshop: sube la foto a Gemini y escribe lo que quieres. 3 ideas: cambiar el fondo, borrar lo que sobra y revivir fotos antiguas. Gratis en la app, con límites diarios; las imágenes llevan marca de agua de IA. 🖼️",
+  "hashtags": ["#IA", "#Gemini", "#NanoBanana", "#EditarFotos", "#SinPhotoshop", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Edita tus fotos", "sin Photoshop"], "pill": "3 ideas gratis",
+     "say": "Edita tus fotos como un profesional, sin saber Photoshop. Solo escribe lo que quieres, y la IA lo hace por ti."},
+    {"type": "step", "n": 1, "title": ["Sube", "tu foto"], "lines": ["Abre la app de Gemini", "Toca + y sube la foto", "Escribe qué cambiar"],
+     "say": "Abre la app de Gemini, que es gratis, toca el botón más y sube tu foto. Luego escribe qué quieres cambiar."},
+    {"type": "list", "badge": "IDEA 1", "title": ["Cambia", "el fondo"], "items": ["Pon una playa de fondo", "Mantén mi cara igual"],
+     "say": "Idea uno: cambia el fondo. Escribe: pon de fondo una playa al atardecer, y mantén mi cara igual."},
+    {"type": "list", "badge": "IDEA 2", "title": ["Borra lo", "que sobra"], "items": ["Quita a quien sale atrás", "Quita los cables"],
+     "say": "Idea dos: borra lo que sobra. Por ejemplo: quita a la persona que aparece atrás, o esos cables que arruinan el paisaje."},
+    {"type": "list", "badge": "IDEA 3", "title": ["Revive", "fotos viejas"], "items": ["Restaura esta foto", "Quita las manchas", "Dale color"],
+     "say": "Idea tres: revive fotos viejas. Sube la foto de tus abuelos y pide: restaura esta foto, quita las manchas y dale color. Ojo: las imágenes llevan una marca de agua de IA."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
