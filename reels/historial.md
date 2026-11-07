@@ -12,3 +12,4 @@
 | 08 | 2026-11-06 | Estudiar con el Aprendizaje guiado de Gemini (caso real) | programado 19:00 en Metricool |
 | 09 | 2026-11-07 | Crear tu propia app sin programar con Gemini Canvas (pasos) | video listo, falta programar 10:00 |
 | 10 | 2026-11-07 | Editar fotos sin Photoshop con Gemini (Nano Banana): 3 ideas (lista) | video listo, falta programar 12:00 |
+| 11 | 2026-11-07 | Practicar entrevistas de trabajo con el modo de voz de ChatGPT (caso real) | video listo, falta programar 18:00 |
