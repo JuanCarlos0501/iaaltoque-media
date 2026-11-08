@@ -13,3 +13,4 @@
 | 09 | 2026-11-07 | Crear tu propia app sin programar con Gemini Canvas (pasos) | programado 10:00 en Metricool |
 | 10 | 2026-11-07 | Editar fotos sin Photoshop con Gemini (Nano Banana): 3 ideas (lista) | programado 12:00 en Metricool |
 | 11 | 2026-11-07 | Practicar entrevistas de trabajo con el modo de voz de ChatGPT (caso real) | programado 18:00 en Metricool |
+| 12 | 2026-11-08 | Resumir videos de YouTube sin verlos con Gemini (pasos) | video listo, falta programar 10:00 |

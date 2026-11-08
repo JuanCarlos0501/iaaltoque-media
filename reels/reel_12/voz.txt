@@ -1,0 +1,11 @@
+¿Un video de una hora y no tienes tiempo de verlo? Deja que la inteligencia artificial lo vea por ti, y te diga lo importante en un minuto.
+
+Primero, abre el video en YouTube. Toca Compartir, y luego Copiar enlace.
+
+Ahora abre Gemini, la inteligencia artificial gratis de Google. Pega el enlace y escribe: resume este video en cinco puntos clave.
+
+Y sigue preguntando: cuál es el consejo principal, dame los pasos en una lista, o explícamelo más simple. Es como tener tus apuntes listos.
+
+Ojo: Gemini se guía por los subtítulos del video, así que si no los tiene, puede fallar. Y revisa siempre los datos importantes.
+
+Sigue a IA al Toque, para más trucos como este.

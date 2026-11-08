@@ -1,0 +1,84 @@
+{
+  "id": "reel_12",
+  "titulo": "Mira un video de 1 hora en 1 minuto, sin verlo (Gemini gratis)",
+  "descripcion": "Deja que la IA vea el video por ti: copia el enlace de YouTube, pégalo en Gemini y pide un resumen en 5 puntos. Gratis. Ojo: se guía por los subtítulos del video. ⏱️",
+  "hashtags": [
+    "#IA",
+    "#Gemini",
+    "#YouTube",
+    "#Productividad",
+    "#Estudiar",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Mira 1 hora",
+        "en 1 minuto"
+      ],
+      "pill": "Sin ver el video",
+      "say": "¿Un video de una hora y no tienes tiempo de verlo? Deja que la inteligencia artificial lo vea por ti, y te diga lo importante en un minuto."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Copia",
+        "el enlace"
+      ],
+      "lines": [
+        "Abre el video en YouTube",
+        "Toca Compartir",
+        "y luego Copiar enlace"
+      ],
+      "say": "Primero, abre el video en YouTube. Toca Compartir, y luego Copiar enlace."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Pégalo",
+        "en Gemini"
+      ],
+      "lines": [
+        "Abre Gemini, es gratis",
+        "Pega el enlace",
+        "Pide: resúmelo en 5 puntos"
+      ],
+      "say": "Ahora abre Gemini, la inteligencia artificial gratis de Google. Pega el enlace y escribe: resume este video en cinco puntos clave."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Pregúntale",
+        "lo que quieras"
+      ],
+      "lines": [
+        "¿Cuál es el consejo clave?",
+        "Dame los pasos en lista",
+        "Explícamelo simple"
+      ],
+      "say": "Y sigue preguntando: cuál es el consejo principal, dame los pasos en una lista, o explícamelo más simple. Es como tener tus apuntes listos."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Ten en",
+        "cuenta"
+      ],
+      "items": [
+        "Usa los subtítulos",
+        "Revisa los datos clave"
+      ],
+      "say": "Ojo: Gemini se guía por los subtítulos del video, así que si no los tiene, puede fallar. Y revisa siempre los datos importantes."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
