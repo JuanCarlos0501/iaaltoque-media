@@ -15,3 +15,4 @@
 | 11 | 2026-11-07 | Practicar entrevistas de trabajo con el modo de voz de ChatGPT (caso real) | programado 18:00 en Metricool |
 | 12 | 2026-11-08 | Resumir videos de YouTube sin verlos con Gemini (pasos) | video listo, falta programar 10:00 |
 | 13 | 2026-11-08 | Traductor en tiempo real en tus audífonos con Google Traductor: 3 usos (lista) | video listo, falta programar 12:00 |
+| 14 | 2026-11-08 | Gemini Canvas vs Gamma para hacer presentaciones (comparativa) | video listo, falta programar 18:00 |

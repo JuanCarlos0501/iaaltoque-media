@@ -1,0 +1,83 @@
+{
+  "id": "reel_14",
+  "titulo": "¿Cuál es mejor para hacer presentaciones con IA: Gemini o Gamma?",
+  "descripcion": "Comparativa: Gemini (Canvas) te arma las diapositivas y las pasa a Google Slides; Gamma da 400 créditos gratis al registrarte y exporta a PowerPoint con marca de agua. ¿Cuál te sirve más? 📊",
+  "hashtags": [
+    "#IA",
+    "#Gemini",
+    "#Gamma",
+    "#Presentaciones",
+    "#Estudiantes",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "¿Cuál es mejor",
+        "para presentaciones?"
+      ],
+      "pill": "Comparativa",
+      "say": "¿Tienes que exponer mañana y no tienes ni una diapositiva? Te comparo dos inteligencias artificiales que te hacen la presentación."
+    },
+    {
+      "type": "list",
+      "badge": "OPCIÓN 1",
+      "title": [
+        "Gemini",
+        "Canvas"
+      ],
+      "items": [
+        "Escribe tu tema o archivo",
+        "Arma las diapositivas",
+        "Pásala a Google Slides"
+      ],
+      "say": "Opción uno: Gemini. Abre Canvas, escribe el tema o sube tu documento, y te arma las diapositivas con imágenes. Luego las pasas a Google Slides para editarlas."
+    },
+    {
+      "type": "list",
+      "badge": "OPCIÓN 2",
+      "title": [
+        "Gamma",
+        "al detalle"
+      ],
+      "items": [
+        "400 créditos gratis",
+        "Diseños muy vistosos",
+        "Baja PowerPoint o PDF"
+      ],
+      "say": "Opción dos: Gamma. Al registrarte te da cuatrocientos créditos gratis, que no se recargan. Sus diseños son muy vistosos, y puedes bajarlos en PowerPoint o PDF, con su marca de agua."
+    },
+    {
+      "type": "list",
+      "badge": "VEREDICTO",
+      "title": [
+        "¿Cuál",
+        "elijo?"
+      ],
+      "items": [
+        "Editar en equipo: Gemini",
+        "Impactar rápido: Gamma"
+      ],
+      "say": "Mi veredicto: si quieres editar y trabajar en equipo, usa Gemini. Si quieres algo llamativo en minutos, prueba Gamma."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Antes de",
+        "exponer"
+      ],
+      "items": [
+        "Revisa cada dato",
+        "Ponle tu toque final"
+      ],
+      "say": "Y en las dos, revisa cada dato antes de exponer, porque la inteligencia artificial a veces se equivoca."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
