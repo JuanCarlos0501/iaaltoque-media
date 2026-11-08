@@ -1,0 +1,29 @@
+{
+  "c04_prompts_negocio": [
+    ["cover", "Tu asistente\nde ventas\ngratis", "5 prompts para tu negocio o emprendimiento"],
+    ["prompt", "1", "Post para redes", "Escribe 3 ideas de post para\nInstagram de mi negocio de\n[rubro] en [ciudad]. Tono\ncercano y con emojis."],
+    ["prompt", "2", "Describir producto", "Escribe una descripción corta\ny atractiva de [producto]:\nbeneficio, precio [S/ X] y\nuna frase para comprar ya."],
+    ["prompt", "3", "Responder reclamos", "Un cliente se queja de [motivo].\nEscribe una respuesta amable\npara WhatsApp que pida\ndisculpas y ofrezca solución."],
+    ["prompt", "4", "Armar una promo", "Propón 3 promociones para\nvender más [producto] esta\nsemana sin bajar mucho\nmi ganancia. Explica cada una."],
+    ["prompt", "5", "Mensaje a clientes", "Escribe un mensaje breve para\nmis clientes de WhatsApp\nanunciando [novedad], sin\nsonar a spam."],
+    ["cta"]
+  ],
+  "c05_errores_ia": [
+    ["cover", "5 errores\nque cometes\ncon la IA", "Y cómo evitarlos desde hoy"],
+    ["card", "1", "Creerle todo", "La IA puede inventar datos\ncon total seguridad.\n\nPídele fuentes y revisa\nnombres, cifras y fechas\nantes de usarlos."],
+    ["card", "2", "Dar datos\nprivados", "No pegues contraseñas, DNI\nni números de tarjeta.\n\nEn ChatGPT, por defecto tus\nchats pueden usarse para\nentrenar sus modelos."],
+    ["card", "3", "No revisar tu\nprivacidad", "En ChatGPT ve a Configuración\n> Controles de datos y apaga\n\"Mejorar el modelo para todos\".\n\nO usa el Chat temporal: no se\nguarda en tu historial."],
+    ["card", "4", "Pedir en una\nsola palabra", "\"Hazme un post\" da\nrespuestas genéricas.\n\nDile para quién es, el tono\ny el formato que quieres."],
+    ["card", "5", "Quedarte con\nla primera", "La primera respuesta es\nun borrador.\n\nPide: \"más corto\", \"otro\ntono\", \"dame 3 opciones\"."],
+    ["cta"]
+  ],
+  "c06_cv_con_ia": [
+    ["cover", "Haz tu CV\nsin saber\nredactar", "La IA lo escribe contigo en 4 pasos"],
+    ["prompt", "1", "Cuéntale tu\nexperiencia", "Te paso mi experiencia en\ndesorden: [trabajos, fechas,\ntareas]. Ordénala como CV\nen español, claro y breve."],
+    ["prompt", "2", "Logros, no\ntareas", "Reescribe cada tarea como\nun logro con verbo de acción\ny un resultado medible.\nNo inventes cifras."],
+    ["prompt", "3", "Adáptalo al\npuesto", "Este es el aviso de trabajo:\n[pega el aviso]. Ajusta mi CV\npara resaltar lo que piden,\nsin inventar experiencia."],
+    ["prompt", "4", "Tu perfil en\n3 líneas", "Escribe un perfil profesional\nde 3 líneas para el inicio de\nmi CV, con mis 2 fortalezas\nprincipales."],
+    ["card", "!", "Antes de\nenviarlo", "Revisa fechas, nombres de\nempresas y datos de contacto.\n\nLa IA redacta; la información\nreal la pones tú."],
+    ["cta"]
+  ]
+}
