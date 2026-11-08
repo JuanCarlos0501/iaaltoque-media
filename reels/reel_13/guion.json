@@ -1,0 +1,85 @@
+{
+  "id": "reel_13",
+  "titulo": "Tu propio traductor gratis en tus audífonos (traducción en vivo)",
+  "descripcion": "Convierte cualquier audífono en un traductor en tiempo real con la Traducción en vivo de Google Traductor: más de 70 idiomas, Android y iPhone. 3 usos que te salvan. Llega por países: actualiza la app. 🎧🌎",
+  "hashtags": [
+    "#IA",
+    "#GoogleTraductor",
+    "#Traductor",
+    "#Viajes",
+    "#Idiomas",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu traductor",
+        "en tus audífonos"
+      ],
+      "pill": "Gratis",
+      "say": "¿Y si tus audífonos te tradujeran lo que te dicen en otro idioma, en tiempo real? Se puede, y es gratis."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Activa la",
+        "traducción en vivo"
+      ],
+      "lines": [
+        "Conecta tus audífonos",
+        "Abre Google Traductor",
+        "Toca Traducción en vivo",
+        "Elige los dos idiomas"
+      ],
+      "say": "Conecta tus audífonos, abre la app Google Traductor y toca Traducción en vivo. Elige los dos idiomas, y la app detecta sola cuál se está hablando."
+    },
+    {
+      "type": "list",
+      "badge": "3 USOS",
+      "title": [
+        "Úsalo",
+        "para esto"
+      ],
+      "items": [
+        "De viaje: pide y pregunta",
+        "Atiende a un cliente",
+        "Entiende una charla"
+      ],
+      "say": "Úsalo de viaje, para pedir comida o preguntar una dirección. En el trabajo, para atender a un cliente que habla inglés. O para entender una charla en otro idioma."
+    },
+    {
+      "type": "list",
+      "badge": "DATO",
+      "title": [
+        "Funciona",
+        "con cualquiera"
+      ],
+      "items": [
+        "Más de 70 idiomas",
+        "Android y iPhone",
+        "Cualquier audífono"
+      ],
+      "say": "Funciona con cualquier audífono, en Android y en iPhone, y en más de setenta idiomas, incluido el español. No necesitas comprar nada especial."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Antes",
+        "de viajar"
+      ],
+      "items": [
+        "Actualiza la app",
+        "Puede no estar en tu país"
+      ],
+      "say": "Ojo: actualiza la app antes de viajar, porque la función está llegando por países, y puede que todavía no esté en el tuyo."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
