@@ -1,0 +1,15 @@
+{
+  "id": "reel_16",
+  "titulo": "Tu propio asistente que ve lo que tú ves: 3 usos gratis de Gemini Live con la cámara",
+  "descripcion": "Abre Gemini Live, activa la cámara y conversa con la IA sobre lo que tienes delante: ordenar tu casa, combinar ropa o arreglar cosas. Gratis en Android y iPhone 📷",
+  "hashtags": ["#IA", "#Gemini", "#GeminiLive", "#TrucosIA", "#Productividad", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu asistente que", "ve lo que tú ves"], "pill": "Gratis", "say": "¿Y si tuvieras un asistente que ve lo que tú ves y te ayuda en voz alta? Lo tienes gratis en tu celular. Te doy tres usos."},
+    {"type": "step", "n": 1, "title": ["Actívalo", "así"], "lines": ["Abre la app de Gemini", "Toca el botón de Live", "Activa la cámara"], "say": "Abre la app de Gemini, en Android o iPhone. Toca el botón de Live y luego el ícono de la cámara. Ahora la inteligencia artificial ve y te escucha."},
+    {"type": "list", "badge": "USO 1", "title": ["Ordena", "tu casa"], "items": ["Enfoca el cajón", "Pide cómo ordenarlo"], "say": "Uno: ordenar tu casa. Enfoca ese cajón o estante desordenado y pregúntale cómo organizarlo. Te va guiando mientras lo haces."},
+    {"type": "list", "badge": "USO 2", "title": ["Combina", "tu ropa"], "items": ["Muestra una prenda", "Pregunta con qué va"], "say": "Dos: combinar tu ropa. Muéstrale una prenda de tu armario y pregúntale con qué la combinas para una fiesta."},
+    {"type": "list", "badge": "USO 3", "title": ["Arregla", "cosas"], "items": ["Enfoca lo que falla", "Sigue sus pasos"], "say": "Tres: arreglar cosas de la casa. Enfoca esa silla que rechina y pregúntale qué hacer. Te explica paso a paso."},
+    {"type": "list", "badge": "OJO", "title": ["Un", "consejo"], "items": ["Habla con naturalidad", "Puedes interrumpirla"], "say": "Háblale como a una persona, y si se equivoca, interrúmpela y corrígela."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
