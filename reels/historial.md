@@ -18,3 +18,4 @@
 | 14 | 2026-11-08 | Gemini Canvas vs Gamma para hacer presentaciones (comparativa) | programado 18:00 en Metricool |
 | 15 | 2026-11-09 | Crear tu propia canción sin saber de música con Gemini (Crear música / Lyria) (pasos) | video listo, falta programar 10:00 |
 | 16 | 2026-11-09 | Tu asistente que ve lo que tú ves: 3 usos de Gemini Live con la cámara (lista) | video listo, falta programar 12:00 |
+| 17 | 2026-11-09 | Dejar que la IA planee tu viaje con ChatGPT: fin de semana en Cusco (caso real) | video listo, falta programar 18:00 |

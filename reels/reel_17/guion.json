@@ -1,0 +1,14 @@
+{
+  "id": "reel_17",
+  "titulo": "Deja que la IA planee tu viaje por ti (caso real)",
+  "descripcion": "Caso real: Ana arma su fin de semana en Cusco con ChatGPT gratis. El truco está en el pedido: días, presupuesto, ritmo y qué no quieres. Y antes de pagar, verifica todo ✈️",
+  "hashtags": ["#IA", "#ChatGPT", "#Viajes", "#ViajarBarato", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Deja que la IA", "planee tu viaje"], "pill": "Caso real", "say": "¿Te da flojera organizar el viaje? Deja que la inteligencia artificial lo planee por ti. Te muestro cómo lo hizo Ana para su fin de semana en Cusco."},
+    {"type": "step", "n": 1, "title": ["Da todos", "los datos"], "lines": ["Destino y días", "Presupuesto total", "Ritmo y gustos"], "say": "Ana abre ChatGPT gratis y le da todos los datos: tres días en Cusco, su presupuesto total, que le gusta caminar tranquila y que no quiere madrugar."},
+    {"type": "step", "n": 2, "title": ["Pide plan", "por zonas"], "lines": ["Día por día", "Agrupado por zona", "Con tiempo de traslado"], "say": "Luego le pide un plan día por día, agrupado por zonas, para no cruzar la ciudad de ida y vuelta, y con tiempo para descansar."},
+    {"type": "step", "n": 3, "title": ["Ajusta", "el plan"], "lines": ["Cambia lo que no va", "Pide opciones baratas", "Arma la lista de equipaje"], "say": "Después lo ajusta: cambia lo que no le gusta, pide opciones más baratas para comer y una lista de qué llevar en la maleta."},
+    {"type": "list", "badge": "OJO", "title": ["Antes de", "pagar"], "items": ["Verifica horarios", "Confirma precios", "Revisa que el lugar exista"], "say": "Ojo: antes de pagar, Ana verifica horarios, precios y que cada lugar exista, porque la inteligencia artificial a veces inventa datos."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
