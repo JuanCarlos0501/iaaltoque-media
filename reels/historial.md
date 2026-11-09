@@ -16,3 +16,4 @@
 | 12 | 2026-11-08 | Resumir videos de YouTube sin verlos con Gemini (pasos) | programado 10:00 en Metricool |
 | 13 | 2026-11-08 | Traductor en tiempo real en tus audífonos con Google Traductor: 3 usos (lista) | programado 12:00 en Metricool |
 | 14 | 2026-11-08 | Gemini Canvas vs Gamma para hacer presentaciones (comparativa) | programado 18:00 en Metricool |
+| 15 | 2026-11-09 | Crear tu propia canción sin saber de música con Gemini (Crear música / Lyria) (pasos) | video listo, falta programar 10:00 |

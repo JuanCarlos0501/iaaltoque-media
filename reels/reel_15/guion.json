@@ -1,0 +1,15 @@
+{
+  "id": "reel_15",
+  "titulo": "Crea tu propia canción sin saber de música (gratis con Gemini)",
+  "descripcion": "Haz una canción con voz y portada sin saber cantar ni tocar nada: abre Gemini, elige Crear música y describe tu idea. Ideal para un cumpleaños o un saludo especial 🎶 (mayores de 18).",
+  "hashtags": ["#IA", "#Gemini", "#MusicaConIA", "#CrearCanciones", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Crea tu canción", "sin saber música"], "pill": "Gratis", "say": "¿Quieres regalar una canción y no sabes cantar ni tocar nada? Deja que la inteligencia artificial la componga por ti, en segundos."},
+    {"type": "step", "n": 1, "title": ["Abre", "Gemini"], "lines": ["App o gemini.google.com", "Toca Herramientas", "Elige Crear música"], "say": "Abre Gemini en la app o en la web. Toca Herramientas y elige Crear música. Es para mayores de dieciocho años."},
+    {"type": "step", "n": 2, "title": ["Describe", "tu canción"], "lines": ["Género y estilo", "Para quién es", "Qué debe decir"], "say": "Describe tu canción: por ejemplo, una cumbia alegre para el cumpleaños de mi mamá Rosa, que diga que es la mejor cocinera del barrio."},
+    {"type": "step", "n": 3, "title": ["O sube", "una foto"], "lines": ["Sube una foto o video", "Pide una canción", "que encaje con ella"], "say": "También puedes subir una foto o un video, y pedirle una canción que encaje con ese momento."},
+    {"type": "step", "n": 4, "title": ["Escucha", "y descarga"], "lines": ["Sale con voz y portada", "Pide cambios si quieres", "Descárgala y compártela"], "say": "En segundos te da la canción con voz y hasta una portada. Si no te convence, pide otro estilo. Luego la descargas y la compartes."},
+    {"type": "list", "badge": "OJO", "title": ["Antes de", "compartir"], "items": ["Lleva marca de IA", "Revisa bien la letra"], "say": "Ojo: cada canción lleva una marca invisible que indica que la hizo una inteligencia artificial."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
