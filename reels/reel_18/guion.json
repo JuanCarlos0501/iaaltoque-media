@@ -1,0 +1,95 @@
+{
+  "id": "reel_18",
+  "titulo": "Tu propio profe de inglés gratis en el celular (Google Traductor)",
+  "descripcion": "Google Traductor tiene un modo Práctica con IA: eliges tu nivel y tu meta, y practicas escuchar y hablar con situaciones reales. Está en beta y llega poco a poco según el país 🗣️",
+  "hashtags": [
+    "#IA",
+    "#AprenderIngles",
+    "#GoogleTraductor",
+    "#TrucosIA",
+    "#Ingles",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu profe de inglés",
+        "gratis"
+      ],
+      "pill": "En tu celular",
+      "say": "¿Quieres practicar inglés y no tienes con quién? Tu propio profe de inglés gratis ya está en tu celular."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Abre Google",
+        "Traductor"
+      ],
+      "lines": [
+        "Actualiza la app",
+        "Toca el botón Práctica"
+      ],
+      "say": "Es Google Traductor. Actualiza la app y toca el botón Práctica. Está en beta y, por ahora, no cuesta nada."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Elige nivel",
+        "y meta"
+      ],
+      "lines": [
+        "Básico, intermedio",
+        "o avanzado",
+        "Para viajar o trabajar"
+      ],
+      "say": "Elige tu nivel: básico, intermedio o avanzado. Luego dile para qué lo quieres, como viajar o trabajar."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Escoge una",
+        "situación"
+      ],
+      "lines": [
+        "Pedir comida",
+        "Pasar migración",
+        "O escribe la tuya"
+      ],
+      "say": "Escoge una situación real, como pedir comida en un restaurante o pasar por migración. También puedes escribir la tuya."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": [
+        "Escucha",
+        "y habla"
+      ],
+      "lines": [
+        "Escuchar: marca palabras",
+        "Hablar: conversa en voz alta"
+      ],
+      "say": "En escuchar, oyes un audio y marcas las palabras que entiendes. En hablar, conversas en voz alta y la práctica se adapta a ti."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Si no te",
+        "aparece"
+      ],
+      "items": [
+        "Llega por países",
+        "Practica 10 min al día"
+      ],
+      "say": "Ojo: si no te aparece, es porque llega poco a poco según el país. Practica diez minutos al día y notarás la diferencia."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
