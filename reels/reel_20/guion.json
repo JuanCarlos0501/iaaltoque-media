@@ -1,0 +1,98 @@
+{
+  "id": "reel_20",
+  "titulo": "Deja que la IA ordene tus gastos por ti (caso real)",
+  "descripcion": "Caso real: Luis le pasa sus gastos del mes a ChatGPT gratis y le pide que los agrupe, le muestre en qué se le va la plata y le arme un presupuesto. Ojo: revisa las sumas y no compartas datos bancarios 💸",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#FinanzasPersonales",
+    "#Presupuesto",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Deja que la IA",
+        "ordene tus gastos"
+      ],
+      "pill": "Caso real",
+      "say": "¿Llegas a fin de mes sin saber en qué se fue la plata? Deja que la inteligencia artificial ordene tus gastos. Así lo hizo Luis."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Junta tus",
+        "gastos"
+      ],
+      "lines": [
+        "Pega tus gastos",
+        "O sube un Excel",
+        "O una foto de tu lista"
+      ],
+      "say": "Luis abre ChatGPT gratis y le pega sus gastos del mes. También puede subir un Excel o una foto de su lista."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Pide que",
+        "los agrupe"
+      ],
+      "lines": [
+        "Comida, transporte",
+        "Salidas, servicios",
+        "Total por categoría"
+      ],
+      "say": "Luego le pide: agrupa estos gastos por categoría, como comida, transporte y salidas, y dame el total de cada una."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Descubre",
+        "las fugas"
+      ],
+      "lines": [
+        "¿Dónde se va más?",
+        "Gastos hormiga",
+        "Ideas para ahorrar"
+      ],
+      "say": "Después pregunta en qué gasta de más. Así descubre sus gastos hormiga, como el delivery y los cafés, y pide ideas para recortar."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": [
+        "Arma tu",
+        "presupuesto"
+      ],
+      "lines": [
+        "Con tu sueldo real",
+        "Monto por categoría",
+        "Meta de ahorro"
+      ],
+      "say": "Por último, le da su sueldo y pide un presupuesto para el próximo mes, con un monto por categoría y una meta de ahorro."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Antes de",
+        "confiar"
+      ],
+      "items": [
+        "Revisa las sumas",
+        "No compartas claves",
+        "Ni números de tarjeta"
+      ],
+      "say": "Ojo: revisa las sumas, porque a veces se equivoca, y nunca compartas claves ni tu tarjeta."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
