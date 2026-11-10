@@ -20,3 +20,4 @@
 | 16 | 2026-11-09 | Tu asistente que ve lo que tú ves: 3 usos de Gemini Live con la cámara (lista) | programado 12:00 en Metricool |
 | 17 | 2026-11-09 | Dejar que la IA planee tu viaje con ChatGPT: fin de semana en Cusco (caso real) | programado 18:00 en Metricool |
 | 18 | 2026-11-10 | Tu propio profe de inglés gratis con el modo Práctica de Google Traductor (pasos) | video listo, falta programar 10:00 |
+| 19 | 2026-11-10 | Busca lo que ves sin escribir: 3 usos de Busca con un círculo en Android (lista) | video listo, falta programar 12:00 |

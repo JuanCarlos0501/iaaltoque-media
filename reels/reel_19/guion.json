@@ -1,0 +1,94 @@
+{
+  "id": "reel_19",
+  "titulo": "Busca lo que ves en tu pantalla sin escribir nada: 3 usos gratis",
+  "descripcion": "Con Busca con un círculo de Google en Android: mantén presionado el botón de inicio o la barra, rodea lo que quieras y busca. Encuentra productos, traduce toda la pantalla e identifica canciones. Funciona en celulares compatibles 🔍",
+  "hashtags": [
+    "#IA",
+    "#Android",
+    "#BuscaConUnCirculo",
+    "#TrucosIA",
+    "#Google",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Busca lo que ves",
+        "sin escribir"
+      ],
+      "pill": "3 usos",
+      "say": "¿Viste algo en tu pantalla y no sabes cómo buscarlo? Deja que la inteligencia artificial lo busque por ti, sin escribir."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Actívalo",
+        "así"
+      ],
+      "lines": [
+        "Mantén presionado",
+        "el botón de inicio",
+        "o la barra de abajo"
+      ],
+      "say": "Se llama Busca con un círculo, de Google, en Android. Mantén presionado el botón de inicio o la barra de abajo."
+    },
+    {
+      "type": "list",
+      "badge": "USO 1",
+      "title": [
+        "Encuentra",
+        "productos"
+      ],
+      "items": [
+        "Rodea la zapatilla",
+        "Ve dónde venden"
+      ],
+      "say": "Uno: ¿te gustó una zapatilla en un video? Rodéala con el dedo y ves productos parecidos y dónde comprarlos."
+    },
+    {
+      "type": "list",
+      "badge": "USO 2",
+      "title": [
+        "Traduce",
+        "la pantalla"
+      ],
+      "items": [
+        "Toca Traducir",
+        "Lee todo en español"
+      ],
+      "say": "Dos: traducir. Si un post está en otro idioma, toca el botón de traducir y toda la pantalla aparece en español."
+    },
+    {
+      "type": "list",
+      "badge": "USO 3",
+      "title": [
+        "¿Qué canción",
+        "suena?"
+      ],
+      "items": [
+        "Toca la nota musical",
+        "Te dice la canción"
+      ],
+      "say": "Tres: ¿qué canción es esta? Toca el ícono de la nota musical y te dice qué canción está sonando. Hasta puedes tararearla."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "No todos",
+        "los celulares"
+      ],
+      "items": [
+        "Revisa si es compatible",
+        "Actualiza la app Google"
+      ],
+      "say": "Ojo: solo funciona en celulares Android compatibles. Si no te aparece, actualiza la app de Google."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
