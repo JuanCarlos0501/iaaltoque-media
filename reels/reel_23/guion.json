@@ -1,0 +1,19 @@
+{
+  "id": "reel_23",
+  "titulo": "¿Cuál es mejor para crear imágenes gratis: ChatGPT o Gemini?",
+  "descripcion": "Comparativa rápida: Gemini da más imágenes gratis al día y edita tus fotos; ChatGPT gratis tiene un límite más corto, pero lo corriges conversando. Los límites cambian seguido: prueba el mismo pedido en los dos 🎨",
+  "hashtags": ["#IA", "#ChatGPT", "#Gemini", "#ImagenesIA", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Cuál crea mejores", "imágenes gratis?"], "pill": "Comparativa",
+     "say": "¿Quieres crear imágenes con inteligencia artificial sin pagar nada? Te comparo las dos más usadas, para que elijas bien."},
+    {"type": "list", "badge": "OPCIÓN 1", "title": ["ChatGPT", "gratis"], "items": ["Pocas al día", "Lo corriges hablando", "Sigue instrucciones"],
+     "say": "Opción uno: ChatGPT. En la versión gratis te deja crear pocas imágenes al día, pero puedes corregirlas conversando, y sigue bien las instrucciones detalladas."},
+    {"type": "list", "badge": "OPCIÓN 2", "title": ["Gemini", "gratis"], "items": ["Más imágenes al día", "Edita tus fotos", "Muy rápido"],
+     "say": "Opción dos: Gemini. Su plan gratis te da más imágenes al día, es muy rápido, y además puedes subir tu foto y pedirle que la edite."},
+    {"type": "list", "badge": "EL TRUCO", "title": ["Prueba el", "mismo pedido"], "items": ["Describe estilo y fondo", "Compara en los dos"],
+     "say": "El truco: escribe el mismo pedido en las dos, con estilo, colores y fondo, y quédate con la que te guste más."},
+    {"type": "list", "badge": "VEREDICTO", "title": ["¿Cuál", "elijo?"], "items": ["Muchas: Gemini", "Pocas y precisas: ChatGPT"],
+     "say": "Mi veredicto: si necesitas muchas imágenes, Gemini. Si haces pocas y quieres corregirlas paso a paso, ChatGPT. Ojo, los límites cambian seguido."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
