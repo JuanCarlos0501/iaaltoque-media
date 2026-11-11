@@ -1,0 +1,21 @@
+{
+  "id": "reel_21",
+  "titulo": "Haz tu CV sin saber redactar: la IA lo escribe contigo gratis",
+  "descripcion": "Paso a paso para armar tu currículum con ChatGPT gratis: dale tus datos reales, pégale la oferta de trabajo, pídelo sección por sección y revísalo antes de enviarlo. Nada de inventar experiencia 📄",
+  "hashtags": ["#IA", "#ChatGPT", "#CV", "#Empleo", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Haz tu CV", "sin saber redactar"], "pill": "4 pasos",
+     "say": "¿Tienes que mandar tu currículum y no sabes qué poner? Deja que la inteligencia artificial lo escriba contigo, gratis, en cuatro pasos."},
+    {"type": "step", "n": 1, "title": ["Cuenta", "tu historia"], "lines": ["Trabajos y fechas", "Estudios y cursos", "Lo que sabes hacer"],
+     "say": "Abre ChatGPT gratis y cuéntale todo, sin miedo: tus trabajos con fechas, tus estudios, tus cursos y lo que sabes hacer."},
+    {"type": "step", "n": 2, "title": ["Pega", "la oferta"], "lines": ["Copia el aviso", "Pide que lo adapte", "A ese puesto"],
+     "say": "Después copia el aviso de trabajo que te interesa y pégalo. Pídele que adapte tu experiencia justo a ese puesto."},
+    {"type": "step", "n": 3, "title": ["Sección por", "sección"], "lines": ["Primero el resumen", "Luego la experiencia", "Al final habilidades"],
+     "say": "No pidas todo de golpe, porque sale genérico. Ve por partes: primero el resumen, luego la experiencia y al final tus habilidades."},
+    {"type": "step", "n": 4, "title": ["Revisa", "y diseña"], "lines": ["Corrige cada dato", "Plantilla simple", "Guárdalo en PDF"],
+     "say": "Por último, revisa cada dato, pásalo a una plantilla simple de una sola columna y guárdalo en PDF."},
+    {"type": "list", "badge": "OJO", "title": ["Nunca", "inventes"], "items": ["Solo datos reales", "Te lo pueden preguntar"],
+     "say": "Ojo: no inventes logros ni experiencia, porque en la entrevista te lo pueden preguntar."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
