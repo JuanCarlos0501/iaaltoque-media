@@ -22,6 +22,6 @@
 | 18 | 2026-11-10 | Tu propio profe de inglés gratis con el modo Práctica de Google Traductor (pasos) | programado 10:00 en Metricool |
 | 19 | 2026-11-10 | Busca lo que ves sin escribir: 3 usos de Busca con un círculo en Android (lista) | programado 12:00 en Metricool |
 | 20 | 2026-11-10 | Dejar que la IA ordene tus gastos y arme tu presupuesto con ChatGPT (caso real) | programado 18:00 en Metricool |
-| 21 | 2026-11-11 | Haz tu CV sin saber redactar con ChatGPT (pasos) | video listo, falta programar 10:00 |
-| 22 | 2026-11-11 | Tu asistente gratis en WhatsApp: 3 usos de Meta AI (lista) | video listo, falta programar 12:00 |
-| 23 | 2026-11-11 | ChatGPT vs Gemini para crear imágenes gratis (comparativa) | video listo, falta programar 18:00 |
+| 21 | 2026-11-11 | Haz tu CV sin saber redactar con ChatGPT (pasos) | programado 10:00 en Metricool |
+| 22 | 2026-11-11 | Tu asistente gratis en WhatsApp: 3 usos de Meta AI (lista) | programado 12:00 en Metricool |
+| 23 | 2026-11-11 | ChatGPT vs Gemini para crear imágenes gratis (comparativa) | programado 18:00 en Metricool |
