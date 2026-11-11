@@ -1,0 +1,21 @@
+{
+  "id": "reel_22",
+  "titulo": "Tu asistente gratis dentro de WhatsApp: 3 usos de Meta AI",
+  "descripcion": "Meta AI ya viene en WhatsApp y es gratis: pregúntale lo que quieras en su chat, llámalo en tus grupos con @Meta AI y crea imágenes escribiendo imagina. Solo lee el mensaje donde lo mencionas. No le compartas datos privados 💬",
+  "hashtags": ["#IA", "#WhatsApp", "#MetaAI", "#TrucosIA", "#Tecnologia", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu asistente gratis", "en WhatsApp"], "pill": "3 usos",
+     "say": "¿Sabías que ya tienes un asistente de inteligencia artificial gratis dentro de WhatsApp? Y casi nadie lo aprovecha."},
+    {"type": "step", "n": 1, "title": ["Búscalo", "así"], "lines": ["Toca el círculo azul", "o abre el chat", "de Meta AI"],
+     "say": "Se llama Meta AI. Toca el círculo azul en tus chats, o abre la conversación de Meta AI, y escríbele como a un amigo."},
+    {"type": "list", "badge": "USO 1", "title": ["Resuelve", "dudas"], "items": ["Recetas con lo que hay", "Ideas y consejos"],
+     "say": "Uno: pregúntale lo que quieras. Por ejemplo, qué cocinar con lo que tienes en la refri, o ideas para un regalo."},
+    {"type": "list", "badge": "USO 2", "title": ["Llámalo en", "tu grupo"], "items": ["Escribe @Meta AI", "y tu pregunta"],
+     "say": "Dos: en un grupo, escribe arroba Meta AI y tu pregunta, por ejemplo, ideas para la reunión del sábado. Responde ahí mismo para todos."},
+    {"type": "list", "badge": "USO 3", "title": ["Crea", "imágenes"], "items": ["Escribe imagina", "y descríbela"],
+     "say": "Tres: escribe imagina, y describe lo que quieres, como una tarjeta de cumpleaños con globos. Te la crea en segundos."},
+    {"type": "list", "badge": "OJO", "title": ["Cuida", "tus datos"], "items": ["Solo lee tu mención", "Nada privado"],
+     "say": "Ojo: solo lee el mensaje donde lo mencionas, pero igual no le compartas datos privados."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
