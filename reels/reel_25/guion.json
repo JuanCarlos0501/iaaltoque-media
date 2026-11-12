@@ -1,0 +1,21 @@
+{
+  "id": "reel_25",
+  "titulo": "Deja que la IA escriba tus mensajes difíciles: 3 casos con Gemini gratis",
+  "descripcion": "3 mensajes que cuesta escribir y cómo pedírselos a Gemini gratis: pedir un aumento, reclamar a una empresa y decir que no sin quedar mal. Dale contexto, elige el tono y revísalo antes de enviarlo ✍️",
+  "hashtags": ["#IA", "#Gemini", "#Mensajes", "#TrucosIA", "#Trabajo", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tus mensajes difíciles", "los escribe la IA"], "pill": "3 casos",
+     "say": "¿Tienes que mandar un mensaje incómodo y llevas una hora mirando la pantalla? Deja que la inteligencia artificial lo escriba por ti."},
+    {"type": "list", "badge": "CÓMO", "title": ["Abre", "Gemini gratis"], "items": ["Cuenta qué pasó", "Elige el tono"],
+     "say": "Abre Gemini gratis, cuéntale qué pasó y a quién le escribes, y dile el tono que quieres: amable, firme o formal."},
+    {"type": "list", "badge": "CASO 1", "title": ["Pedir", "un aumento"], "items": ["Tus logros", "Tono seguro"],
+     "say": "Uno: pedir un aumento. Dale tus logros del año y pídele un mensaje seguro y respetuoso para tu jefe."},
+    {"type": "list", "badge": "CASO 2", "title": ["Reclamar a", "una empresa"], "items": ["Fecha y pedido", "Qué solución quieres"],
+     "say": "Dos: reclamar a una empresa. Pásale la fecha, el número de pedido y qué solución quieres, y te arma un reclamo claro y firme."},
+    {"type": "list", "badge": "CASO 3", "title": ["Decir que no", "sin quedar mal"], "items": ["Corto y amable", "Sin excusas largas"],
+     "say": "Tres: decir que no sin quedar mal, a un favor, una reunión o un préstamo. Pídele algo corto, amable y sin excusas largas."},
+    {"type": "list", "badge": "OJO", "title": ["Revísalo", "antes de enviar"], "items": ["Ponle tu estilo", "Nada de claves"],
+     "say": "Ojo: léelo antes de enviarlo, ponle tu estilo, y nunca le compartas claves ni datos bancarios."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
