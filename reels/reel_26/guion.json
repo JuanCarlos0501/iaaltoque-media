@@ -1,0 +1,19 @@
+{
+  "id": "reel_26",
+  "titulo": "¿Cuál IA gratis te conviene más: Copilot o ChatGPT?",
+  "descripcion": "Comparativa rápida de las versiones gratis: ChatGPT es el más estable para conversar y escribir; Copilot de Microsoft busca en la web con fuentes, crea imágenes y ya viene en Windows y Edge. Los límites gratis cambian seguido: prueba el mismo pedido en los dos 🤖",
+  "hashtags": ["#IA", "#ChatGPT", "#Copilot", "#Microsoft", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Cuál IA gratis", "te conviene más?"], "pill": "Comparativa",
+     "say": "Hay dos asistentes de inteligencia artificial gratis que casi todos tienen a mano. Pero, ¿cuál te conviene más? Te los comparo en un minuto."},
+    {"type": "list", "badge": "OPCIÓN 1", "title": ["ChatGPT", "gratis"], "items": ["Conversa sin parar", "Escribe y explica", "Pocos archivos al día"],
+     "say": "Opción uno: ChatGPT. Gratis puedes conversar todo lo que quieras, es muy bueno para escribir y explicar, pero solo te deja subir pocos archivos al día."},
+    {"type": "list", "badge": "OPCIÓN 2", "title": ["Copilot", "gratis"], "items": ["Busca con fuentes", "Crea imágenes", "Ya está en Windows"],
+     "say": "Opción dos: Copilot, de Microsoft. Busca en internet y te muestra las fuentes, crea imágenes, y ya viene en Windows y en el navegador Edge."},
+    {"type": "list", "badge": "EL TRUCO", "title": ["Prueba el", "mismo pedido"], "items": ["Copia tu pregunta", "Compara respuestas"],
+     "say": "El truco: copia la misma pregunta en los dos y compara. En horas de mucho uso, Copilot gratis puede ir más lento o limitarte."},
+    {"type": "list", "badge": "VEREDICTO", "title": ["¿Cuál", "elijo?"], "items": ["Escribir: ChatGPT", "Buscar en la web: Copilot"],
+     "say": "Mi veredicto: para escribir y conversar, ChatGPT. Para buscar con fuentes desde tu computadora, Copilot. Y lo mejor: puedes usar los dos."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
