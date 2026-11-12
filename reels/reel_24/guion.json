@@ -1,0 +1,21 @@
+{
+  "id": "reel_24",
+  "titulo": "Entiende cualquier contrato sin ser abogado: la IA te lo explica gratis",
+  "descripcion": "Paso a paso para que Claude gratis te explique un contrato en palabras simples: sube el PDF o una foto, pide un resumen claro, pregunta por plazos, multas y penalidades, y consulta con un profesional antes de firmar algo importante 📑",
+  "hashtags": ["#IA", "#Claude", "#Contratos", "#TrucosIA", "#Productividad", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Entiende un contrato", "sin ser abogado"], "pill": "4 pasos",
+     "say": "¿Te dieron un contrato lleno de letra chica y no entiendes nada? Deja que la inteligencia artificial te lo explique, gratis, en cuatro pasos."},
+    {"type": "step", "n": 1, "title": ["Sube", "el contrato"], "lines": ["Abre Claude gratis", "Sube el PDF", "o una foto clara"],
+     "say": "Abre Claude gratis y toca el clip para subir el contrato en PDF. Si lo tienes en papel, sube una foto bien clara."},
+    {"type": "step", "n": 2, "title": ["Pide un", "resumen simple"], "lines": ["Como para un amigo", "Sin palabras raras"],
+     "say": "Después escribe: explícame este contrato en palabras simples, como si se lo contaras a un amigo."},
+    {"type": "step", "n": 3, "title": ["Busca", "la letra chica"], "lines": ["Plazos y pagos", "Multas", "Cómo cancelarlo"],
+     "say": "Luego pregunta lo importante: cuáles son los plazos y pagos, qué multas hay, y cómo puedo cancelarlo sin perder plata."},
+    {"type": "step", "n": 4, "title": ["Arma tus", "preguntas"], "lines": ["Puntos dudosos", "Qué negociar"],
+     "say": "Por último, pídele preguntas para hacerle a la otra parte, y qué puntos podrías negociar antes de firmar."},
+    {"type": "list", "badge": "OJO", "title": ["No reemplaza", "a un abogado"], "items": ["Puede equivocarse", "Lo importante, consúltalo"],
+     "say": "Ojo: puede equivocarse. Si es algo importante, como una casa o un trabajo, consúltalo con un profesional."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

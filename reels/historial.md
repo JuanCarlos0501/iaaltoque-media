@@ -25,3 +25,4 @@
 | 21 | 2026-11-11 | Haz tu CV sin saber redactar con ChatGPT (pasos) | programado 10:00 en Metricool |
 | 22 | 2026-11-11 | Tu asistente gratis en WhatsApp: 3 usos de Meta AI (lista) | programado 12:00 en Metricool |
 | 23 | 2026-11-11 | ChatGPT vs Gemini para crear imágenes gratis (comparativa) | programado 18:00 en Metricool |
+| 24 | 2026-11-12 | Entiende cualquier contrato sin ser abogado con Claude (pasos) | video listo, falta programar 10:00 |
