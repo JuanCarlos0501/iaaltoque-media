@@ -1,0 +1,19 @@
+{
+  "id": "reel_29",
+  "titulo": "Deja que la IA venda lo que ya no usas: anuncio en 1 minuto con ChatGPT",
+  "descripcion": "Caso real: una bicicleta guardada. Con una foto, ChatGPT gratis escribe título, descripción y preguntas frecuentes para Marketplace o tu estado de WhatsApp. El precio lo decides tú comparando anuncios parecidos 🚲",
+  "hashtags": ["#IA", "#ChatGPT", "#Vender", "#Marketplace", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["La IA vende", "lo que ya no usas"], "pill": "Caso real",
+     "say": "¿Tienes cosas guardadas que ya no usas? Deja que la inteligencia artificial te escriba el anuncio para venderlas. Mira este caso real."},
+    {"type": "list", "badge": "EL CASO", "title": ["Una bici", "guardada"], "items": ["Foto con buena luz", "ChatGPT gratis"],
+     "say": "Ana tenía una bicicleta guardada hace dos años. Le tomó una foto con buena luz y la subió a ChatGPT gratis, junto con el modelo y su estado."},
+    {"type": "list", "badge": "EL PEDIDO", "title": ["Pídele", "el anuncio"], "items": ["Título que atrape", "Descripción honesta", "Detalles y defectos"],
+     "say": "Su pedido fue: escríbeme un anuncio para vender esta bicicleta, con un título que llame la atención y una descripción honesta, incluyendo sus detalles."},
+    {"type": "list", "badge": "EL RESULTADO", "title": ["Anuncio", "listo"], "items": ["Para Marketplace", "Para tu estado"],
+     "say": "En segundos tuvo el título, la descripción y respuestas a las preguntas típicas. Lo publicó en Marketplace y en su estado de WhatsApp."},
+    {"type": "list", "badge": "OJO", "title": ["El precio", "lo pones tú"], "items": ["Compara anuncios", "Nada de datos privados"],
+     "say": "Ojo: el precio decídelo tú, comparando anuncios parecidos. Y nunca pongas tu dirección exacta; queda en un lugar público."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

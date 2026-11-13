@@ -30,3 +30,4 @@
 | 26 | 2026-11-12 | ¿Cuál IA gratis te conviene más: Copilot o ChatGPT? (comparativa) | programado 18:00 en Metricool |
 | 27 | 2026-11-13 | Haz fórmulas de Excel sin saber Excel con ChatGPT (pasos) | video listo, falta programar 10:00 |
 | 28 | 2026-11-13 | Tu propio narrador gratis: 3 usos de Leer en voz alta de Microsoft Edge (lista) | video listo, falta programar 12:00 |
+| 29 | 2026-11-13 | Deja que la IA venda lo que ya no usas: anuncio para Marketplace con ChatGPT (caso real) | video listo, falta programar 18:00 |
