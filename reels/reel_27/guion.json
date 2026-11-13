@@ -1,0 +1,19 @@
+{
+  "id": "reel_27",
+  "titulo": "Haz fórmulas de Excel sin saber Excel (ChatGPT gratis)",
+  "descripcion": "Describe tus columnas en palabras y deja que ChatGPT gratis te escriba la fórmula de Excel o Google Sheets. Truco clave: si Excel te marca error, pídele la fórmula con punto y coma, que es el separador en muchas configuraciones en español 📊",
+  "hashtags": ["#IA", "#ChatGPT", "#Excel", "#GoogleSheets", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Fórmulas de Excel", "sin saber Excel"], "pill": "En 3 pasos",
+     "say": "¿Te da miedo Excel? Haz fórmulas sin saber fórmulas. La inteligencia artificial las escribe por ti, y te toma menos de un minuto."},
+    {"type": "step", "n": 1, "title": ["Describe", "tus columnas"], "lines": ["Abre ChatGPT gratis", "Di qué hay en", "cada columna"],
+     "say": "Paso uno: abre ChatGPT gratis y cuéntale qué hay en tu hoja. Por ejemplo: en la columna A están los productos, en la B el precio y en la C la cantidad."},
+    {"type": "step", "n": 2, "title": ["Pide el", "resultado"], "lines": ["En palabras normales", "Ej: total por fila", "y suma final"],
+     "say": "Paso dos: pide el resultado en palabras normales. Quiero el total de cada fila y la suma de todo al final. Te da la fórmula lista y te explica qué hace."},
+    {"type": "step", "n": 3, "title": ["Copia", "y pega"], "lines": ["Pégala en la celda", "Arrastra hacia abajo"],
+     "say": "Paso tres: copia la fórmula, pégala en la primera celda y arrástrala hacia abajo. También funciona en Google Sheets."},
+    {"type": "list", "badge": "OJO", "title": ["¿Te sale", "error?"], "items": ["Pídela con punto y coma", "Revisa un resultado"],
+     "say": "Ojo: si te sale error, pídele la fórmula con punto y coma, que es el separador en muchos Excel en español. Y revisa un resultado a mano."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
