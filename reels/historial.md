@@ -28,6 +28,6 @@
 | 24 | 2026-11-12 | Entiende cualquier contrato sin ser abogado con Claude (pasos) | programado 10:00 en Metricool |
 | 25 | 2026-11-12 | Deja que la IA escriba tus mensajes difíciles: 3 casos con Gemini (lista) | programado 12:00 en Metricool |
 | 26 | 2026-11-12 | ¿Cuál IA gratis te conviene más: Copilot o ChatGPT? (comparativa) | programado 18:00 en Metricool |
-| 27 | 2026-11-13 | Haz fórmulas de Excel sin saber Excel con ChatGPT (pasos) | video listo, falta programar 10:00 |
-| 28 | 2026-11-13 | Tu propio narrador gratis: 3 usos de Leer en voz alta de Microsoft Edge (lista) | video listo, falta programar 12:00 |
-| 29 | 2026-11-13 | Deja que la IA venda lo que ya no usas: anuncio para Marketplace con ChatGPT (caso real) | video listo, falta programar 18:00 |
+| 27 | 2026-11-13 | Haz fórmulas de Excel sin saber Excel con ChatGPT (pasos) | programado 11:55 en Metricool (10:00 ya había pasado) |
+| 28 | 2026-11-13 | Tu propio narrador gratis: 3 usos de Leer en voz alta de Microsoft Edge (lista) | programado 12:00 en Metricool |
+| 29 | 2026-11-13 | Deja que la IA venda lo que ya no usas: anuncio para Marketplace con ChatGPT (caso real) | programado 18:00 en Metricool |
