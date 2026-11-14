@@ -1,0 +1,19 @@
+{
+  "id": "reel_30",
+  "titulo": "Crea un cuento ilustrado para tus hijos sin saber dibujar (gratis con Gemini)",
+  "descripcion": "Con la función Libro de cuentos de Gemini describes la idea y la IA crea un cuento de hasta 10 páginas con dibujos y narración en voz alta. Gratis y en español. Prueba con tu hijo como protagonista 📖✨",
+  "hashtags": ["#IA", "#Gemini", "#Cuentos", "#Niños", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Un cuento ilustrado", "sin saber dibujar"], "pill": "Gratis",
+     "say": "¿Quieres un cuento ilustrado para tus hijos, pero no sabes dibujar? Deja que la inteligencia artificial lo haga por ti, gratis y en un minuto."},
+    {"type": "step", "n": 1, "title": ["Abre Gemini", "Libro de cuentos"], "lines": ["App o gemini.google.com", "Entra a Gems", "Elige Libro de cuentos"],
+     "say": "Paso uno: abre Gemini, en la app o en la web. Entra a la sección Gems y elige Libro de cuentos."},
+    {"type": "step", "n": 2, "title": ["Describe", "tu historia"], "lines": ["Quién es el protagonista", "Qué le pasa", "Qué quieres que aprenda"],
+     "say": "Paso dos: describe la historia. Por ejemplo: un cuento sobre Mateo, de cinco años, que pierde el miedo a la oscuridad con un búho amigo."},
+    {"type": "step", "n": 3, "title": ["Elige", "el estilo"], "lines": ["Acuarela, cómic", "o plastilina", "Pídelo en español"],
+     "say": "Paso tres: pide un estilo de dibujo, como acuarela, cómic o plastilina. Escribe en español y el cuento sale en español."},
+    {"type": "list", "badge": "LISTO", "title": ["Hasta", "10 páginas"], "items": ["Con dibujos", "Narrado en voz alta", "Para compartir"],
+     "say": "En segundos tienes un libro de hasta diez páginas, con dibujos y narración en voz alta. Si algo no te gusta, pídele que lo cambie."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

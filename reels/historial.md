@@ -31,3 +31,4 @@
 | 27 | 2026-11-13 | Haz fórmulas de Excel sin saber Excel con ChatGPT (pasos) | programado 11:55 en Metricool (10:00 ya había pasado) |
 | 28 | 2026-11-13 | Tu propio narrador gratis: 3 usos de Leer en voz alta de Microsoft Edge (lista) | programado 12:00 en Metricool |
 | 29 | 2026-11-13 | Deja que la IA venda lo que ya no usas: anuncio para Marketplace con ChatGPT (caso real) | programado 18:00 en Metricool |
+| 30 | 2026-11-14 | Crea un cuento ilustrado para tus hijos sin saber dibujar con Libro de cuentos de Gemini (pasos) | video listo, falta programar 10:00 |
