@@ -1,0 +1,11 @@
+¿Tienes que estudiar un PDF de cien páginas? ¿Cuál inteligencia artificial te ayuda más: NotebookLM o ChatGPT?
+
+NotebookLM responde solo con los documentos que tú subes, y te muestra de qué parte sale cada respuesta. En el plan gratis puedes juntar muchos archivos en un mismo cuaderno.
+
+ChatGPT es mejor para explicarte un tema difícil con ejemplos sencillos, porque suma su propio conocimiento. Pero por eso puede mezclar datos que no están en tu PDF.
+
+Mi veredicto: usa NotebookLM para sacar los datos exactos de tu material, y ChatGPT cuando no entiendas un concepto.
+
+Ojo: antes de un examen, revisa la cita en el documento original. Los dos tienen plan gratis.
+
+Sigue a IA al Toque, para más trucos como este.

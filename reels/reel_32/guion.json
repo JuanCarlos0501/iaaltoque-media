@@ -1,0 +1,19 @@
+{
+  "id": "reel_32",
+  "titulo": "¿Cuál es mejor para estudiar un PDF largo: NotebookLM o ChatGPT?",
+  "descripcion": "Comparativa rápida: NotebookLM responde solo con tus documentos y te muestra de dónde sale cada dato; ChatGPT explica con ejemplos y su conocimiento general. Mi truco: usa los dos. Ambos tienen plan gratis 📚",
+  "hashtags": ["#IA", "#NotebookLM", "#ChatGPT", "#Estudiar", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Cuál es mejor", "para estudiar un PDF?"], "pill": "Comparativa",
+     "say": "¿Tienes que estudiar un PDF de cien páginas? ¿Cuál inteligencia artificial te ayuda más: NotebookLM o ChatGPT?"},
+    {"type": "list", "badge": "NOTEBOOKLM", "title": ["Fiel a", "tus documentos"], "items": ["Responde con tus fuentes", "Muestra de dónde sale", "Muchos archivos juntos"],
+     "say": "NotebookLM responde solo con los documentos que tú subes, y te muestra de qué parte sale cada respuesta. En el plan gratis puedes juntar muchos archivos en un mismo cuaderno."},
+    {"type": "list", "badge": "CHATGPT", "title": ["Mejor para", "explicar"], "items": ["Ejemplos sencillos", "Usa su conocimiento", "Puede equivocarse"],
+     "say": "ChatGPT es mejor para explicarte un tema difícil con ejemplos sencillos, porque suma su propio conocimiento. Pero por eso puede mezclar datos que no están en tu PDF."},
+    {"type": "list", "badge": "VEREDICTO", "title": ["Usa", "los dos"], "items": ["NotebookLM: los datos", "ChatGPT: entender"],
+     "say": "Mi veredicto: usa NotebookLM para sacar los datos exactos de tu material, y ChatGPT cuando no entiendas un concepto."},
+    {"type": "list", "badge": "OJO", "title": ["Verifica", "lo importante"], "items": ["Revisa la cita", "Ambos tienen plan gratis"],
+     "say": "Ojo: antes de un examen, revisa la cita en el documento original. Los dos tienen plan gratis."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
