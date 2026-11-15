@@ -1,0 +1,97 @@
+{
+  "id": "reel_33",
+  "titulo": "Lee los audios de WhatsApp sin escucharlos",
+  "descripcion": "WhatsApp convierte los mensajes de voz en texto, gratis y en español: Ajustes, Chats, Transcripciones de mensajes de voz. Luego mantén presionado el audio y toca Transcribir. Solo tú ves el texto 📱",
+  "hashtags": [
+    "#IA",
+    "#WhatsApp",
+    "#TrucosWhatsApp",
+    "#Productividad",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Lee los audios",
+        "sin escucharlos"
+      ],
+      "pill": "Truco de WhatsApp",
+      "say": "¿Te mandan audios larguísimos y estás en una reunión? Te enseño a leerlos sin escucharlos, en segundos."
+    },
+    {
+      "type": "list",
+      "badge": "LA FUNCIÓN",
+      "title": [
+        "Transcripciones",
+        "de WhatsApp"
+      ],
+      "items": [
+        "Ya viene en la app",
+        "Gratis y en español",
+        "Solo tú ves el texto"
+      ],
+      "say": "WhatsApp ya trae una función que convierte los mensajes de voz en texto. Es gratis, funciona en español, y solo tú ves la transcripción."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Actívala",
+        "en Ajustes"
+      ],
+      "lines": [
+        "Ajustes",
+        "Chats",
+        "Transcripciones de",
+        "mensajes de voz"
+      ],
+      "say": "Paso uno: abre Ajustes, entra a Chats, y activa Transcripciones de mensajes de voz."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Elige",
+        "el idioma"
+      ],
+      "lines": [
+        "Selecciona español",
+        "Descarga el idioma"
+      ],
+      "say": "Paso dos: elige español como idioma y deja que se descargue. Si quieres, puedes esperar a tener wifi para no gastar tus datos."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Transcribe",
+        "el audio"
+      ],
+      "lines": [
+        "Mantén presionado",
+        "el audio",
+        "Toca Transcribir"
+      ],
+      "say": "Paso tres: en el chat, mantén presionado el audio y toca Transcribir. Listo, ya lo puedes leer."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Puede tener",
+        "errores"
+      ],
+      "items": [
+        "Revisa nombres y cifras",
+        "Si no aparece, actualiza"
+      ],
+      "say": "Ojo: puede tener errores, sobre todo con nombres y números, así que revisa lo importante. Si no ves la opción, actualiza WhatsApp."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
