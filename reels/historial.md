@@ -36,3 +36,4 @@
 | 32 | 2026-11-14 | ¿Cuál es mejor para estudiar un PDF largo: NotebookLM o ChatGPT? (comparativa) | programado 18:00 en Metricool |
 | 33 | 2026-11-15 | Lee los audios de WhatsApp sin escucharlos con Transcripciones de mensajes de voz (pasos) | video listo, falta programar 10:00 |
 | 34 | 2026-11-15 | Tu propio chef gratis: recetas con la foto del refri, reemplazos y porciones con ChatGPT (lista) | video listo, falta programar 12:00 |
+| 35 | 2026-11-15 | ¿Cuál te ayuda más con la tarea de mates: Google Lens o el Modo estudio de ChatGPT? (comparativa) | video listo, falta programar 18:00 |

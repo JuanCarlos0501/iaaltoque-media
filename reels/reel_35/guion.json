@@ -1,0 +1,19 @@
+{
+  "id": "reel_35",
+  "titulo": "¿Cuál te ayuda más con la tarea de mates: Google Lens o ChatGPT?",
+  "descripcion": "Comparativa rápida: Google Lens resuelve el ejercicio desde una foto y te muestra los pasos al instante; el Modo estudio de ChatGPT te guía con preguntas para que lo entiendas tú. Los dos son gratis. Verifica siempre el resultado ✏️",
+  "hashtags": ["#IA", "#GoogleLens", "#ChatGPT", "#Matematicas", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Cuál te ayuda más", "con la tarea de mates?"], "pill": "Comparativa",
+     "say": "¿Te trabaste con un ejercicio de matemáticas? ¿Qué te ayuda más: tomarle foto con Google Lens, o preguntarle a ChatGPT?"},
+    {"type": "list", "badge": "GOOGLE LENS", "title": ["Rápido", "con una foto"], "items": ["App de Google, cámara", "Foto al ejercicio", "Muestra los pasos"],
+     "say": "Google Lens es lo más rápido. En la app de Google tocas la cámara, le tomas foto al ejercicio, y te muestra la solución con los pasos. También sirve para física y geometría."},
+    {"type": "list", "badge": "CHATGPT", "title": ["Te enseña", "a resolverlo"], "items": ["Modo estudio gratis", "Te guía con preguntas", "Va a tu ritmo"],
+     "say": "ChatGPT tiene un Modo estudio gratis. Le subes la foto y, en vez de darte la respuesta, te guía con preguntas, paso a paso, hasta que lo resuelves tú."},
+    {"type": "list", "badge": "VEREDICTO", "title": ["Usa", "los dos"], "items": ["Lens: revisar rápido", "ChatGPT: entender"],
+     "say": "Mi veredicto: usa Lens para revisar rápido tu resultado, y el Modo estudio cuando de verdad quieras entender el tema para el examen."},
+    {"type": "list", "badge": "OJO", "title": ["También", "se equivocan"], "items": ["Verifica el resultado", "No copies sin entender"],
+     "say": "Ojo: las dos pueden equivocarse, así que verifica el resultado y no copies sin entender."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
