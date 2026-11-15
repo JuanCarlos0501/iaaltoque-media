@@ -35,3 +35,4 @@
 | 31 | 2026-11-14 | Tu propio diseñador gratis: logo, afiche y foto de producto para tu negocio con ChatGPT (lista) | programado 12:00 en Metricool |
 | 32 | 2026-11-14 | ¿Cuál es mejor para estudiar un PDF largo: NotebookLM o ChatGPT? (comparativa) | programado 18:00 en Metricool |
 | 33 | 2026-11-15 | Lee los audios de WhatsApp sin escucharlos con Transcripciones de mensajes de voz (pasos) | video listo, falta programar 10:00 |
+| 34 | 2026-11-15 | Tu propio chef gratis: recetas con la foto del refri, reemplazos y porciones con ChatGPT (lista) | video listo, falta programar 12:00 |

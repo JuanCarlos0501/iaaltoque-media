@@ -1,0 +1,21 @@
+{
+  "id": "reel_34",
+  "titulo": "Tu propio chef gratis: cocina con lo que tienes en el refri",
+  "descripcion": "3 usos de ChatGPT gratis en la cocina: foto del refri y te da recetas, reemplaza el ingrediente que te falta y ajusta la receta para más personas. Dile tus alergias y revisa siempre las cantidades 🍳",
+  "hashtags": ["#IA", "#ChatGPT", "#Cocina", "#RecetasFaciles", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu propio chef", "gratis"], "pill": "Con lo que tienes",
+     "say": "¿Abres el refri y no sabes qué cocinar? Deja que la inteligencia artificial sea tu chef, gratis, con tres trucos."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["ChatGPT", "con fotos"], "items": ["Versión gratis", "Entiende tus fotos", "Te responde al toque"],
+     "say": "La herramienta es ChatGPT, en su versión gratis. Le puedes mandar una foto, la entiende y te responde al toque."},
+    {"type": "step", "n": 1, "title": ["Recetas con", "lo que hay"], "lines": ["Foto del refri", "Pide 3 ideas", "Fáciles y rápidas"],
+     "say": "Uno: tómale una foto a tu refri abierto y escríbele: dame tres ideas de cena fáciles con lo que ves aquí."},
+    {"type": "step", "n": 2, "title": ["Te falta", "un ingrediente"], "lines": ["Dile qué te falta", "Te da un reemplazo"],
+     "say": "Dos: si a la receta le falta algo, pregúntale con qué lo puedes reemplazar. Por ejemplo, ¿qué uso si no tengo crema de leche?"},
+    {"type": "step", "n": 3, "title": ["Cocina para", "más personas"], "lines": ["Pega la receta", "Pide para 8 personas", "Recalcula todo"],
+     "say": "Tres: pega una receta y pídele que la ajuste para ocho personas. Te recalcula todas las cantidades."},
+    {"type": "list", "badge": "OJO", "title": ["Dile tus", "alergias"], "items": ["Avisa alergias", "Revisa las cantidades"],
+     "say": "Ojo: si alguien en casa tiene alergias, díselo desde el inicio, y revisa siempre las cantidades antes de cocinar."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
