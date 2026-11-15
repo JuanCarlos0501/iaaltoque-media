@@ -1,0 +1,28 @@
+{
+  "c07_prompts_docentes": [
+    ["cover", "Prepara tus\nclases en\nminutos", "5 prompts para profes y docentes"],
+    ["prompt", "1", "Plan de clase", "Arma una sesión de 45 min\nsobre [tema] para [grado]:\ninicio, actividad en grupo,\ncierre y cómo evaluar."],
+    ["prompt", "2", "Explicar fácil", "Explica [tema] para niños de\n[edad] con un ejemplo de la\nvida diaria y una analogía\nque puedan dibujar."],
+    ["prompt", "3", "Examen rápido", "Crea 10 preguntas de opción\nmúltiple sobre [tema] para\n[grado], de fácil a difícil,\ncon la respuesta correcta."],
+    ["prompt", "4", "Rúbrica", "Haz una rúbrica de 4 niveles\npara evaluar [trabajo], en\ntabla, con criterios claros\npara los alumnos."],
+    ["prompt", "5", "Mensaje a\npadres", "Escribe un mensaje breve y\namable para los padres sobre\n[tema o reunión], fecha [día],\npara enviar por WhatsApp."],
+    ["cta"]
+  ],
+  "c08_real_o_ia": [
+    ["cover", "¿Es real\no es IA?", "4 formas de detectar una imagen falsa"],
+    ["card", "1", "Pregúntale\na Gemini", "Sube la imagen en la app de\nGemini y pregunta: \"¿Esto se\ncreó con IA de Google?\".\n\nBusca la marca invisible\nSynthID. Gratis con tu cuenta."],
+    ["card", "2", "Ojo con\nsus límites", "Solo detecta la IA de Google.\nSi dice que no hay marca,\nno prueba que sea real.\n\nUsa el archivo original:\nla captura puede borrarla."],
+    ["card", "3", "Mira los\ndetalles", "Letreros con texto sin\nsentido, sombras que no\ncoinciden con la luz,\norejas, dedos o fondos raros.\n\nYa no siempre fallan: duda."],
+    ["card", "4", "Busca el\norigen", "Usa Google Lens o la búsqueda\npor imagen para ver dónde\napareció primero.\n\nSin fuente confiable,\nno la compartas."],
+    ["cta"]
+  ],
+  "c09_prompts_padres": [
+    ["cover", "Tu asistente\nde mamá y\npapá gratis", "5 prompts para el día a día en casa"],
+    ["prompt", "1", "Ayuda con\nla tarea", "Explícame [tema del cole] en\npalabras simples para que yo\nse lo explique a mi hijo de\n[edad]. Sin darle la respuesta."],
+    ["prompt", "2", "Loncheras", "Dame 5 ideas de lonchera\nsaludable y barata para un\nniño de [edad], que se armen\nen 10 minutos o menos."],
+    ["prompt", "3", "Rutina de\ncasa", "Arma una rutina diaria para\nmis hijos de [edades]: tareas,\npantalla máx. [X] h, juego\ny hora de dormir. En tabla."],
+    ["prompt", "4", "Cumpleaños", "Planea un cumpleaños para\n[N] niños de [edad] en casa:\n3 juegos, menú y lista de\ncompras con presupuesto [S/ X]."],
+    ["prompt", "5", "Charla difícil", "¿Cómo le explico a mi hijo\nde [edad] [tema difícil]?\nDame frases cortas, sinceras\ny adecuadas a su edad."],
+    ["cta"]
+  ]
+}
