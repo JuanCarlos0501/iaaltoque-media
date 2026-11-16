@@ -1,0 +1,19 @@
+{
+  "id": "reel_38",
+  "titulo": "¿Cuál traduce mejor un documento entero: Google Traductor o DeepL?",
+  "descripcion": "Comparativa rápida para traducir un PDF o Word completo: Google Traductor (pestaña Documentos en la web) es gratis y rápido, hasta 10 MB; DeepL suena más natural y cuida el formato, pero gratis solo traduce muy pocos archivos al mes. Revisa siempre nombres y cifras 📄",
+  "hashtags": ["#IA", "#GoogleTraductor", "#DeepL", "#Traduccion", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Cuál traduce mejor", "tu documento?"], "pill": "Comparativa",
+     "say": "¿Tienes un PDF o un Word en inglés y necesitas entenderlo ya? ¿Qué te conviene más: Google Traductor o DeepL?"},
+    {"type": "list", "badge": "GOOGLE TRADUCTOR", "title": ["Gratis", "y rápido"], "items": ["Web: pestaña Documentos", "Word, PDF, PowerPoint", "Hasta 10 MB"],
+     "say": "Google Traductor, en su página web, tiene la pestaña Documentos. Subes tu Word, PDF, PowerPoint o Excel de hasta diez megas, y lo traduce gratis en segundos."},
+    {"type": "list", "badge": "DEEPL", "title": ["Más natural", "y cuida el formato"], "items": ["Suena más natural", "Respeta el diseño", "Gratis: pocos archivos"],
+     "say": "DeepL suele sonar más natural y respeta mejor el diseño del archivo. Pero en su versión gratis solo traduces muy pocos documentos al mes."},
+    {"type": "list", "badge": "VEREDICTO", "title": ["Depende", "del uso"], "items": ["Entender: Google", "Enviar o publicar: DeepL"],
+     "say": "Mi veredicto: para entender algo rápido, usa Google. Si lo vas a enviar a alguien o publicar, mejor DeepL."},
+    {"type": "list", "badge": "OJO", "title": ["Revisa", "antes de usar"], "items": ["Nombres, cifras y fechas", "Nada de datos privados"],
+     "say": "Ojo: revisa nombres, cifras y fechas, y no subas documentos con datos privados."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
