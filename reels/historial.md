@@ -37,3 +37,4 @@
 | 33 | 2026-11-15 | Lee los audios de WhatsApp sin escucharlos con Transcripciones de mensajes de voz (pasos) | programado 10:00 en Metricool |
 | 34 | 2026-11-15 | Tu propio chef gratis: recetas con la foto del refri, reemplazos y porciones con ChatGPT (lista) | programado 12:00 en Metricool |
 | 35 | 2026-11-15 | ¿Cuál te ayuda más con la tarea de mates: Google Lens o el Modo estudio de ChatGPT? (comparativa) | programado 18:00 en Metricool |
+| 36 | 2026-11-16 | Haz tus propios stickers de WhatsApp sin saber diseñar con la IA de Meta (pasos) | video listo, falta programar 10:00 |

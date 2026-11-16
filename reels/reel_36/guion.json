@@ -1,0 +1,21 @@
+{
+  "id": "reel_36",
+  "titulo": "Haz tus propios stickers de WhatsApp sin saber diseñar",
+  "descripcion": "WhatsApp ya crea stickers con la IA de Meta: abres la pestaña de stickers, tocas Crear, describes tu idea y eliges entre varias opciones. Gratis y en segundos. No está en todos los países: si no te aparece, actualiza la app 🎨",
+  "hashtags": ["#IA", "#WhatsApp", "#MetaAI", "#Stickers", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Haz tus stickers", "sin saber diseñar"], "pill": "Gratis en WhatsApp",
+     "say": "¿Quieres stickers únicos para tu grupo, pero no sabes diseñar? WhatsApp ya los crea por ti con inteligencia artificial, en segundos."},
+    {"type": "step", "n": 1, "title": ["Abre los", "stickers"], "lines": ["Entra a cualquier chat", "Toca el ícono de emojis", "Ve a la pestaña stickers"],
+     "say": "Paso uno: abre cualquier chat, toca el ícono de emojis y entra a la pestaña de stickers."},
+    {"type": "step", "n": 2, "title": ["Toca Crear", "y elige la IA"], "lines": ["Toca Crear", "Elige generar con IA", "Si hay aviso: Continuar"],
+     "say": "Paso dos: toca Crear y elige la opción para generarlo con la inteligencia artificial de Meta. Si aparece un aviso, toca Continuar."},
+    {"type": "step", "n": 3, "title": ["Describe", "tu sticker"], "lines": ["Con detalle, por ejemplo:", "alpaca con lentes", "celebrando un gol"],
+     "say": "Paso tres: describe tu sticker con detalle. Por ejemplo: una alpaca con lentes de sol celebrando un gol. Te mostrará varias opciones."},
+    {"type": "step", "n": 4, "title": ["Elige", "y envía"], "lines": ["Toca el que te guste", "Se envía al chat", "Queda en Recientes"],
+     "say": "Paso cuatro: toca el que más te guste y se envía al chat. Después lo encuentras en tus stickers recientes."},
+    {"type": "list", "badge": "OJO", "title": ["Si no", "te aparece"], "items": ["No en todos los países", "Actualiza WhatsApp"],
+     "say": "Ojo: no está disponible en todos los países. Si no te aparece, actualiza WhatsApp y vuelve a revisar."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
