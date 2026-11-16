@@ -1,0 +1,21 @@
+{
+  "id": "reel_37",
+  "titulo": "Tu propio asistente de compras gratis con ChatGPT",
+  "descripcion": "Investigación de compras de ChatGPT: te hace preguntas, compara modelos y te arma una guía de compra, también en el plan gratis. 3 usos: encontrar el producto ideal, comparar y buscar regalos. Confirma siempre precio y stock en la tienda 🛍️",
+  "hashtags": ["#IA", "#ChatGPT", "#Compras", "#Navidad", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu asistente", "de compras gratis"], "pill": "3 usos",
+     "say": "¿Pierdes horas comparando productos antes de comprar algo? Deja que la inteligencia artificial lo haga por ti, gratis."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Investigación", "de compras"], "items": ["En ChatGPT, botón +", "Incluida en el plan gratis", "Cuéntale qué buscas"],
+     "say": "Se llama Investigación de compras y está en ChatGPT, también en el plan gratis. Toca el botón más, elígela y cuéntale qué buscas."},
+    {"type": "list", "badge": "USO 1", "title": ["El producto", "ideal para ti"], "items": ["Te hace preguntas", "Presupuesto y uso", "Te arma una guía"],
+     "say": "Uno: encuentra el producto ideal. Te pregunta tu presupuesto y para qué lo quieres, y te arma una guía de compra personalizada."},
+    {"type": "list", "badge": "USO 2", "title": ["Compara", "modelos"], "items": ["Ej.: 3 celulares", "Pros y contras", "Lado a lado"],
+     "say": "Dos: compara modelos. Pídele, por ejemplo, tres celulares de gama media, y te muestra los pros y contras de cada uno."},
+    {"type": "list", "badge": "USO 3", "title": ["Ideas", "de regalo"], "items": ["Para quién es", "Qué le gusta", "Cuánto quieres gastar"],
+     "say": "Tres: ideas de regalo para Navidad. Dile para quién es, qué le gusta y cuánto quieres gastar."},
+    {"type": "list", "badge": "OJO", "title": ["Confirma", "antes de pagar"], "items": ["Puede fallar en precios", "Revisa en la tienda"],
+     "say": "Ojo: puede equivocarse con precios y disponibilidad, así que confirma siempre en la tienda antes de pagar."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

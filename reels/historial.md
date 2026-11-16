@@ -38,3 +38,4 @@
 | 34 | 2026-11-15 | Tu propio chef gratis: recetas con la foto del refri, reemplazos y porciones con ChatGPT (lista) | programado 12:00 en Metricool |
 | 35 | 2026-11-15 | ¿Cuál te ayuda más con la tarea de mates: Google Lens o el Modo estudio de ChatGPT? (comparativa) | programado 18:00 en Metricool |
 | 36 | 2026-11-16 | Haz tus propios stickers de WhatsApp sin saber diseñar con la IA de Meta (pasos) | video listo, falta programar 10:00 |
+| 37 | 2026-11-16 | Tu propio asistente de compras gratis: 3 usos de Investigación de compras de ChatGPT (lista) | video listo, falta programar 12:00 |
