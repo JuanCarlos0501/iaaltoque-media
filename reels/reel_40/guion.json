@@ -1,0 +1,21 @@
+{
+  "id": "reel_40",
+  "titulo": "Tu propio asistente en el navegador gratis: 3 usos de Gemini en Chrome",
+  "descripcion": "Gemini en Chrome ya llegó a Latinoamérica, gratis y en español. 3 usos: resumir la página que lees, comparar productos de varias pestañas en una tabla y explicarte lo que no entiendes. Actualiza Chrome y busca el botón de Gemini arriba a la derecha 💻",
+  "hashtags": ["#IA", "#Gemini", "#Chrome", "#Productividad", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu asistente", "dentro de Chrome"], "pill": "3 usos gratis",
+     "say": "¿Sabías que tu navegador ahora tiene su propio asistente gratis? Deja que la inteligencia artificial lea por ti."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Gemini", "en Chrome"], "items": ["Ya en Latinoamérica", "Actualiza Chrome", "Botón arriba a la derecha"],
+     "say": "Se llama Gemini en Chrome y ya llegó a Latinoamérica. Actualiza Chrome en tu compu y toca el botón de Gemini, arriba a la derecha."},
+    {"type": "list", "badge": "USO 1", "title": ["Resume", "la página"], "items": ["Artículos largos", "Noticias o foros", "En segundos"],
+     "say": "Uno: resume la página que estás leyendo. Un artículo largo o una noticia, en pocos segundos."},
+    {"type": "list", "badge": "USO 2", "title": ["Compara", "pestañas"], "items": ["Abre varias tiendas", "Pide una tabla", "Precios lado a lado"],
+     "say": "Dos: compara varias pestañas a la vez. Abre tres tiendas y pídele una tabla con los precios y detalles de cada producto."},
+    {"type": "list", "badge": "USO 3", "title": ["Explica lo", "que no entiendes"], "items": ["Términos difíciles", "Con palabras simples", "Sin salir de la página"],
+     "say": "Tres: explícame esto. Si algo es muy técnico, pídele que te lo explique con palabras simples, sin salir de la página."},
+    {"type": "list", "badge": "OJO", "title": ["Cuida tu", "privacidad"], "items": ["Lee la pestaña abierta", "Desactívalo en Configuración"],
+     "say": "Ojo: por defecto lee la pestaña que tienes abierta. Si no quieres, puedes desactivarlo en la configuración de Chrome."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
