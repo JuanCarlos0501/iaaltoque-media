@@ -1,0 +1,21 @@
+{
+  "id": "reel_41",
+  "titulo": "¿Y si la IA organiza tu cena de fin de año con toda la familia?",
+  "descripcion": "Caso real: organizar la cena de fin de año en un chat grupal de ChatGPT, gratis. Invitas a la familia con un enlace (hasta 20 personas), mencionas a ChatGPT y te arma el reparto de platos y la cuota por persona 🎉",
+  "hashtags": ["#IA", "#ChatGPT", "#FinDeAño", "#Navidad", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Y si la IA organiza", "tu cena de fin de año?"], "pill": "Caso real",
+     "say": "¿Organizar la cena de fin de año con toda la familia y que nadie se pelee? Mira cómo hacerlo con inteligencia artificial."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Chats grupales", "de ChatGPT"], "items": ["Incluido en el plan gratis", "Hasta 20 personas", "Ícono de personas"],
+     "say": "Usa los chats grupales de ChatGPT, que también están en el plan gratis. Toca el ícono de personas y crea el grupo."},
+    {"type": "step", "n": 1, "title": ["Invita a", "la familia"], "lines": ["Comparte el enlace", "Por WhatsApp", "Cada uno entra con su cuenta"],
+     "say": "Paso uno: comparte el enlace del grupo por WhatsApp. Cada uno entra con su cuenta, y pueden ser hasta veinte personas."},
+    {"type": "step", "n": 2, "title": ["Pide el plan", "a ChatGPT"], "lines": ["Menciona a ChatGPT", "\"Somos 12, presupuesto", "300 soles, reparte platos\""],
+     "say": "Paso dos: menciona a ChatGPT y dile, por ejemplo: somos doce, tenemos trescientos soles, reparte los platos entre todos."},
+    {"type": "step", "n": 3, "title": ["Ajusten", "juntos"], "lines": ["Cada uno opina", "Lista de compras", "Cuota por persona"],
+     "say": "Paso tres: todos opinan en el mismo chat, y ChatGPT ajusta la lista de compras y la cuota por persona."},
+    {"type": "list", "badge": "OJO", "title": ["Tus datos", "seguros"], "items": ["Tu memoria no se comparte", "Revisa precios reales"],
+     "say": "Ojo: tu memoria personal no se usa en el grupo. Y revisa los precios reales en el mercado antes de cerrar la cuota."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
