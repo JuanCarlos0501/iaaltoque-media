@@ -1,0 +1,21 @@
+{
+  "id": "reel_39",
+  "titulo": "Haz tu Word, Excel o PDF sin abrir Word: Gemini lo crea por ti",
+  "descripcion": "Gemini ya crea archivos listos para descargar desde el chat, gratis: Word, Excel, PDF y más. Pídelo, revisa y descarga o guarda en Drive. Truco extra: foto de tus apuntes a mano → PDF. Revisa siempre antes de enviar 📄",
+  "hashtags": ["#IA", "#Gemini", "#Excel", "#Word", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu Excel listo", "sin abrir Excel"], "pill": "Gratis",
+     "say": "¿Tienes que hacer un Excel o un documento de Word y no sabes por dónde empezar? Deja que la inteligencia artificial lo haga por ti, gratis."},
+    {"type": "step", "n": 1, "title": ["Abre", "Gemini"], "lines": ["App o gemini.google.com", "Plan gratis", "Sin instalar nada más"],
+     "say": "Abre Gemini, en la app o en la web. Esta función es gratis y ya está disponible para todos."},
+    {"type": "step", "n": 2, "title": ["Pide el archivo", "con detalle"], "lines": ["Ej.: \"Hazme un Excel", "con mis gastos del mes", "y una columna de total\""],
+     "say": "Pídele el archivo con detalle. Por ejemplo: hazme un Excel con mis gastos del mes y una columna con el total."},
+    {"type": "step", "n": 3, "title": ["Revisa", "y descarga"], "lines": ["Descárgalo al celular", "o envíalo a Drive", "Word, Excel, PDF y más"],
+     "say": "Revisa lo que armó y descárgalo a tu dispositivo, o envíalo a Drive. Funciona con Word, Excel, PDF y más formatos."},
+    {"type": "list", "badge": "TRUCO", "title": ["Tus apuntes", "a PDF"], "items": ["Foto de tus notas a mano", "Pide: conviértelo en PDF", "Listo para compartir"],
+     "say": "Truco extra: súbele una foto de tus apuntes escritos a mano y pídele que los convierta en un PDF ordenado."},
+    {"type": "list", "badge": "OJO", "title": ["Revisa antes", "de enviar"], "items": ["Puede equivocarse", "Revisa cifras y nombres"],
+     "say": "Ojo: la inteligencia artificial puede equivocarse, así que revisa cifras y nombres antes de enviarlo."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
