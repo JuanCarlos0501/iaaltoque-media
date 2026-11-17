@@ -42,3 +42,4 @@
 | 38 | 2026-11-16 | ¿Cuál traduce mejor un documento entero: Google Traductor o DeepL? (comparativa) | programado 18:00 en Metricool |
 | 39 | 2026-11-17 | Deja que la IA haga tu Word, Excel o PDF: archivos desde el chat de Gemini (pasos) | video listo, falta programar 10:00 |
 | 40 | 2026-11-17 | Tu propio asistente en el navegador gratis: 3 usos de Gemini en Chrome (lista) | video listo, falta programar 12:00 |
+| 41 | 2026-11-17 | ¿Y si la IA organiza tu cena de fin de año? Chats grupales de ChatGPT (caso real) | video listo, falta programar 18:00 |
