@@ -40,3 +40,4 @@
 | 36 | 2026-11-16 | Haz tus propios stickers de WhatsApp sin saber diseñar con la IA de Meta (pasos) | programado 10:00 en Metricool |
 | 37 | 2026-11-16 | Tu propio asistente de compras gratis: 3 usos de Investigación de compras de ChatGPT (lista) | programado 12:00 en Metricool |
 | 38 | 2026-11-16 | ¿Cuál traduce mejor un documento entero: Google Traductor o DeepL? (comparativa) | programado 18:00 en Metricool |
+| 39 | 2026-11-17 | Deja que la IA haga tu Word, Excel o PDF: archivos desde el chat de Gemini (pasos) | video listo, falta programar 10:00 |
