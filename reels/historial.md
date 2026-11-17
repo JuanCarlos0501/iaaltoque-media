@@ -41,3 +41,4 @@
 | 37 | 2026-11-16 | Tu propio asistente de compras gratis: 3 usos de Investigación de compras de ChatGPT (lista) | programado 12:00 en Metricool |
 | 38 | 2026-11-16 | ¿Cuál traduce mejor un documento entero: Google Traductor o DeepL? (comparativa) | programado 18:00 en Metricool |
 | 39 | 2026-11-17 | Deja que la IA haga tu Word, Excel o PDF: archivos desde el chat de Gemini (pasos) | video listo, falta programar 10:00 |
+| 40 | 2026-11-17 | Tu propio asistente en el navegador gratis: 3 usos de Gemini en Chrome (lista) | video listo, falta programar 12:00 |
