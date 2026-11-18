@@ -1,0 +1,21 @@
+{
+  "id": "reel_43",
+  "titulo": "Haz videos con IA gratis sin saber editar: 3 usos de Google Vids",
+  "descripcion": "Google Vids es gratis con tu cuenta personal de Google (desde la computadora): crea clips de video con una frase, un avatar que presenta tu guion y voz en off automática. Ojo: unos 6 clips o avatares gratis al mes 🎬",
+  "hashtags": ["#IA", "#GoogleVids", "#VideosConIA", "#Emprendedores", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Haz videos con IA", "sin saber editar"], "pill": "Gratis",
+     "say": "¿Quieres hacer videos con inteligencia artificial, gratis y sin saber editar? Te muestro tres usos que te van a encantar."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Google", "Vids"], "items": ["Gratis con cuenta personal", "Se usa en la computadora", "Videos en 1080p"],
+     "say": "Usa Google Vids. Es gratis con tu cuenta personal de Google, y se usa desde la computadora."},
+    {"type": "list", "badge": "USO 1", "title": ["Clips desde", "una frase"], "items": ["Describe la escena", "La IA crea el clip", "Lo pones en tu video"],
+     "say": "Uso uno: describe una escena con una frase, y la inteligencia artificial te crea el clip de video."},
+    {"type": "list", "badge": "USO 2", "title": ["Un avatar", "que presenta"], "items": ["Escribe tu guion", "El avatar lo dice", "Ideal para tu negocio"],
+     "say": "Uso dos: escribe un guion corto y un avatar lo presenta por ti. Ideal para anunciar tu negocio."},
+    {"type": "list", "badge": "USO 3", "title": ["Voz en off", "automática"], "items": ["Escribe el texto", "La IA lo narra", "Usa créditos gratis"],
+     "say": "Uso tres: agrega una voz en off. Escribes el texto y la inteligencia artificial lo narra con créditos gratis."},
+    {"type": "list", "badge": "OJO", "title": ["Límite", "mensual"], "items": ["Unos 6 clips o avatares", "Se reinicia cada mes"],
+     "say": "Ojo: las cuentas gratis tienen unos seis clips o avatares al mes, y el límite se reinicia cada mes."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
