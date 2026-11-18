@@ -1,0 +1,21 @@
+{
+  "id": "reel_42",
+  "titulo": "Tu propio profe en video gratis: convierte tus apuntes en una clase",
+  "descripcion": "Convierte tus apuntes en una clase en video narrada, gratis y sin saber editar, con el Resumen de video de Gemini Notebook (antes NotebookLM). Sube tu PDF, documento o enlace, toca Resumen de video en el panel Studio y elige español 📚",
+  "hashtags": ["#IA", "#GeminiNotebook", "#NotebookLM", "#Estudiar", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Convierte tus apuntes", "en una clase en video"], "pill": "Sin saber editar",
+     "say": "¿Y si tus apuntes se convirtieran en una clase en video, sin que tengas que editar nada? Mira este truco gratis."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Gemini Notebook", "antes NotebookLM"], "items": ["Gratis con cuenta Google", "Videos en español", "Hecho con tus fuentes"],
+     "say": "Se hace con Gemini Notebook, la herramienta de Google que antes se llamaba NotebookLM. Es gratis con tu cuenta de Google."},
+    {"type": "step", "n": 1, "title": ["Sube tus", "apuntes"], "lines": ["Crea un cuaderno nuevo", "Sube un PDF, un documento", "o un enlace"],
+     "say": "Paso uno: crea un cuaderno nuevo y sube tus apuntes. Puede ser un PDF, un documento o un enlace."},
+    {"type": "step", "n": 2, "title": ["Pide el", "resumen de video"], "lines": ["Abre el panel Studio", "Toca Resumen de video", "Idioma: español"],
+     "say": "Paso dos: en el panel Studio, toca Resumen de video y revisa que el idioma de salida sea español."},
+    {"type": "step", "n": 3, "title": ["Mira tu", "clase"], "lines": ["Video narrado", "Con imágenes y esquemas", "Repásalo cuando quieras"],
+     "say": "Paso tres: en unos minutos tienes un video narrado, con imágenes, que te explica lo más importante de tus apuntes."},
+    {"type": "list", "badge": "OJO", "title": ["Revisa", "el contenido"], "items": ["Límite en el plan gratis", "Compáralo con tus apuntes"],
+     "say": "Ojo: el plan gratis tiene un límite de uso. Y compara siempre el video con tus apuntes, por si algo no cuadra."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}

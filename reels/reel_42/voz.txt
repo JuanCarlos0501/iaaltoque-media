@@ -1,0 +1,13 @@
+¿Y si tus apuntes se convirtieran en una clase en video, sin que tengas que editar nada? Mira este truco gratis.
+
+Se hace con Gemini Notebook, la herramienta de Google que antes se llamaba NotebookLM. Es gratis con tu cuenta de Google.
+
+Paso uno: crea un cuaderno nuevo y sube tus apuntes. Puede ser un PDF, un documento o un enlace.
+
+Paso dos: en el panel Studio, toca Resumen de video y revisa que el idioma de salida sea español.
+
+Paso tres: en unos minutos tienes un video narrado, con imágenes, que te explica lo más importante de tus apuntes.
+
+Ojo: el plan gratis tiene un límite de uso. Y compara siempre el video con tus apuntes, por si algo no cuadra.
+
+Sigue a IA al Toque, para más trucos como este.
