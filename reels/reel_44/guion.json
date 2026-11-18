@@ -1,0 +1,21 @@
+{
+  "id": "reel_44",
+  "titulo": "¿Te cobraron de más? Deja que la IA escriba tu reclamo",
+  "descripcion": "Caso real: Claude (plan gratis) redacta tu reclamo para el Libro de Reclamaciones en un minuto. Le das la empresa, la fecha, el monto y tu boleta; lo pegas y guardas la constancia. En Perú la empresa debe responder en 15 días hábiles ✍️",
+  "hashtags": ["#IA", "#Claude", "#LibroDeReclamaciones", "#Consumidor", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Te cobraron de más?", "La IA hace tu reclamo"], "pill": "Caso real",
+     "say": "¿Te cobraron de más y no sabes cómo reclamar? Mira cómo la inteligencia artificial te escribe el reclamo en un minuto."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Claude,", "plan gratis"], "items": ["Redacta claro y formal", "Tú pones los datos", "Listo en un minuto"],
+     "say": "Usa Claude, en su plan gratis. Tú le das los datos, y él redacta un reclamo claro y formal."},
+    {"type": "step", "n": 1, "title": ["Cuenta", "lo que pasó"], "lines": ["Empresa y fecha", "Monto cobrado", "Número de boleta"],
+     "say": "Paso uno: cuéntale qué pasó. La empresa, la fecha, cuánto te cobraron y el número de tu boleta."},
+    {"type": "step", "n": 2, "title": ["Pide", "el texto"], "lines": ["\"Escribe mi reclamo", "para el Libro de", "Reclamaciones\""],
+     "say": "Paso dos: dile, escribe mi reclamo para el Libro de Reclamaciones, corto, formal y pidiendo la devolución."},
+    {"type": "step", "n": 3, "title": ["Pégalo y", "guarda la copia"], "lines": ["Libro virtual o físico", "Guarda tu constancia", "Respuesta: 15 días hábiles"],
+     "say": "Paso tres: pégalo en el libro virtual o físico, y guarda tu constancia. En Perú, la empresa debe responder en quince días hábiles."},
+    {"type": "list", "badge": "OJO", "title": ["Revisa", "antes de enviar"], "items": ["Datos correctos", "Nunca des tu clave"],
+     "say": "Ojo: revisa que los datos sean correctos, y nunca compartas la clave ni el número completo de tu tarjeta."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
