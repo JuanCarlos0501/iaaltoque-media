@@ -44,3 +44,4 @@
 | 40 | 2026-11-17 | Tu propio asistente en el navegador gratis: 3 usos de Gemini en Chrome (lista) | programado 12:00 en Metricool |
 | 41 | 2026-11-17 | ¿Y si la IA organiza tu cena de fin de año? Chats grupales de ChatGPT (caso real) | programado 18:00 en Metricool |
 | 42 | 2026-11-18 | Tu propio profe en video gratis: apuntes convertidos en clase con Resumen de video de Gemini Notebook (pasos) | video listo, falta programar 10:00 |
+| 43 | 2026-11-18 | Haz videos con IA gratis sin saber editar: 3 usos de Google Vids (lista) | video listo, falta programar 12:00 |
