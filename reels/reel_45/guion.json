@@ -1,0 +1,97 @@
+{
+  "id": "reel_45",
+  "titulo": "Tu propio investigador gratis: deja que la IA investigue por ti",
+  "descripcion": "Deep Research de Gemini (gratis, con límite de uso) busca en cientos de páginas y te arma un informe con sus fuentes. Elige Deep Research, escribe tu pregunta, aprueba el plan y revisa los enlaces 🔎",
+  "hashtags": [
+    "#IA",
+    "#Gemini",
+    "#DeepResearch",
+    "#Estudiantes",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu propio",
+        "investigador gratis"
+      ],
+      "pill": "Sin buscar tú",
+      "say": "¿Tienes que investigar un tema y no tienes tiempo? Deja que la inteligencia artificial lea por ti cientos de páginas, gratis."
+    },
+    {
+      "type": "list",
+      "badge": "LA HERRAMIENTA",
+      "title": [
+        "Deep Research",
+        "de Gemini"
+      ],
+      "items": [
+        "Plan gratis con límite",
+        "Busca en la web",
+        "Informe con fuentes"
+      ],
+      "say": "Se llama Deep Research de Gemini, y funciona incluso en el plan gratis, con límite de uso. Busca en la web y te arma un informe con fuentes."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Elige",
+        "Deep Research"
+      ],
+      "lines": [
+        "Abre Gemini",
+        "En la barra de chat",
+        "Elige Deep Research"
+      ],
+      "say": "Paso uno: abre Gemini, y en la barra donde escribes, elige Deep Research."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Escribe",
+        "tu pregunta"
+      ],
+      "lines": [
+        "\"Compara los mejores",
+        "celulares por menos",
+        "de 300 dólares\""
+      ],
+      "say": "Paso dos: escribe tu pregunta con detalle. Por ejemplo, compara los mejores celulares por menos de trescientos dólares."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Aprueba",
+        "el plan"
+      ],
+      "lines": [
+        "Revisa los pasos",
+        "Toca Iniciar",
+        "Espera unos minutos"
+      ],
+      "say": "Paso tres: Gemini te muestra su plan de búsqueda. Si te parece bien, toca iniciar, y en minutos tienes tu informe."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Revisa",
+        "las fuentes"
+      ],
+      "items": [
+        "Abre los enlaces",
+        "Úsalo para temas grandes"
+      ],
+      "say": "Ojo: abre los enlaces y confirma los datos clave. Y guárdalo para preguntas grandes, porque el uso gratis es limitado."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
