@@ -1,0 +1,21 @@
+{
+  "id": "reel_46",
+  "titulo": "Tu copiloto gratis: deja que la IA te guíe en Google Maps",
+  "descripcion": "Gemini ya está dentro de la navegación de Google Maps (gratis, se activa de a pocos). Pídele paradas en tu ruta, pregúntale por un lugar o comparte tu hora de llegada, todo con la voz 🚗",
+  "hashtags": ["#IA", "#Gemini", "#GoogleMaps", "#Viajes", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["Tu propio copiloto", "gratis en el auto"], "pill": "Solo con la voz",
+     "say": "¿Y si tu mapa te respondiera como un copiloto? Deja que la inteligencia artificial te guíe, solo con la voz y gratis."},
+    {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Gemini en", "Google Maps"], "items": ["Gratis en la app", "Mientras navegas", "Toca el ícono de Gemini"],
+     "say": "Es Gemini, dentro de Google Maps. Mientras navegas, toca el ícono de Gemini o di, Hey Google. Aquí van tres usos."},
+    {"type": "step", "n": 1, "title": ["Paradas", "en tu ruta"], "lines": ["\"Busca una gasolinera", "con baño en mi ruta\""],
+     "say": "Uno: pídele paradas sin salirte del camino. Por ejemplo, busca una gasolinera con baño en mi ruta."},
+    {"type": "step", "n": 2, "title": ["Pregunta", "por un lugar"], "lines": ["\"¿Qué platos son", "los más pedidos", "en ese restaurante?\""],
+     "say": "Dos: pregúntale por un lugar. Por ejemplo, qué platos son los más pedidos en ese restaurante, o si tiene estacionamiento."},
+    {"type": "step", "n": 3, "title": ["Avisa tu", "hora de llegada"], "lines": ["\"Comparte mi hora", "de llegada con Ana\""],
+     "say": "Tres: avisa a alguien sin escribir. Dile, comparte mi hora de llegada con Ana. Por ahora, eso funciona en Android."},
+    {"type": "list", "badge": "OJO", "title": ["Llega", "de a pocos"], "items": ["Si no aparece, actualiza", "Manos en el volante"],
+     "say": "Ojo: llega de a pocos, así que si no ves el ícono, actualiza la app. Y siempre manos en el volante: todo con la voz."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
