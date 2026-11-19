@@ -48,3 +48,4 @@
 | 44 | 2026-11-18 | ¿Te cobraron de más? Deja que la IA escriba tu reclamo para el Libro de Reclamaciones con Claude (caso real) | programado 18:00 en Metricool |
 | 45 | 2026-11-19 | Tu propio investigador gratis: deja que la IA investigue por ti con Deep Research de Gemini (pasos) | video listo, falta programar 10:00 |
 | 46 | 2026-11-19 | Tu copiloto gratis: 3 usos de Gemini en la navegación de Google Maps (lista) | video listo, falta programar 12:00 |
+| 47 | 2026-11-19 | ¿Cuál escribe más natural: ChatGPT o Claude? (comparativa) | video listo, falta programar 18:00 |
