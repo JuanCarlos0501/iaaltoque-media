@@ -1,0 +1,96 @@
+{
+  "id": "reel_47",
+  "titulo": "¿Cuál escribe más natural: ChatGPT o Claude?",
+  "descripcion": "Comparativa con los planes gratis: Claude suele sonar más humano y mantener tu tono en textos largos; ChatGPT gana en listas, pasos y formato, y te da más mensajes al día. Truco: pega un texto tuyo y pide que imite tu estilo ✍️",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#Claude",
+    "#Escritura",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "¿Cuál escribe",
+        "más natural?"
+      ],
+      "pill": "Comparativa",
+      "say": "¿Tus textos con inteligencia artificial suenan a robot? Comparamos dos gratis para ver cuál escribe más natural."
+    },
+    {
+      "type": "list",
+      "badge": "EN LA PRUEBA",
+      "title": [
+        "ChatGPT",
+        "vs Claude"
+      ],
+      "items": [
+        "Ambos en plan gratis",
+        "Mismo pedido",
+        "Correos, posts, cartas"
+      ],
+      "say": "De un lado, ChatGPT. Del otro, Claude. Los dos en su plan gratis, y con el mismo pedido."
+    },
+    {
+      "type": "list",
+      "title": [
+        "Claude:",
+        "suena más humano"
+      ],
+      "say": "Claude suele sonar más humano. Usa frases más naturales y mantiene mejor tu tono, sobre todo en textos largos.",
+      "badge": "CLAUDE",
+      "items": [
+        "Frases más naturales",
+        "Mantiene tu tono",
+        "Ideal para textos largos"
+      ]
+    },
+    {
+      "type": "list",
+      "title": [
+        "ChatGPT:",
+        "rey del formato"
+      ],
+      "say": "ChatGPT gana en orden: listas, pasos, tablas y esquemas. Y en su plan gratis te da más mensajes para seguir trabajando.",
+      "badge": "CHATGPT",
+      "items": [
+        "Listas y pasos",
+        "Tablas y esquemas",
+        "Más mensajes gratis"
+      ]
+    },
+    {
+      "type": "list",
+      "badge": "VEREDICTO",
+      "title": [
+        "Elige según",
+        "lo que escribes"
+      ],
+      "items": [
+        "Carta o post: Claude",
+        "Guía o lista: ChatGPT"
+      ],
+      "say": "Veredicto: para una carta, un post o un correo con tu voz, Claude. Para una guía, una lista o algo con formato, ChatGPT."
+    },
+    {
+      "type": "list",
+      "badge": "TRUCO",
+      "title": [
+        "Que suene",
+        "a ti"
+      ],
+      "items": [
+        "Pega un texto tuyo",
+        "\"Imita mi estilo\""
+      ],
+      "say": "Truco para los dos: pega un texto escrito por ti, y pídele que imite tu estilo. Así no suena a robot."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
