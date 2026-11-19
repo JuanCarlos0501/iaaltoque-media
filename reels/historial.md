@@ -46,3 +46,4 @@
 | 42 | 2026-11-18 | Tu propio profe en video gratis: apuntes convertidos en clase con Resumen de video de Gemini Notebook (pasos) | programado 10:00 en Metricool |
 | 43 | 2026-11-18 | Haz videos con IA gratis sin saber editar: 3 usos de Google Vids (lista) | programado 12:00 en Metricool |
 | 44 | 2026-11-18 | ¿Te cobraron de más? Deja que la IA escriba tu reclamo para el Libro de Reclamaciones con Claude (caso real) | programado 18:00 en Metricool |
+| 45 | 2026-11-19 | Tu propio investigador gratis: deja que la IA investigue por ti con Deep Research de Gemini (pasos) | video listo, falta programar 10:00 |
