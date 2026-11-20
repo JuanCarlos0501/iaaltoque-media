@@ -1,0 +1,13 @@
+¿Tienes que estudiar un tema largo? Deja que la inteligencia artificial te haga un mapa mental, sin dibujar nada.
+
+Se hace con Gemini Notebook, la herramienta de Google que antes se llamaba NotebookLM. Es gratis y se usa desde la web.
+
+Paso uno: crea un cuaderno nuevo y sube tus apuntes. Puede ser un PDF, un documento o un enlace.
+
+Paso dos: toca Mapa mental. En segundos, la IA ordena todas las ideas en ramas, de lo general a lo particular.
+
+Paso tres: toca cualquier rama, y en el chat te explica ese tema con tus apuntes. También puedes descargar el mapa.
+
+Ojo: el mapa sale solo de lo que subiste, y no se edita a mano. Si falta algo, agrega otra fuente y vuelve a crearlo.
+
+Sigue a IA al Toque, para más trucos como este.
