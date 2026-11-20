@@ -1,0 +1,96 @@
+{
+  "id": "reel_49",
+  "titulo": "Tu propio asistente que no olvida nada, gratis: 3 usos de Proyectos en ChatGPT",
+  "descripcion": "Los Proyectos de ChatGPT juntan chats, archivos e instrucciones en un solo lugar, y también funcionan en el plan gratis (con límite de archivos). 3 ideas: tu curso, tu negocio y tu mudanza o viaje 📂",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#Productividad",
+    "#Organizacion",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu asistente que",
+        "no olvida nada"
+      ],
+      "pill": "Gratis",
+      "say": "¿Cansado de explicarle todo a la IA cada vez que abres un chat? Ten tu propio asistente que no olvida nada, gratis."
+    },
+    {
+      "type": "list",
+      "badge": "LA HERRAMIENTA",
+      "title": [
+        "Proyectos",
+        "en ChatGPT"
+      ],
+      "items": [
+        "Chats, archivos",
+        "e instrucciones juntos",
+        "También en el plan gratis"
+      ],
+      "say": "Son los Proyectos de ChatGPT: juntan tus chats, archivos e instrucciones en un solo lugar. Y funcionan en el plan gratis."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Tu curso",
+        "o tu examen"
+      ],
+      "lines": [
+        "Sube el temario",
+        "y tus apuntes"
+      ],
+      "say": "Uno: un proyecto para tu curso. Sube el temario y tus apuntes, y cada chat ya sabe qué estás estudiando."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Tu",
+        "negocio"
+      ],
+      "lines": [
+        "Instrucción: \"Vendo",
+        "tortas en Lima,",
+        "habla cercano\""
+      ],
+      "say": "Dos: uno para tu negocio. En las instrucciones escribe qué vendes y cómo hablas, y tus posts salen con tu estilo."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Tu mudanza",
+        "o tu viaje"
+      ],
+      "lines": [
+        "Presupuesto, fechas",
+        "y pendientes",
+        "en un solo lugar"
+      ],
+      "say": "Tres: uno para tu mudanza o tu viaje. Guarda el presupuesto, las fechas y los pendientes, y retoma cuando quieras."
+    },
+    {
+      "type": "list",
+      "badge": "CÓMO",
+      "title": [
+        "Barra lateral:",
+        "Nuevo proyecto"
+      ],
+      "items": [
+        "Ponle nombre",
+        "Gratis: pocos archivos"
+      ],
+      "say": "Para crearlo, en la barra lateral toca Nuevo proyecto. Ojo: en el plan gratis puedes subir pocos archivos."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
