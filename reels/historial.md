@@ -49,3 +49,4 @@
 | 45 | 2026-11-19 | Tu propio investigador gratis: deja que la IA investigue por ti con Deep Research de Gemini (pasos) | programado 10:00 en Metricool |
 | 46 | 2026-11-19 | Tu copiloto gratis: 3 usos de Gemini en la navegación de Google Maps (lista) | programado 12:00 en Metricool |
 | 47 | 2026-11-19 | ¿Cuál escribe más natural: ChatGPT o Claude? (comparativa) | programado 18:00 en Metricool |
+| 48 | 2026-11-20 | Haz mapas mentales sin saber diseñar con Mapa mental de Gemini Notebook (pasos) | video listo, falta programar 10:00 |
