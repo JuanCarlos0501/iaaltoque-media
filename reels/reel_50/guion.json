@@ -1,0 +1,97 @@
+{
+  "id": "reel_50",
+  "titulo": "¿Y si la IA arma tus regalos de Navidad con solo 300 soles?",
+  "descripcion": "Caso real de diciembre: dale a Claude (plan gratis) la lista de personas, sus gustos y tu presupuesto, y pídele que reparta el dinero, proponga ideas y arme un plan de compras. Los precios los revisas tú 🎁",
+  "hashtags": [
+    "#IA",
+    "#Claude",
+    "#Navidad",
+    "#Regalos",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Regalos para 8",
+        "con solo 300 soles"
+      ],
+      "pill": "Caso real",
+      "say": "¿Ocho regalos de Navidad con solo trescientos soles? Deja que la inteligencia artificial haga las cuentas por ti."
+    },
+    {
+      "type": "list",
+      "badge": "EL PEDIDO",
+      "title": [
+        "Claude,",
+        "plan gratis"
+      ],
+      "items": [
+        "8 personas",
+        "Sus gustos y edades",
+        "Tope: 300 soles"
+      ],
+      "say": "Usa Claude, en su plan gratis. Dale la lista de personas, su edad, qué les gusta, y tu tope: trescientos soles."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Reparte",
+        "el dinero"
+      ],
+      "lines": [
+        "Más para los cercanos,",
+        "menos para el",
+        "amigo secreto"
+      ],
+      "say": "Primero, pídele que reparta el dinero: más para los cercanos, menos para el amigo secreto, y que todo sume trescientos."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Ideas para",
+        "cada persona"
+      ],
+      "lines": [
+        "Dos opciones",
+        "por persona",
+        "según sus gustos"
+      ],
+      "say": "Después, pide dos ideas por persona según sus gustos. Por ejemplo: mi sobrino es gamer, ¿qué le regalo con cuarenta soles?"
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Plan",
+        "de compras"
+      ],
+      "lines": [
+        "Qué comprar",
+        "en línea y qué",
+        "en el mercado"
+      ],
+      "say": "Al final, que arme tu plan de compras: qué pedir en línea, qué buscar en el mercado, y con cuánta anticipación."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Tú revisas",
+        "los precios"
+      ],
+      "items": [
+        "Los precios son estimados",
+        "Pide un plan B barato"
+      ],
+      "say": "Ojo: sus precios son estimados, revísalos en la tienda. Y pídele un plan B más barato por si algo se agota."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
