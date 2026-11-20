@@ -50,3 +50,4 @@
 | 46 | 2026-11-19 | Tu copiloto gratis: 3 usos de Gemini en la navegación de Google Maps (lista) | programado 12:00 en Metricool |
 | 47 | 2026-11-19 | ¿Cuál escribe más natural: ChatGPT o Claude? (comparativa) | programado 18:00 en Metricool |
 | 48 | 2026-11-20 | Haz mapas mentales sin saber diseñar con Mapa mental de Gemini Notebook (pasos) | video listo, falta programar 10:00 |
+| 49 | 2026-11-20 | Tu propio asistente que no olvida nada, gratis: 3 usos de Proyectos en ChatGPT (lista) | video listo, falta programar 12:00 |
