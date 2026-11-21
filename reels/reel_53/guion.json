@@ -1,0 +1,21 @@
+{
+  "id": "reel_53",
+  "titulo": "¿Y si la IA arma tu negocio de Navidad? Costos, precio y mensaje de venta en minutos",
+  "descripcion": "Caso real: quieres vender galletas navideñas en diciembre. Dale a Gemini (gratis) tus ingredientes y lo que pagaste, y pídele el costo por unidad, un precio con ganancia, el mensaje para tu estado de WhatsApp y un plan de pedidos. Los números los revisas tú 🎄",
+  "hashtags": ["#IA", "#Gemini", "#Emprendimiento", "#Navidad", "#TrucosIA", "#IAalToque"],
+  "scenes": [
+    {"type": "hook", "title": ["¿Y si la IA arma", "tu negocio de Navidad?"], "pill": "Caso real",
+     "say": "¿Quieres ganar un dinero extra esta Navidad vendiendo galletas? Mira cómo la inteligencia artificial te arma el negocio en minutos."},
+    {"type": "list", "badge": "EL PEDIDO", "title": ["Gemini,", "gratis"], "items": ["Tus ingredientes", "Lo que pagaste", "Cuántas salen"],
+     "say": "Abre Gemini, que es gratis. Escribe tus ingredientes, cuánto pagaste por cada uno, y cuántas galletas te salen por tanda."},
+    {"type": "step", "n": 1, "title": ["Costo", "por galleta"], "lines": ["Que sume insumos,", "gas y empaque"],
+     "say": "Primero, pídele el costo por galleta. Que sume los ingredientes, el gas y las bolsitas, para que no pierdas plata."},
+    {"type": "step", "n": 2, "title": ["Precio", "con ganancia"], "lines": ["Por unidad y en caja", "de 6 o de 12"],
+     "say": "Después, que te proponga un precio con ganancia, por unidad y en cajas de seis o de doce, que son las que más se venden."},
+    {"type": "step", "n": 3, "title": ["Mensaje", "de venta"], "lines": ["Para tu estado", "de WhatsApp, corto", "y con precio"],
+     "say": "Luego, pide el mensaje para tu estado de WhatsApp: corto, con el precio y hasta qué día reciben pedidos."},
+    {"type": "list", "badge": "OJO", "title": ["Tú revisas", "los números"], "items": ["Confirma tus precios", "Pide plan de pedidos"],
+     "say": "Ojo: revisa sus cuentas con tus precios reales. Y pídele un plan de pedidos para no hornear de más."},
+    {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+  ]
+}
