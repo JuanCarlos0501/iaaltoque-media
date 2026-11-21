@@ -1,0 +1,96 @@
+{
+  "id": "reel_52",
+  "titulo": "Tu propio entrenador personal gratis: 3 usos de la IA para ejercitarte en casa",
+  "descripcion": "Sin gimnasio y sin pagar: pídele a ChatGPT (plan gratis) una rutina para tu nivel y tu tiempo, adáptala a lo que tienes en casa y arma un plan semanal que suba poco a poco. Si tienes una lesión, consulta primero con un profesional 💪",
+  "hashtags": [
+    "#IA",
+    "#ChatGPT",
+    "#EjercicioEnCasa",
+    "#Rutina",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Tu entrenador",
+        "personal gratis"
+      ],
+      "pill": "Sin gimnasio",
+      "say": "¿No tienes tiempo ni plata para el gimnasio? Deja que la inteligencia artificial sea tu entrenador personal, gratis."
+    },
+    {
+      "type": "list",
+      "badge": "LA HERRAMIENTA",
+      "title": [
+        "ChatGPT,",
+        "plan gratis"
+      ],
+      "items": [
+        "Dile tu edad y tu nivel",
+        "Cuánto tiempo tienes",
+        "Qué quieres lograr"
+      ],
+      "say": "Usa ChatGPT, en su plan gratis. Primero dile tu edad, tu nivel, cuánto tiempo tienes al día, y qué quieres lograr."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Rutina",
+        "a tu medida"
+      ],
+      "lines": [
+        "Rutina de 20 minutos",
+        "para principiante,",
+        "en casa y sin saltos"
+      ],
+      "say": "Uso uno: pide tu rutina. Por ejemplo: rutina de veinte minutos para principiante, en casa y sin saltos."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Con lo que",
+        "tienes en casa"
+      ],
+      "lines": [
+        "Una silla, una mochila",
+        "o botellas de agua"
+      ],
+      "say": "Uso dos: adapta los ejercicios a lo que tienes. Dile: solo tengo una silla y botellas de agua, ¿qué hago con eso?"
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Plan",
+        "de 4 semanas"
+      ],
+      "lines": [
+        "Que suba poco a poco",
+        "y te diga qué toca",
+        "cada día"
+      ],
+      "say": "Uso tres: pídele un plan de cuatro semanas que suba poco a poco, y vuelve cada día al mismo chat para preguntar qué te toca."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Si algo duele,",
+        "para"
+      ],
+      "items": [
+        "Lesión: ve al médico",
+        "Calienta antes"
+      ],
+      "say": "Ojo: si tienes una lesión o algo te duele, consulta primero a un profesional. Y siempre calienta antes de empezar."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
