@@ -1,0 +1,96 @@
+{
+  "id": "reel_51",
+  "titulo": "Encuentra cualquier foto en segundos, sin hacer scroll: deja que la IA la busque por ti",
+  "descripcion": "Google Fotos reconoce lo que hay en tus fotos: escribe lo que recuerdas (\"perro en la playa\"), busca el texto que sale en ellas (\"DNI\", \"wifi\") y encuentra a cada persona activando Grupos de caras. Gratis 📸",
+  "hashtags": [
+    "#IA",
+    "#GoogleFotos",
+    "#TrucosCelular",
+    "#Android",
+    "#TrucosIA",
+    "#IAalToque"
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "title": [
+        "Encuentra cualquier foto",
+        "sin hacer scroll"
+      ],
+      "pill": "Gratis y en segundos",
+      "say": "¿Tienes miles de fotos y nunca encuentras la que buscas? Deja que la inteligencia artificial la encuentre por ti, en segundos."
+    },
+    {
+      "type": "list",
+      "badge": "LA HERRAMIENTA",
+      "title": [
+        "Google",
+        "Fotos"
+      ],
+      "items": [
+        "Gratis",
+        "Android y iPhone",
+        "Reconoce cada foto"
+      ],
+      "say": "Se hace con Google Fotos, la app gratis para Android y iPhone. Su inteligencia artificial reconoce lo que aparece en cada foto."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": [
+        "Escribe lo que",
+        "recuerdas"
+      ],
+      "lines": [
+        "Toca Buscar y escribe:",
+        "perro en la playa",
+        "o torta de cumpleaños"
+      ],
+      "say": "Paso uno: toca Buscar y escribe lo que recuerdas de la foto. Por ejemplo: perro en la playa, o torta de cumpleaños."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": [
+        "Busca el texto",
+        "de tus fotos"
+      ],
+      "lines": [
+        "DNI, boleta,",
+        "clave del wifi..."
+      ],
+      "say": "Paso dos: busca por el texto que sale en la foto. Escribe DNI, boleta o wifi, y aparecen al instante."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": [
+        "Busca por",
+        "persona o lugar"
+      ],
+      "lines": [
+        "Activa Grupos de caras",
+        "en la configuración",
+        "y ponle nombre"
+      ],
+      "say": "Paso tres: activa Grupos de caras en la configuración, ponle nombre a cada persona, y busca: mamá en Cusco."
+    },
+    {
+      "type": "list",
+      "badge": "OJO",
+      "title": [
+        "Solo busca",
+        "en Google Fotos"
+      ],
+      "items": [
+        "Tus fotos deben estar ahí",
+        "Caras: no en todo país"
+      ],
+      "say": "Ojo: solo busca en las fotos que tienes en Google Fotos, y Grupos de caras no está disponible en todos los países."
+    },
+    {
+      "type": "cta",
+      "say": "Sigue a IA al Toque, para más trucos como este."
+    }
+  ]
+}
