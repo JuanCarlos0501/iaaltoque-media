@@ -1,13 +1,13 @@
 {
   "_nota": "Hasta dónde quedó cada rotación de Metabolic Spa CAX (Metricool renombra las imágenes, así que no se puede saber desde getScheduledPosts). Lo actualiza la tarea semanal.",
-  "semana": "2026-11-16 a 2026-11-22",
+  "semana": "2026-11-23 a 2026-11-29",
   "ultimo_flyer_12h": "menu-facial (dom); orden de la semana: exonucell, menu-facial, biolift, lipoescultor, botox, pdrn-prp, menu-facial",
-  "ultima_pregunta": "pregunta_04",
-  "ultimo_consejo": "consejo_07",
-  "ultimo_tip_historia": "tip_1",
-  "ultima_sanendi_historia": "historia_3_deep",
-  "ultimo_flyer_historia": "flyer_Main (orden: Main, BioLift, Lipoescultor, Botox, PdrnPrp, MenuFacial)",
-  "ultimo_cta": "cta_0",
-  "ultima_interactiva": "interactiva_1",
+  "ultima_pregunta": "pregunta_02",
+  "ultimo_consejo": "consejo_10",
+  "ultimo_tip_historia": "tip_2",
+  "ultima_sanendi_historia": "historia_2_light",
+  "ultimo_flyer_historia": "flyer_BioLift (orden: Main, BioLift, Lipoescultor, Botox, PdrnPrp, MenuFacial)",
+  "ultimo_cta": "cta_1",
+  "ultima_interactiva": "interactiva_2",
   "sanendi_carrusel": "miércoles 17:30 (IG, FB, TikTok)"
 }
