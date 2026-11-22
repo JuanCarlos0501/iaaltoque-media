@@ -55,3 +55,4 @@
 | 51 | 2026-11-21 | Encuentra cualquier foto sin hacer scroll con la búsqueda de Google Fotos (pasos) | video listo, falta programar 10:00 |
 | 52 | 2026-11-21 | Tu propio entrenador personal gratis: 3 usos de ChatGPT para ejercitarte en casa (lista) | video listo, falta programar 12:00 |
 | 53 | 2026-11-21 | ¿Y si la IA arma tu negocio de Navidad? Costos, precio y mensaje de venta de galletas con Gemini (caso real) | video listo, falta programar 18:00 |
+| 54 | 2026-11-22 | Haz tu tarjeta de Navidad sin saber diseñar: foto familiar convertida en tarjeta con Gemini (Nano Banana) (pasos) | video listo, falta programar 10:00 |
