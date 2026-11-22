@@ -1,0 +1,97 @@
+{
+ "id": "reel_55",
+ "titulo": "Deja que la IA lea la letra chica por ti: 3 usos con una foto",
+ "descripcion": "¿Un recibo, una etiqueta o un manual que no entiendes? Tómale foto y pídele a ChatGPT (plan gratis, con límite de subidas) que te lo explique: recibo de luz, etiquetas del súper y manuales de aparatos. Tapa tus datos personales antes de subir la foto 📸",
+ "hashtags": [
+  "#IA",
+  "#ChatGPT",
+  "#TrucosIA",
+  "#AhorraDinero",
+  "#Tecnología",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "La IA lee la letra",
+    "chica por ti"
+   ],
+   "pill": "Con una foto",
+   "say": "¿Recibos, etiquetas o manuales que no entiendes? Deja que la inteligencia artificial lea la letra chica por ti, con una sola foto."
+  },
+  {
+   "type": "list",
+   "badge": "LA HERRAMIENTA",
+   "title": [
+    "ChatGPT,",
+    "plan gratis"
+   ],
+   "items": [
+    "Toca el botón +",
+    "Toma o sube la foto",
+    "Pregunta lo que quieras"
+   ],
+   "say": "Usa ChatGPT, en su plan gratis. Toca el botón más, toma la foto o súbela, y pregúntale lo que quieras."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "Tu recibo",
+    "de luz"
+   ],
+   "lines": [
+    "\"¿Por qué subió",
+    "este mes? Explícame",
+    "cada cobro\""
+   ],
+   "say": "Uso uno: tu recibo de luz o de agua. Pregúntale: ¿por qué subió este mes? Explícame cada cobro en palabras simples."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Etiquetas",
+    "del súper"
+   ],
+   "lines": [
+    "Foto a dos productos:",
+    "\"¿Cuál tiene menos",
+    "azúcar y sal?\""
+   ],
+   "say": "Uso dos: las etiquetas del súper. Tómale foto a dos productos y pregunta: ¿cuál tiene menos azúcar y menos sal?"
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "El manual",
+    "del aparato"
+   ],
+   "lines": [
+    "\"Mi lavadora marca",
+    "este error,",
+    "¿qué hago?\""
+   ],
+   "say": "Uso tres: el manual de un aparato. Sube la foto de la página y pregunta: mi lavadora marca este error, ¿qué hago?"
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Cuida",
+    "tus datos"
+   ],
+   "items": [
+    "Tapa tu DNI y dirección",
+    "Confirma lo importante"
+   ],
+   "say": "Ojo: tapa tu nombre, tu DNI y tu dirección antes de subir la foto. Y lo importante, confírmalo con la empresa."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
