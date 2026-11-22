@@ -1,0 +1,95 @@
+{
+ "id": "reel_56",
+ "titulo": "¿Cuál es mejor para hablar con la IA gratis: Gemini Live o ChatGPT?",
+ "descripcion": "Comparamos el modo de voz gratis de ChatGPT con Gemini Live. ChatGPT: conversación muy natural, ideal para charlar o practicar, con tiempo limitado al día en el plan gratis. Gemini Live: gratis en Android y iPhone, ve tu cámara y tu pantalla y conecta con apps de Google como Calendar y Maps 🎙️",
+ "hashtags": [
+  "#IA",
+  "#Gemini",
+  "#ChatGPT",
+  "#AsistenteDeVoz",
+  "#TrucosIA",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "¿Con cuál IA",
+    "conviene hablar?"
+   ],
+   "pill": "Gratis",
+   "say": "¿Prefieres hablarle a la inteligencia artificial en vez de escribirle? Hay dos opciones gratis. ¿Cuál te conviene?"
+  },
+  {
+   "type": "list",
+   "badge": "LOS RIVALES",
+   "title": [
+    "Gemini Live",
+    "vs ChatGPT"
+   ],
+   "items": [
+    "Los dos gratis",
+    "Toca el ícono de voz",
+    "Y habla"
+   ],
+   "say": "De un lado, Gemini Live. Del otro, el modo de voz de ChatGPT. Los dos son gratis: tocas el ícono de voz y hablas."
+  },
+  {
+   "type": "list",
+   "badge": "CHATGPT",
+   "title": [
+    "Charla",
+    "muy natural"
+   ],
+   "items": [
+    "Ideal para conversar",
+    "Practicar entrevistas",
+    "Gratis: tiempo limitado"
+   ],
+   "say": "ChatGPT conversa de forma muy natural. Ideal para charlar o practicar una entrevista. Pero gratis tienes un tiempo limitado al día."
+  },
+  {
+   "type": "list",
+   "badge": "GEMINI LIVE",
+   "title": [
+    "Ve lo que",
+    "tú ves"
+   ],
+   "items": [
+    "Cámara y pantalla",
+    "Calendar, Keep y Maps"
+   ],
+   "say": "Gemini Live, gratis en Android y iPhone, puede ver tu cámara y tu pantalla. Y se conecta con apps de Google, como Calendar, Keep y Maps."
+  },
+  {
+   "type": "list",
+   "badge": "VEREDICTO",
+   "title": [
+    "Elige según",
+    "lo que necesitas"
+   ],
+   "items": [
+    "Conversar: ChatGPT",
+    "Ver y agendar: Gemini"
+   ],
+   "say": "Veredicto: para conversar o practicar, ChatGPT. Para mostrarle algo con la cámara o agendar algo, Gemini Live."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Cuida tu",
+    "pantalla"
+   ],
+   "items": [
+    "Cierra chats privados",
+    "Nada de contraseñas"
+   ],
+   "say": "Ojo: antes de compartir pantalla, cierra chats privados y nunca muestres contraseñas."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
