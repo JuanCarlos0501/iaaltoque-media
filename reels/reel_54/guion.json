@@ -1,0 +1,98 @@
+{
+ "id": "reel_54",
+ "titulo": "Haz tu tarjeta de Navidad sin saber diseñar: con tu foto y gratis",
+ "descripcion": "Convierte la foto de tu familia en una tarjeta navideña con Gemini (gratis, modelo de imágenes Nano Banana): sube la foto, pide el estilo, agrega tu mensaje y descárgala para mandarla por WhatsApp. Pide que mantenga las caras igual y revisa el resultado 🎄",
+ "hashtags": [
+  "#IA",
+  "#Gemini",
+  "#Navidad",
+  "#TarjetaNavideña",
+  "#TrucosIA",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "Tu tarjeta de Navidad",
+    "sin saber diseñar"
+   ],
+   "pill": "Con tu foto",
+   "say": "¿Quieres una tarjeta de Navidad bonita, con la foto de tu familia, sin saber diseñar? Deja que la inteligencia artificial la haga por ti."
+  },
+  {
+   "type": "list",
+   "badge": "LA HERRAMIENTA",
+   "title": [
+    "Gemini,",
+    "gratis"
+   ],
+   "items": [
+    "App o gemini.google.com",
+    "Tu cuenta de Google",
+    "Una foto nítida"
+   ],
+   "say": "Usa Gemini, que es gratis, en la app o en la web. Solo necesitas tu cuenta de Google y una foto nítida de tu familia."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "Sube",
+    "tu foto"
+   ],
+   "lines": [
+    "Toca el botón +",
+    "y elige la foto",
+    "de tu galería"
+   ],
+   "say": "Paso uno: toca el botón más y sube la foto. Mejor si se ven bien las caras."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Pide",
+    "el estilo"
+   ],
+   "lines": [
+    "\"Hazla tarjeta",
+    "navideña, con árbol",
+    "y luces cálidas.",
+    "Mantén las caras igual\""
+   ],
+   "say": "Paso dos: escribe, por ejemplo: conviértela en una tarjeta navideña, con un árbol y luces cálidas. Y agrega: mantén nuestras caras exactamente igual."
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "Agrega",
+    "tu mensaje"
+   ],
+   "lines": [
+    "\"Escribe arriba:",
+    "Feliz Navidad,",
+    "familia Quispe\""
+   ],
+   "say": "Paso tres: pide tu mensaje. Escribe arriba: Feliz Navidad, familia Quispe. Si algo sale raro, pídele que lo corrija."
+  },
+  {
+   "type": "list",
+   "badge": "LISTO",
+   "title": [
+    "Descarga",
+    "y comparte"
+   ],
+   "items": [
+    "Mándala por WhatsApp",
+    "Revisa caras y letras"
+   ],
+   "say": "Al final, descárgala y mándala por WhatsApp. Ojo: revisa caras y letras antes de enviarla."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
