@@ -1,0 +1,28 @@
+{
+  "c10_prompts_estudiantes": [
+    ["cover", "Tu propio\ntutor gratis\npara estudiar", "5 prompts para el cole o la universidad"],
+    ["prompt", "1", "Explícamelo\nfácil", "Explícame [tema] como si\ntuviera 12 años, con un\nejemplo de la vida diaria.\nLuego hazme 2 preguntas."],
+    ["prompt", "2", "Resumen para\nrepasar", "Resume este texto en 5 ideas\nclave y 3 conceptos que debo\nmemorizar: [pega el texto]"],
+    ["prompt", "3", "Simulacro de\nexamen", "Hazme 10 preguntas sobre\n[tema] de una en una. Espera\nmi respuesta, corrígeme y\nexplícame si fallo."],
+    ["prompt", "4", "Plan de\nestudio", "Tengo examen de [curso] en\n[N] días y 2 h libres al día.\nArma un plan diario con\nrepasos, en tabla."],
+    ["prompt", "5", "Revisa mi\ntrabajo", "Revisa mi ensayo: dime 3\nerrores de redacción y cómo\nmejorar la idea central, sin\nreescribirlo por mí. [texto]"],
+    ["cta"]
+  ],
+  "c11_black_friday": [
+    ["cover", "Deja que la IA\ncuide tu plata\nen Black Friday", "5 prompts antes de comprar (27 y 30 nov)"],
+    ["prompt", "1", "¿Es oferta\nde verdad?", "Este producto costaba [S/ X]\ny ahora [S/ Y]. Calcula el\n% de descuento real y dime\nqué revisar antes de pagar."],
+    ["prompt", "2", "Compara\nmodelos", "Compara [modelo A] y [modelo\nB] en una tabla: pros,\ncontras y para quién sirve\ncada uno. Uso: [para qué]."],
+    ["prompt", "3", "¿Me conviene\nen cuotas?", "Pagar [S/ X] en [N] cuotas\nde [S/ Y]. ¿Cuánto pago de\nmás en total y en qué %?\nExplícalo paso a paso."],
+    ["prompt", "4", "¿Es estafa?", "Me llegó este mensaje con\nuna oferta: [pega el texto].\n¿Qué señales de estafa ves?\n¿Qué debo verificar?"],
+    ["card", "!", "Antes de\npagar", "La IA no ve precios en vivo:\nconfirma el precio y la\ntienda en su web oficial.\n\nNunca le des datos de\ntu tarjeta al chat."],
+    ["cta"]
+  ],
+  "c12_quitar_fondo": [
+    ["cover", "Quita el fondo\nde una foto\nsin saber editar", "Gratis, con lo que ya tienes en tu equipo"],
+    ["card", "1", "En iPhone", "Abre la foto en Fotos y\nmantén presionada a la\npersona o mascota.\n\nToca Copiar o Compartir.\nDesde iOS 16 (iPhone XS o +)."],
+    ["card", "2", "En Android", "Abre la foto en Google Fotos\ny mantén presionado el\nsujeto hasta que brille.\n\nToca Copiar o Compartir.\nActualiza la app primero."],
+    ["card", "3", "En Windows 11", "Abre la imagen en Paint\nactualizado. En la sección\nImagen toca Quitar fondo.\n\nUn clic y queda solo\nel sujeto principal."],
+    ["card", "4", "Para que\nsalga bien", "Usa fotos con buena luz y\nun sujeto claro al frente.\n\nPelo suelto o fondos\nparecidos al sujeto\npueden quedar raros."],
+    ["cta"]
+  ]
+}
