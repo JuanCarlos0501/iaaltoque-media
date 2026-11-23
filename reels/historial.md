@@ -58,3 +58,4 @@
 | 54 | 2026-11-22 | Haz tu tarjeta de Navidad sin saber diseñar: foto familiar convertida en tarjeta con Gemini (Nano Banana) (pasos) | video listo, falta programar 10:00 |
 | 55 | 2026-11-22 | Deja que la IA lea la letra chica por ti: 3 usos de ChatGPT con una foto (recibo, etiquetas, manual) (lista) | video listo, falta programar 12:00 |
 | 56 | 2026-11-22 | ¿Cuál es mejor para hablar con la IA gratis: Gemini Live o el modo de voz de ChatGPT? (comparativa) | video listo, falta programar 18:00 |
+| 57 | 2026-11-23 | Tu hijo aprende a leer con su propio tutor gratis: Read Along de Google (pasos) | video listo, falta programar 10:00 |
