@@ -1,0 +1,96 @@
+{
+ "id": "reel_58",
+ "titulo": "Tu celular lo reconoce todo: 3 trucos gratis con una foto",
+ "descripcion": "Con Google Lens, gratis en la app de Google (Android y iPhone): descubre qué planta o qué raza de perro tienes al frente, copia el texto de un papel para pegarlo en WhatsApp y haz que tu celular te lea un texto en voz alta. Revisa siempre los resultados importantes 🔍",
+ "hashtags": [
+  "#IA",
+  "#GoogleLens",
+  "#TrucosIA",
+  "#TrucosCelular",
+  "#Tecnología",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "Tu celular",
+    "lo reconoce todo"
+   ],
+   "pill": "Con una foto",
+   "say": "¿Sabías que tu celular reconoce casi todo lo que ves? Aquí van tres trucos gratis, con una sola foto."
+  },
+  {
+   "type": "list",
+   "badge": "LA HERRAMIENTA",
+   "title": [
+    "Google Lens,",
+    "gratis"
+   ],
+   "items": [
+    "Abre la app de Google",
+    "Toca el ícono de cámara",
+    "Android y iPhone"
+   ],
+   "say": "Se llama Google Lens. Abre la app de Google y toca el ícono de cámara en la barra de búsqueda. Funciona en Android y en iPhone."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "¿Qué planta",
+    "es esta?"
+   ],
+   "lines": [
+    "Apunta a una planta,",
+    "un perro o un insecto",
+    "y te dice qué es"
+   ],
+   "say": "Truco uno: apunta a una planta, un perro o un insecto, y Lens te dice qué es. Ideal para saber cómo cuidar esa planta."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Copia el texto",
+    "de un papel"
+   ],
+   "lines": [
+    "Toca Texto, selecciona",
+    "y copia: pégalo",
+    "en WhatsApp o Word"
+   ],
+   "say": "Truco dos: copia el texto de un papel. Apunta a la hoja, toca Texto, selecciona y copia. Luego lo pegas en WhatsApp o en Word."
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "Que te lea",
+    "en voz alta"
+   ],
+   "lines": [
+    "Selecciona el texto",
+    "y toca Escuchar"
+   ],
+   "say": "Truco tres: ¿letra muy pequeña? Selecciona el texto y toca Escuchar. Tu celular te lo lee en voz alta."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Revisa",
+    "el resultado"
+   ],
+   "items": [
+    "Puede equivocarse",
+    "No comas plantas así"
+   ],
+   "say": "Ojo: Lens puede equivocarse. Nunca comas una planta o un hongo solo porque la app dijo que es seguro."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
