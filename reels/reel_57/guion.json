@@ -1,0 +1,26 @@
+{
+ "id": "reel_57",
+ "titulo": "Tu hijo aprende a leer con su propio tutor gratis",
+ "descripcion": "Read Along de Google es una app gratis para Android, sin anuncios ni compras dentro de la app, para niños de 5 años en adelante. Su tutora Diya escucha a tu hijo leer en voz alta, lo felicita y le ayuda con las palabras difíciles. Las historias descargadas funcionan sin internet 📚",
+ "hashtags": ["#IA", "#ReadAlong", "#AprenderALeer", "#Educación", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Tu hijo aprende", "a leer con un tutor"], "pill": "Gratis",
+   "say": "¿Quieres que tu hijo practique la lectura con su propio tutor, gratis? Deja que la inteligencia artificial lo escuche leer y lo ayude."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Read Along,", "de Google"],
+   "items": ["App gratis en Android", "Sin anuncios", "Desde los 5 años"],
+   "say": "Se llama Read Along, de Google. Es una app gratis para Android, sin anuncios ni compras, pensada para niños desde los cinco años."},
+  {"type": "step", "n": 1, "title": ["Descarga", "la app"],
+   "lines": ["Búscala en Play Store", "y elige el idioma", "español"],
+   "say": "Paso uno: búscala en la Play Store como Read Along, instálala y elige el idioma español."},
+  {"type": "step", "n": 2, "title": ["Elige", "una historia"],
+   "lines": ["Hay cuentos por nivel:", "empieza por", "los más fáciles"],
+   "say": "Paso dos: tu hijo elige una historia. Hay cuentos de distintos niveles, así que empieza por los más fáciles."},
+  {"type": "step", "n": 3, "title": ["Que lea", "en voz alta"],
+   "lines": ["Diya lo escucha,", "lo felicita y le ayuda", "con palabras difíciles"],
+   "say": "Paso tres: que lea en voz alta. La tutora, Diya, lo escucha, lo felicita cuando acierta, y le ayuda con las palabras difíciles."},
+  {"type": "list", "badge": "OJO", "title": ["Antes de", "empezar"],
+   "items": ["Baja historias con wifi", "Luego, sin internet", "No hay versión iPhone"],
+   "say": "Ojo: descarga las historias con wifi y luego funciona sin internet. Por ahora no hay app para iPhone."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
