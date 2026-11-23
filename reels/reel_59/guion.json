@@ -1,0 +1,97 @@
+{
+ "id": "reel_59",
+ "titulo": "¿Y si la IA arma las vacaciones de tus hijos? Plan semanal sin gastar",
+ "descripcion": "Caso real: le pedimos a ChatGPT (plan gratis) un plan de vacaciones para dos niños de 7 y 10 años, con 1 hora de repaso al día, actividades en casa con poco presupuesto y menos pantallas. Te dejamos el prompt para que lo adaptes a tu familia 🏖️",
+ "hashtags": [
+  "#IA",
+  "#ChatGPT",
+  "#Vacaciones",
+  "#Crianza",
+  "#TrucosIA",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "¿Y si la IA arma",
+    "sus vacaciones?"
+   ],
+   "pill": "Caso real",
+   "say": "¿Tus hijos ya están de vacaciones y no sabes qué hacer con ellos? Le pedimos un plan a la inteligencia artificial. Mira."
+  },
+  {
+   "type": "list",
+   "badge": "LA HERRAMIENTA",
+   "title": [
+    "ChatGPT,",
+    "plan gratis"
+   ],
+   "items": [
+    "Escribe la edad",
+    "Tu horario y presupuesto",
+    "Lo que les gusta"
+   ],
+   "say": "Usamos ChatGPT, gratis. La clave es darle datos: la edad de los niños, tu horario, tu presupuesto y lo que les gusta."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "El pedido"
+   ],
+   "lines": [
+    "\"Plan de lunes a",
+    "viernes para niños de",
+    "7 y 10 años, poco gasto",
+    "y menos pantallas\""
+   ],
+   "say": "Este fue el pedido: arma un plan de lunes a viernes para niños de siete y diez años, en casa, poco gasto y menos pantallas."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Lo que",
+    "respondió"
+   ],
+   "lines": [
+    "Mañana: 1 hora de repaso",
+    "Tarde: manualidad o juego",
+    "Viernes: cocinan juntos"
+   ],
+   "say": "La respuesta: en las mañanas, una hora de repaso de lectura y mates. En las tardes, manualidades o juegos. Y el viernes, cocinan juntos."
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "Ajústalo",
+    "a tu gusto"
+   ],
+   "lines": [
+    "\"Hazlo en tabla\"",
+    "\"Agrega salidas",
+    "gratis al parque\""
+   ],
+   "say": "Luego, pídele cambios: hazlo en una tabla para imprimir, o agrega salidas gratis al parque."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Tú tienes",
+    "la última palabra"
+   ],
+   "items": [
+    "Revisa cada actividad",
+    "No des datos de tus hijos"
+   ],
+   "say": "Ojo: revisa que cada actividad sea segura para su edad, y no compartas nombres ni datos de tus hijos."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
