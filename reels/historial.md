@@ -60,3 +60,4 @@
 | 56 | 2026-11-22 | ¿Cuál es mejor para hablar con la IA gratis: Gemini Live o el modo de voz de ChatGPT? (comparativa) | video listo, falta programar 18:00 |
 | 57 | 2026-11-23 | Tu hijo aprende a leer con su propio tutor gratis: Read Along de Google (pasos) | video listo, falta programar 10:00 |
 | 58 | 2026-11-23 | Tu celular lo reconoce todo: 3 trucos gratis de Google Lens (plantas, copiar texto, escuchar) (lista) | video listo, falta programar 12:00 |
+| 59 | 2026-11-23 | ¿Y si la IA arma las vacaciones de tus hijos? Plan semanal en casa con poco gasto con ChatGPT (caso real) | video listo, falta programar 18:00 |
