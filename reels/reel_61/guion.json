@@ -1,0 +1,96 @@
+{
+ "id": "reel_61",
+ "titulo": "Haz que la IA te responda como experto: 3 trucos",
+ "descripcion": "Tres trucos para que ChatGPT, Gemini o cualquier IA te responda mucho mejor: dale contexto, pide el formato que quieres y pídele que te haga preguntas antes de responder. La propia guía de OpenAI recomienda ser específico. Revisa siempre los datos importantes ✅",
+ "hashtags": [
+  "#IA",
+  "#ChatGPT",
+  "#Gemini",
+  "#TrucosIA",
+  "#Prompts",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "Haz que la IA",
+    "te responda mejor"
+   ],
+   "pill": "3 trucos",
+   "say": "¿La IA te da respuestas genéricas? No es la IA, es cómo le pides. Con estos tres trucos te responde como un experto."
+  },
+  {
+   "type": "list",
+   "badge": "SIRVE EN",
+   "title": [
+    "ChatGPT, Gemini",
+    "o cualquier IA"
+   ],
+   "items": [
+    "Gratis",
+    "Sin saber de IA",
+    "Lo dice la guía de OpenAI"
+   ],
+   "say": "Sirven en ChatGPT, en Gemini o en la que uses, y son gratis. La misma guía de OpenAI lo recomienda: sé específico."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "Dale",
+    "contexto"
+   ],
+   "lines": [
+    "Quién eres, qué",
+    "necesitas y para qué"
+   ],
+   "say": "Truco uno: dale contexto. En vez de decir hazme un menú, di: tengo dos hijos, poco tiempo y cien soles para la semana."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Pide el",
+    "formato"
+   ],
+   "lines": [
+    "Tabla, lista,",
+    "cinco líneas o",
+    "un mensaje corto"
+   ],
+   "say": "Truco dos: pide el formato. Dile si lo quieres en una tabla, en una lista o en cinco líneas para mandar por WhatsApp."
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "Que te pregunte",
+    "primero"
+   ],
+   "lines": [
+    "Escribe: antes de",
+    "responder, hazme las",
+    "preguntas que necesites"
+   ],
+   "say": "Truco tres: termina con esta frase: antes de responder, hazme las preguntas que necesites. Así la IA completa lo que faltó."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Revisa",
+    "los datos"
+   ],
+   "items": [
+    "Puede equivocarse",
+    "Verifica lo importante"
+   ],
+   "say": "Ojo: aunque te responda mejor, la IA puede equivocarse. Revisa siempre los datos importantes."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
