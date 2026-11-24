@@ -1,0 +1,96 @@
+{
+ "id": "reel_62",
+ "titulo": "¿Cuál es mejor para buscar: el Modo IA de Google o la búsqueda de siempre?",
+ "descripcion": "El Modo IA de Google ya está en español en Latinoamérica: escribe tu pregunta en google.com y toca Modo IA, o entra desde la app de Google. ¿Cuándo usarlo y cuándo quedarte con la búsqueda normal? Aquí la comparativa. Ojo: la IA puede equivocarse, abre los enlaces 🔎",
+ "hashtags": [
+  "#IA",
+  "#Google",
+  "#ModoIA",
+  "#TrucosIA",
+  "#Tecnología",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "¿Modo IA o",
+    "búsqueda normal?"
+   ],
+   "pill": "¿Cuál te conviene?",
+   "say": "Google ahora tiene dos formas de buscar. ¿Cuál te conviene más? Te lo explico en menos de un minuto."
+  },
+  {
+   "type": "list",
+   "badge": "LOS RIVALES",
+   "title": [
+    "Modo IA",
+    "de Google"
+   ],
+   "items": [
+    "Gratis y en español",
+    "En google.com o la app",
+    "Toca el botón Modo IA"
+   ],
+   "say": "El Modo IA ya llegó en español a Latinoamérica. Escribe tu pregunta en Google y toca Modo IA, o entra desde la app de Google."
+  },
+  {
+   "type": "list",
+   "badge": "MODO IA",
+   "title": [
+    "Para preguntas",
+    "largas"
+   ],
+   "items": [
+    "Planear un viaje",
+    "Comparar opciones",
+    "Seguir preguntando"
+   ],
+   "say": "Usa el Modo IA para preguntas largas: planear un viaje, comparar dos celulares o entender algo complicado. Te responde y puedes seguir preguntando."
+  },
+  {
+   "type": "list",
+   "badge": "BÚSQUEDA NORMAL",
+   "title": [
+    "Para algo",
+    "rápido"
+   ],
+   "items": [
+    "Entrar a una página",
+    "Un teléfono o dirección",
+    "Ver varias tiendas"
+   ],
+   "say": "La búsqueda de siempre gana en lo rápido: entrar a una página, buscar un teléfono o una dirección, o ver varias tiendas a la vez."
+  },
+  {
+   "type": "list",
+   "badge": "VEREDICTO",
+   "title": [
+    "Usa",
+    "los dos"
+   ],
+   "items": [
+    "Dudas complejas: Modo IA",
+    "Datos puntuales: normal"
+   ],
+   "say": "Mi veredicto: para dudas complejas, Modo IA. Para datos puntuales, la búsqueda normal."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Abre",
+    "los enlaces"
+   ],
+   "items": [
+    "Puede equivocarse",
+    "Revisa las fuentes"
+   ],
+   "say": "Ojo: el Modo IA puede equivocarse. Abre los enlaces que te muestra antes de decidir."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
