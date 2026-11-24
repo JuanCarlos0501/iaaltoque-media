@@ -62,3 +62,4 @@
 | 58 | 2026-11-23 | Tu celular lo reconoce todo: 3 trucos gratis de Google Lens (plantas, copiar texto, escuchar) (lista) | video listo, falta programar 12:00 |
 | 59 | 2026-11-23 | ¿Y si la IA arma las vacaciones de tus hijos? Plan semanal en casa con poco gasto con ChatGPT (caso real) | video listo, falta programar 18:00 |
 | 60 | 2026-11-24 | Borra a extraños de tus fotos sin saber editar con el Borrador mágico de Google Fotos (pasos) | video listo, falta programar 10:00 |
+| 61 | 2026-11-24 | Haz que la IA te responda como experto: 3 trucos para pedirle mejor a ChatGPT o Gemini (lista) | video listo, falta programar 12:00 |
