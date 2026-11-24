@@ -1,0 +1,95 @@
+{
+ "id": "reel_60",
+ "titulo": "Borra a extraños de tus fotos sin saber editar",
+ "descripcion": "Con el Borrador mágico de Google Fotos, gratis en Android y iPhone (con un límite de usos al mes): abre la foto, toca Editar, ve a Herramientas, toca Borrador mágico y marca lo que quieres quitar. Funciona mejor con objetos pequeños y fondos simples 📸",
+ "hashtags": [
+  "#IA",
+  "#GoogleFotos",
+  "#BorradorMagico",
+  "#TrucosIA",
+  "#EditarFotos",
+  "#IAalToque"
+ ],
+ "scenes": [
+  {
+   "type": "hook",
+   "title": [
+    "Borra a extraños",
+    "de tus fotos"
+   ],
+   "pill": "Sin saber editar",
+   "say": "¿Alguien se metió en tu mejor foto? Bórralo en segundos, sin saber editar y gratis, desde tu celular."
+  },
+  {
+   "type": "list",
+   "badge": "LA HERRAMIENTA",
+   "title": [
+    "Borrador mágico",
+    "de Google Fotos"
+   ],
+   "items": [
+    "En la app Google Fotos",
+    "Android y iPhone",
+    "Gratis, con límite al mes"
+   ],
+   "say": "Se llama Borrador mágico y está en la app de Google Fotos, en Android y en iPhone. Es gratis, con un límite de usos al mes."
+  },
+  {
+   "type": "step",
+   "n": 1,
+   "title": [
+    "Abre la foto",
+    "y toca Editar"
+   ],
+   "lines": [
+    "Elige la foto",
+    "y toca Editar, abajo"
+   ],
+   "say": "Paso uno: abre la foto en Google Fotos y toca Editar, en la parte de abajo de la pantalla."
+  },
+  {
+   "type": "step",
+   "n": 2,
+   "title": [
+    "Entra a",
+    "Herramientas"
+   ],
+   "lines": [
+    "Desliza el menú",
+    "y toca Borrador mágico"
+   ],
+   "say": "Paso dos: desliza el menú hasta Herramientas y toca Borrador mágico. A veces la app ya te sugiere qué borrar."
+  },
+  {
+   "type": "step",
+   "n": 3,
+   "title": [
+    "Marca",
+    "y borra"
+   ],
+   "lines": [
+    "Toca o rodea con el dedo",
+    "lo que quieres quitar",
+    "y luego toca Guardar"
+   ],
+   "say": "Paso tres: toca o rodea con el dedo a la persona o al objeto, y desaparece. Si te gusta cómo quedó, toca Guardar."
+  },
+  {
+   "type": "list",
+   "badge": "OJO",
+   "title": [
+    "Mejor con",
+    "fondos simples"
+   ],
+   "items": [
+    "Objetos pequeños",
+    "Cielo, arena o pared"
+   ],
+   "say": "Ojo: funciona mejor con cosas pequeñas y fondos simples, como el cielo, la arena o una pared."
+  },
+  {
+   "type": "cta",
+   "say": "Sigue a IA al Toque, para más trucos como este."
+  }
+ ]
+}
