@@ -1,0 +1,21 @@
+{
+ "id": "reel_65",
+ "titulo": "¿Y si la IA arma tus compras de Black Friday con 500 soles?",
+ "descripcion": "Caso real: Ana tiene 500 soles para este Black Friday (27 de noviembre). Le pidió a ChatGPT ordenar su lista por prioridad, repartir el presupuesto y decirle cómo saber si una oferta es real. Sirve igual con Gemini. Ojo: la IA no ve los precios de cada tienda al momento; compara tú antes de pagar 🛒",
+ "hashtags": ["#IA", "#ChatGPT", "#BlackFriday", "#Ahorro", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Black Friday", "con 500 soles"], "pill": "¿La IA decide?",
+   "say": "¿Y si la IA te arma las compras de Black Friday para que no gastes de más? Mira lo que hizo Ana con quinientos soles."},
+  {"type": "list", "badge": "EL CASO", "title": ["Ana y", "su lista"], "items": ["Presupuesto: S/ 500", "Lista de 8 cosas", "Usó ChatGPT gratis"],
+   "say": "Ana tenía una lista de ocho cosas y solo quinientos soles. Abrió ChatGPT gratis y le escribió su lista con el presupuesto."},
+  {"type": "step", "n": 1, "title": ["Ordena por", "prioridad"], "lines": ["Pide: separa lo que", "necesito de lo", "que solo quiero"],
+   "say": "Primero le pidió: separa lo que necesito de lo que solo quiero. La IA puso arriba las zapatillas del colegio y la licuadora."},
+  {"type": "step", "n": 2, "title": ["Reparte el", "presupuesto"], "lines": ["Tope de precio", "para cada cosa,", "sin pasar de 500"],
+   "say": "Después: dame un tope de precio para cada cosa sin pasar de quinientos. Así Ana sabía cuánto pagar como máximo."},
+  {"type": "step", "n": 3, "title": ["¿La oferta", "es real?"], "lines": ["Pide cómo revisar", "si el descuento", "es verdadero"],
+   "say": "Por último: ¿cómo sé si una oferta es real? Le dijo que compare el precio de semanas antes y en varias tiendas."},
+  {"type": "list", "badge": "OJO", "title": ["Compara", "tú también"], "items": ["No ve todos los precios", "Revisa antes de pagar"],
+   "say": "Ojo: la IA no ve los precios de cada tienda en ese momento. Úsala para planear y revisa tú antes de pagar."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
