@@ -1,0 +1,21 @@
+{
+ "id": "reel_64",
+ "titulo": "Deja que la IA detecte estafas por ti: 3 usos gratis",
+ "descripcion": "Antes de responder un mensaje raro, abrir un link o hacer caso a un correo del 'banco', pregúntale a ChatGPT o Gemini (gratis, aceptan capturas). Te dice qué señales de estafa ve. Ojo: la IA puede equivocarse; ante la duda, llama a tu banco al número oficial y nunca compartas claves ni códigos 🔒",
+ "hashtags": ["#IA", "#ChatGPT", "#Gemini", "#Estafas", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["La IA detecta", "estafas por ti"], "pill": "3 usos gratis",
+   "say": "¿Te llegó un mensaje raro y no sabes si es estafa? Deja que la IA lo revise por ti antes de caer. Aquí tres usos gratis."},
+  {"type": "list", "badge": "SIRVE CON", "title": ["ChatGPT", "o Gemini"], "items": ["Gratis", "Acepta capturas", "En tu celular"],
+   "say": "Sirve con ChatGPT o con Gemini, gratis en tu celular. Los dos aceptan capturas de pantalla."},
+  {"type": "step", "n": 1, "title": ["Mensaje", "sospechoso"], "lines": ["Manda la captura y", "pregunta: ¿esto", "parece estafa?"],
+   "say": "Uso uno: el mensaje sospechoso. Mándale la captura y pregúntale: ¿esto parece una estafa? Te explica qué señales ve."},
+  {"type": "step", "n": 2, "title": ["Un link", "raro"], "lines": ["No lo abras:", "copia el link y", "pide que lo revise"],
+   "say": "Uso dos: un link raro. No lo abras. Cópialo y pregúntale si la dirección parece de la página oficial o una copia."},
+  {"type": "step", "n": 3, "title": ["Correo del", "banco"], "lines": ["Pega el correo y", "pide las señales", "de alerta"],
+   "say": "Uso tres: el correo del supuesto banco. Pégalo y pídele las señales de alerta: urgencia, errores o pedirte tus claves."},
+  {"type": "list", "badge": "OJO", "title": ["La IA", "puede fallar"], "items": ["Llama al número oficial", "Nunca des claves"],
+   "say": "Ojo: la IA puede equivocarse. Ante la duda, llama a tu banco al número oficial y nunca compartas tus claves ni códigos."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
