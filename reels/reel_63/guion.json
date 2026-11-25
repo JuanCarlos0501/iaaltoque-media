@@ -1,0 +1,21 @@
+{
+ "id": "reel_63",
+ "titulo": "Entiende chats en otro idioma sin saber el idioma",
+ "descripcion": "WhatsApp ya traduce mensajes dentro del chat: mantén presionado el mensaje, toca Traducir (en Android, en los tres puntos; en iPhone, en Más) y elige el idioma. En Android puedes activar la traducción automática de todo el chat. La función llega de forma gradual; si no te aparece, actualiza WhatsApp 🌎",
+ "hashtags": ["#IA", "#WhatsApp", "#Traductor", "#TrucosIA", "#Idiomas", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Entiende chats", "en otro idioma"], "pill": "Sin saber el idioma",
+   "say": "¿Te escriben en inglés o en portugués y no entiendes nada? Ahora lo entiendes sin saber el idioma, sin salir del chat."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Traducir", "de WhatsApp"], "items": ["Dentro del chat", "Android y iPhone", "También en grupos"],
+   "say": "WhatsApp ya traduce mensajes en el mismo chat. Funciona en Android y en iPhone, en chats, grupos y canales."},
+  {"type": "step", "n": 1, "title": ["Mantén", "presionado"], "lines": ["Mantén presionado", "el mensaje que no", "entiendes"],
+   "say": "Paso uno: abre el chat y mantén presionado el mensaje que no entiendes."},
+  {"type": "step", "n": 2, "title": ["Toca", "Traducir"], "lines": ["Android: tres puntos", "iPhone: toca Más", "y luego Traducir"],
+   "say": "Paso dos: toca Traducir. En Android está en los tres puntos de arriba. En iPhone, toca Más y luego Traducir."},
+  {"type": "step", "n": 3, "title": ["Elige", "el idioma"], "lines": ["Elige los idiomas", "y descarga el", "paquete si te pide"],
+   "say": "Paso tres: elige el idioma del mensaje y el tuyo. La primera vez te pide descargar el paquete del idioma."},
+  {"type": "list", "badge": "TRUCO", "title": ["Todo el chat", "traducido"], "items": ["Solo en Android", "Activa la traducción", "automática del chat"],
+   "say": "Truco extra en Android: activa la traducción automática y todos los mensajes nuevos de ese chat te llegan traducidos."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
