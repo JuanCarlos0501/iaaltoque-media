@@ -1,0 +1,21 @@
+{
+ "id": "reel_68",
+ "titulo": "¿Y si la IA arma tu plan para los exámenes finales?",
+ "descripcion": "Caso real: Diego tiene 4 exámenes finales en dos semanas y solo 2 horas libres al día. Le pidió a Gemini (gratis) un horario por días que ponga primero lo más difícil, con repasos y descansos, y que lo vuelva a ordenar cuando se atrasa. Sirve igual con ChatGPT o Claude. Ojo: el plan lo ajustas tú a tu ritmo 📚",
+ "hashtags": ["#IA", "#Gemini", "#Estudiar", "#Examenes", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Tu plan para", "los finales"], "pill": "¿La IA lo arma?",
+   "say": "¿Se vienen los exámenes finales y no sabes por dónde empezar? Mira cómo Diego dejó que la IA le armara el plan."},
+  {"type": "list", "badge": "EL CASO", "title": ["Diego y", "sus finales"], "items": ["4 exámenes", "En dos semanas", "Usó Gemini gratis"],
+   "say": "Diego tenía cuatro exámenes en dos semanas y solo dos horas libres al día. Abrió Gemini gratis y le contó todo."},
+  {"type": "step", "n": 1, "title": ["Dale tus", "datos"], "lines": ["Cursos, fechas de", "examen y horas", "libres por día"],
+   "say": "Primero le dio sus datos: los cursos, la fecha de cada examen y cuántas horas libres tenía cada día de la semana."},
+  {"type": "step", "n": 2, "title": ["Pide un", "horario"], "lines": ["Tabla por días,", "lo más difícil", "primero, con repasos"],
+   "say": "Después le pidió: arma un horario en tabla, por días, con lo más difícil primero, repasos y descansos cortos."},
+  {"type": "step", "n": 3, "title": ["Si te", "atrasas"], "lines": ["Dile qué no", "avanzaste y pide", "que reordene"],
+   "say": "Y cuando se atrasó un día, no se estresó: le dijo qué no avanzó y Gemini le reordenó el resto de la semana."},
+  {"type": "list", "badge": "OJO", "title": ["Tú pones", "el ritmo"], "items": ["Ajusta el plan", "La IA no estudia por ti"],
+   "say": "Ojo: la IA arma el plan, pero el ritmo lo pones tú. Ajusta los tiempos a cómo estudias y, sobre todo, cúmplelo."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}

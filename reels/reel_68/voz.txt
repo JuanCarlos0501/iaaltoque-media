@@ -1,0 +1,13 @@
+¿Se vienen los exámenes finales y no sabes por dónde empezar? Mira cómo Diego dejó que la IA le armara el plan.
+
+Diego tenía cuatro exámenes en dos semanas y solo dos horas libres al día. Abrió Gemini gratis y le contó todo.
+
+Primero le dio sus datos: los cursos, la fecha de cada examen y cuántas horas libres tenía cada día de la semana.
+
+Después le pidió: arma un horario en tabla, por días, con lo más difícil primero, repasos y descansos cortos.
+
+Y cuando se atrasó un día, no se estresó: le dijo qué no avanzó y Gemini le reordenó el resto de la semana.
+
+Ojo: la IA arma el plan, pero el ritmo lo pones tú. Ajusta los tiempos a cómo estudias y, sobre todo, cúmplelo.
+
+Sigue a IA al Toque, para más trucos como este.
