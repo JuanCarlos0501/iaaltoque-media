@@ -68,3 +68,4 @@
 | 64 | 2026-11-25 | Deja que la IA detecte estafas por ti: 3 usos gratis de ChatGPT o Gemini (mensaje, link, correo del banco) (lista) | video listo, falta programar 12:00 |
 | 65 | 2026-11-25 | ¿Y si la IA arma tus compras de Black Friday con 500 soles? Prioridades, topes y ofertas reales con ChatGPT (caso real) | video listo, falta programar 18:00 |
 | 66 | 2026-11-26 | Haz infografías sin saber diseñar: apuntes convertidos en infografía con Gemini Notebook (pasos) | video listo, falta programar 10:00 |
+| 67 | 2026-11-26 | Deja que la IA te avise por ti: 3 usos gratis de las Tareas programadas de ChatGPT (noticias, inglés, cena) (lista) | video listo, falta programar 12:00 |
