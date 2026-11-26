@@ -1,0 +1,21 @@
+{
+ "id": "reel_67",
+ "titulo": "Deja que la IA te avise por ti: 3 usos gratis",
+ "descripcion": "Las tareas programadas de ChatGPT ya funcionan en la cuenta gratis: pídele en el chat que te mande algo cada día y te llega como notificación o correo. En el plan gratis puedes tener hasta 3 tareas activas, máximo una vez al día y en franjas como mañana, tarde o noche. Las ves en Programadas, en el menú lateral ⏰",
+ "hashtags": ["#IA", "#ChatGPT", "#Productividad", "#Recordatorios", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["La IA te avisa", "sin que lo pidas"], "pill": "3 usos gratis",
+   "say": "¿Y si la IA te escribiera cada día con lo que necesitas, sin que tengas que pedírselo? Aquí tres usos gratis."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Tareas de", "ChatGPT"], "items": ["Cuenta gratis", "Notificación o correo", "Pídelo en el chat"],
+   "say": "Son las tareas programadas de ChatGPT, ya en la cuenta gratis. Se lo pides en el chat y te llega una notificación o un correo."},
+  {"type": "step", "n": 1, "title": ["Tu resumen", "de la mañana"], "lines": ["Pide: cada mañana,", "las noticias de mi", "país en 5 puntos"],
+   "say": "Uso uno: tu resumen de la mañana. Escribe: cada mañana mándame las noticias de mi país en cinco puntos."},
+  {"type": "step", "n": 2, "title": ["Practica", "inglés"], "lines": ["Pide: cada noche,", "una frase en inglés", "con su traducción"],
+   "say": "Uso dos: practica inglés sin esfuerzo. Pide: cada noche mándame una frase en inglés con su traducción y un ejemplo."},
+  {"type": "step", "n": 3, "title": ["Qué", "cocinar hoy"], "lines": ["Pide: cada tarde,", "una idea de cena", "fácil y barata"],
+   "say": "Uso tres: deja de pensar qué cocinar. Pide: cada tarde dame una idea de cena fácil y barata con cosas básicas."},
+  {"type": "list", "badge": "OJO", "title": ["Límites", "del plan gratis"], "items": ["Hasta 3 tareas", "Una vez al día", "Mañana, tarde o noche"],
+   "say": "Ojo: gratis puedes tener hasta tres tareas, una vez al día, en mañana, tarde o noche. Las ves en Programadas, en el menú."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
