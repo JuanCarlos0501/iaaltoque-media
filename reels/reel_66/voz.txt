@@ -1,0 +1,13 @@
+¿Tienes que presentar un tema y no sabes diseñar? Deja que la IA convierta tus apuntes en una infografía bonita, gratis.
+
+Se hace con Gemini Notebook, el que antes se llamaba NotebookLM. Es gratis con tu cuenta de Google.
+
+Paso uno: crea un cuaderno nuevo y sube tu fuente. Puede ser un PDF, tus apuntes o el enlace de una página web.
+
+Paso dos: en el panel Studio, toca el lápiz que está junto a Infografía. Ahí puedes personalizarla antes de crearla.
+
+Paso tres: elige si la quieres vertical, cuadrada u horizontal, y cuánto detalle lleva. Toca generar y descárgala.
+
+Ojo: la infografía la hace la IA y puede tener errores. Revísala bien y, si algo falla, cambia la instrucción y regenera.
+
+Sigue a IA al Toque, para más trucos como este.

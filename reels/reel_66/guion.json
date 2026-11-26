@@ -1,0 +1,21 @@
+{
+ "id": "reel_66",
+ "titulo": "Haz infografías sin saber diseñar, gratis",
+ "descripcion": "Gemini Notebook (antes NotebookLM) convierte tus apuntes, un PDF o una página web en una infografía lista para compartir. Sube tu fuente, toca el lápiz junto a Infografía en el panel Studio, elige orientación y nivel de detalle, y descárgala. Ojo: la crea la IA y puede tener errores; revísala antes de usarla 📊",
+ "hashtags": ["#IA", "#GeminiNotebook", "#NotebookLM", "#Infografia", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Haz infografías", "sin saber diseñar"], "pill": "Gratis y en minutos",
+   "say": "¿Tienes que presentar un tema y no sabes diseñar? Deja que la IA convierta tus apuntes en una infografía bonita, gratis."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Gemini", "Notebook"], "items": ["Antes NotebookLM", "Cuenta gratis", "Lee PDF, web o notas"],
+   "say": "Se hace con Gemini Notebook, el que antes se llamaba NotebookLM. Es gratis con tu cuenta de Google."},
+  {"type": "step", "n": 1, "title": ["Sube tu", "fuente"], "lines": ["Crea un cuaderno y", "sube tu PDF, tus", "apuntes o una web"],
+   "say": "Paso uno: crea un cuaderno nuevo y sube tu fuente. Puede ser un PDF, tus apuntes o el enlace de una página web."},
+  {"type": "step", "n": 2, "title": ["Toca el", "lápiz"], "lines": ["En el panel Studio,", "toca el lápiz junto", "a Infografía"],
+   "say": "Paso dos: en el panel Studio, toca el lápiz que está junto a Infografía. Ahí puedes personalizarla antes de crearla."},
+  {"type": "step", "n": 3, "title": ["Elige", "el formato"], "lines": ["Vertical, cuadrada", "u horizontal, y", "el nivel de detalle"],
+   "say": "Paso tres: elige si la quieres vertical, cuadrada u horizontal, y cuánto detalle lleva. Toca generar y descárgala."},
+  {"type": "list", "badge": "OJO", "title": ["Revísala", "antes de usarla"], "items": ["La IA puede fallar", "Corrige y regenera"],
+   "say": "Ojo: la infografía la hace la IA y puede tener errores. Revísala bien y, si algo falla, cambia la instrucción y regenera."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
