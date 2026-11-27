@@ -1,0 +1,21 @@
+{
+ "id": "reel_70",
+ "titulo": "Deja que la IA escriba por ti: 3 usos gratis del dictado",
+ "descripcion": "El dictado de ChatGPT funciona con la cuenta gratis: toca el micrófono (no el icono de ondas, que es para conversar), habla y tu voz aparece como texto que puedes corregir antes de enviar. Úsalo para dictar un correo formal, ordenar tus pendientes o explicar un problema con detalle sin teclear. Revisa nombres y números antes de enviar 🎙️",
+ "hashtags": ["#IA", "#ChatGPT", "#Dictado", "#Productividad", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["La IA escribe", "por ti"], "pill": "3 usos gratis",
+   "say": "¿Te cansa escribir en el celular? Deja que la IA escriba por ti mientras hablas. Tres usos gratis."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Dictado de", "ChatGPT"], "items": ["Toca el micrófono", "Cuenta gratis", "Corriges antes de enviar"],
+   "say": "Es el dictado de ChatGPT. Toca el micrófono, no el icono de ondas, habla, y tu voz aparece como texto que puedes corregir antes de enviar."},
+  {"type": "step", "n": 1, "title": ["Un correo", "formal"], "lines": ["Dicta la idea como", "te salga y pide:", "hazlo correo formal"],
+   "say": "Uso uno: un correo formal. Dicta la idea como te salga y termina diciendo: conviértelo en un correo formal y corto."},
+  {"type": "step", "n": 2, "title": ["Ordena tus", "pendientes"], "lines": ["Di todo lo que", "tienes que hacer", "y pide una lista"],
+   "say": "Uso dos: ordena tu cabeza. Di en voz alta todo lo que tienes pendiente y pide: ordénalo en una lista por prioridad."},
+  {"type": "step", "n": 3, "title": ["Explica", "tu problema"], "lines": ["Cuéntalo con todo", "detalle, sin", "teclear nada"],
+   "say": "Uso tres: pide ayuda con detalle. Cuéntale tu problema completo, como un trámite, sin teclear nada."},
+  {"type": "list", "badge": "OJO", "title": ["Antes de", "enviar"], "items": ["Revisa nombres y números", "Ondas = conversar"],
+   "say": "Ojo: revisa nombres y números antes de enviar. Y recuerda: el micrófono dicta, el icono de ondas es para conversar."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
