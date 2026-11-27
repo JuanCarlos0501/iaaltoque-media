@@ -1,0 +1,21 @@
+{
+ "id": "reel_69",
+ "titulo": "Pon subtítulos a tus videos sin saber editar",
+ "descripcion": "Con CapCut en el celular, la IA escucha tu voz y escribe los subtítulos por ti, también en español: Nuevo proyecto → Subtítulos → Subtítulos automáticos → idioma → Generar. Luego tocas cada texto para corregirlo o darle estilo. La app se descarga gratis; algunos estilos y funciones avanzadas son de pago (Pro). Graba sin ruido para que se equivoque menos 🎬",
+ "hashtags": ["#IA", "#CapCut", "#Subtitulos", "#EditarVideos", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Subtítulos", "sin saber editar"], "pill": "La IA los escribe",
+   "say": "¿Quieres que tus videos tengan subtítulos como los de los creadores, sin saber editar? Deja que la IA los escriba por ti."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["CapCut en", "tu celular"], "items": ["Se descarga gratis", "Reconoce tu voz", "Funciona en español"],
+   "say": "Usa CapCut en tu celular. La app se descarga gratis, y su IA reconoce tu voz y la convierte en texto, también en español."},
+  {"type": "step", "n": 1, "title": ["Sube tu", "video"], "lines": ["Toca Nuevo proyecto", "y elige el video", "donde hablas"],
+   "say": "Primero, abre CapCut, toca Nuevo proyecto y elige el video donde sales hablando."},
+  {"type": "step", "n": 2, "title": ["Subtítulos", "automáticos"], "lines": ["Toca Subtítulos,", "elige el idioma", "y toca Generar"],
+   "say": "Segundo, en la barra de abajo toca Subtítulos, elige Subtítulos automáticos, confirma que el idioma sea español y toca Generar."},
+  {"type": "step", "n": 3, "title": ["Revisa y", "dale estilo"], "lines": ["Toca cada texto", "para corregirlo", "o cambiar el color"],
+   "say": "Tercero, toca cualquier subtítulo para corregir una palabra, moverlo o cambiar la letra y el color. Y exporta."},
+  {"type": "list", "badge": "OJO", "title": ["Para que", "salga bien"], "items": ["Graba sin ruido", "Habla claro", "Algunos estilos son Pro"],
+   "say": "Ojo: graba en un lugar sin ruido y habla claro, así la IA se equivoca menos. Y algunos estilos avanzados son de pago."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
