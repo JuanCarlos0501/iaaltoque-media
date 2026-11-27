@@ -71,3 +71,4 @@
 | 67 | 2026-11-26 | Deja que la IA te avise por ti: 3 usos gratis de las Tareas programadas de ChatGPT (noticias, inglés, cena) (lista) | video listo, falta programar 12:00 |
 | 68 | 2026-11-26 | ¿Y si la IA arma tu plan para los exámenes finales? Horario de estudio que se reordena con Gemini (caso real) | video listo, falta programar 18:00 |
 | 69 | 2026-11-27 | Pon subtítulos a tus videos sin saber editar con los Subtítulos automáticos de CapCut (pasos) | video listo, falta programar 10:00 |
+| 70 | 2026-11-27 | Deja que la IA escriba por ti: 3 usos gratis del dictado de ChatGPT (correo formal, pendientes, explicar un problema) (lista) | video listo, falta programar 12:00 |
