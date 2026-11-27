@@ -1,0 +1,19 @@
+{
+ "id": "reel_71",
+ "titulo": "¿Cuál te enseña mejor para tu examen: Gemini o ChatGPT?",
+ "descripcion": "Comparativa de los modos de estudio gratis: el Aprendizaje guiado de Gemini te explica por partes con imágenes y diagramas y te hace preguntas; el Modo estudio de ChatGPT no te da la respuesta, te guía paso a paso y te pone pruebas cortas. Si aprendes viendo, Gemini; si quieres practicar, ChatGPT. Pruébalos con el mismo tema y verifica con tu libro o tu profe 📚",
+ "hashtags": ["#IA", "#Gemini", "#ChatGPT", "#Estudiar", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["¿Cuál te", "enseña mejor?"], "pill": "Gemini vs ChatGPT",
+   "say": "¿Qué IA gratis te enseña mejor un tema difícil para tu examen? Comparamos los modos de estudio de Gemini y de ChatGPT."},
+  {"type": "list", "badge": "GEMINI", "title": ["Aprendizaje", "guiado"], "items": ["Gratis en web y app", "Explica con imágenes", "Te hace preguntas"],
+   "say": "Gemini tiene Aprendizaje guiado, gratis en la web y en la app. Te explica por partes, con imágenes y diagramas, y te hace preguntas para que pienses."},
+  {"type": "list", "badge": "CHATGPT", "title": ["Modo", "estudio"], "items": ["Gratis con tu cuenta", "Te guía paso a paso", "Pruebas de repaso"],
+   "say": "ChatGPT tiene Modo estudio, gratis con tu cuenta. No te da la respuesta: te guía paso a paso con preguntas, y te pone pruebas cortas de repaso."},
+  {"type": "list", "badge": "VEREDICTO", "title": ["¿Cuál", "elijo?"], "items": ["Aprendes viendo: Gemini", "Quieres práctica: ChatGPT"],
+   "say": "Mi veredicto: si aprendes mejor viendo, usa Gemini. Si quieres que te tomen examen y practicar hasta que te salga, usa ChatGPT."},
+  {"type": "list", "badge": "TIP", "title": ["Prueba", "los dos"], "items": ["Pide el mismo tema", "Quédate con el más claro", "Verifica con tu profe"],
+   "say": "Tip: pídeles a los dos el mismo tema y quédate con el que te haga entender mejor. Y ojo: verifica los datos con tu libro o tu profe."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
