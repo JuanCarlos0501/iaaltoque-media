@@ -73,3 +73,4 @@
 | 69 | 2026-11-27 | Pon subtítulos a tus videos sin saber editar con los Subtítulos automáticos de CapCut (pasos) | video listo, falta programar 10:00 |
 | 70 | 2026-11-27 | Deja que la IA escriba por ti: 3 usos gratis del dictado de ChatGPT (correo formal, pendientes, explicar un problema) (lista) | video listo, falta programar 12:00 |
 | 71 | 2026-11-27 | ¿Cuál te enseña mejor para tu examen: Aprendizaje guiado de Gemini o Modo estudio de ChatGPT? (comparativa) | video listo, falta programar 18:00 |
+| 72 | 2026-11-28 | Tu foto profesional para el CV sin fotógrafo: selfie convertida en foto de CV con ChatGPT (pasos) | video listo, falta programar 10:00 |
