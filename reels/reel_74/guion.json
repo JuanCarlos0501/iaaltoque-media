@@ -1,0 +1,21 @@
+{
+ "id": "reel_74",
+ "titulo": "¿Y si la IA organiza tu amigo secreto?",
+ "descripcion": "Caso real: Lucía organiza el amigo secreto de la oficina con 12 personas y un tope de 50 soles. Le pidió a ChatGPT (gratis) las reglas y fechas, un mensaje para el grupo con lista de deseos, e ideas de regalo dentro del tope según los gustos de su amigo. Sirve igual con Gemini o Claude. Ojo: el sorteo hazlo con papelitos o una app de sorteo, para que nadie vea las parejas 🎁",
+ "hashtags": ["#IA", "#ChatGPT", "#AmigoSecreto", "#Navidad", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Tu amigo secreto", "sin estrés"], "pill": "¿La IA lo organiza?",
+   "say": "¿Te tocó organizar el amigo secreto y no sabes ni por dónde empezar? Mira cómo Lucía dejó que la IA lo armara."},
+  {"type": "list", "badge": "EL CASO", "title": ["Lucía y", "su oficina"], "items": ["12 personas", "Tope de 50 soles", "Usó ChatGPT gratis"],
+   "say": "Lucía tenía que organizarlo en su oficina: doce personas y un tope de cincuenta soles. Abrió ChatGPT gratis y le contó todo."},
+  {"type": "step", "n": 1, "title": ["Reglas y", "fechas"], "lines": ["Pide reglas claras,", "fecha del sorteo", "y del intercambio"],
+   "say": "Primero le pidió reglas simples: el tope, la fecha del sorteo, el día del intercambio y qué pasa si alguien falta."},
+  {"type": "step", "n": 2, "title": ["Mensaje", "para el grupo"], "lines": ["Con las reglas y", "una lista de deseos", "para llenar"],
+   "say": "Después le pidió un mensaje divertido para el grupo de WhatsApp, con las reglas y una lista de deseos para llenar."},
+  {"type": "step", "n": 3, "title": ["Ideas de", "regalo"], "lines": ["Cuenta sus gustos", "y pide ideas", "dentro del tope"],
+   "say": "Y cuando le tocó su amigo, le contó sus gustos y le pidió cinco ideas de regalo de menos de cincuenta soles."},
+  {"type": "list", "badge": "OJO", "title": ["El sorteo,", "en secreto"], "items": ["Papelitos o app", "Que nadie vea"],
+   "say": "Ojo: el sorteo no lo hagas en el chat. Usa papelitos o una app de sorteo, para que nadie vea quién le tocó a quién."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
