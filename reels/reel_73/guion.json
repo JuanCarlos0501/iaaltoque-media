@@ -1,0 +1,21 @@
+{
+ "id": "reel_73",
+ "titulo": "Deja que la IA lea tu correo por ti",
+ "descripcion": "Gemini dentro de Gmail, gratis y en español: 1) resúmenes de conversaciones largas, 2) Ayúdame a escribir para redactar un correo desde una idea corta, 3) respuestas sugeridas según el hilo. Google lo está activando para todas las cuentas por etapas; si no te aparece, revisa que estén activadas las funciones inteligentes en la configuración de Gmail. Revisa siempre antes de enviar ✉️",
+ "hashtags": ["#IA", "#Gmail", "#Gemini", "#Productividad", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Deja que la IA", "lea tu correo"], "pill": "3 usos gratis",
+   "say": "¿Tu correo está lleno y no tienes tiempo de leerlo? Deja que la IA lo lea y lo responda por ti."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["Gemini", "en Gmail"], "items": ["Gratis en Gmail", "Funciona en español", "Llega por etapas"],
+   "say": "Usa Gemini dentro de Gmail. Google lo está activando gratis, también en español, aunque llega por etapas."},
+  {"type": "step", "n": 1, "title": ["Resume", "hilos largos"], "lines": ["Abre una", "conversación larga", "y lee el resumen"],
+   "say": "Uno: abre una conversación larga, con muchas respuestas, y Gemini te muestra un resumen con lo importante en segundos."},
+  {"type": "step", "n": 2, "title": ["Ayúdame", "a escribir"], "lines": ["Escribe tu idea", "en pocas palabras", "y la IA redacta"],
+   "say": "Dos: toca Redactar, elige Ayúdame a escribir y pon tu idea corta, por ejemplo: pedir permiso el viernes. La IA te arma el correo."},
+  {"type": "step", "n": 3, "title": ["Respuestas", "sugeridas"], "lines": ["Al responder, toca", "una sugerencia", "y ajústala"],
+   "say": "Tres: al responder, Gmail te propone respuestas según la conversación. Toca una, cámbiala a tu gusto y envíala."},
+  {"type": "list", "badge": "OJO", "title": ["Antes de", "enviar"], "items": ["Revisa nombres y fechas", "Activa funciones IA"],
+   "say": "Ojo: revisa siempre nombres y fechas antes de enviar. Y si no te aparece, activa las funciones inteligentes en la configuración."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
