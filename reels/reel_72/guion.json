@@ -1,0 +1,21 @@
+{
+ "id": "reel_72",
+ "titulo": "Tu foto profesional para el CV sin fotógrafo",
+ "descripcion": "Con una selfie y ChatGPT (plan gratis) puedes tener una foto profesional para tu CV o LinkedIn: toma una selfie de frente con luz natural, súbela con el clip y pide 'foto profesional para CV, con saco, fondo gris liso, sin cambiar mi cara'. Revisa que se parezca a ti y descárgala. El plan gratis tiene un límite diario de imágenes 📸",
+ "hashtags": ["#IA", "#ChatGPT", "#CV", "#LinkedIn", "#TrucosIA", "#IAalToque"],
+ "scenes": [
+  {"type": "hook", "title": ["Foto para tu CV", "sin fotógrafo"], "pill": "Solo con una selfie",
+   "say": "¿Necesitas una foto profesional para tu CV o LinkedIn, sin fotógrafo? Deja que la IA la haga con una selfie."},
+  {"type": "list", "badge": "LA HERRAMIENTA", "title": ["ChatGPT", "gratis"], "items": ["Plan gratis", "Subes tu foto", "La IA la edita"],
+   "say": "Usa ChatGPT. En el plan gratis puedes subir una foto y pedirle que la edite, con un límite de imágenes por día."},
+  {"type": "step", "n": 1, "title": ["Toma una", "buena selfie"], "lines": ["De frente, con", "luz natural y", "sin filtros"],
+   "say": "Primero, tómate una selfie de frente, cerca de una ventana, sin filtros y con la cara bien visible."},
+  {"type": "step", "n": 2, "title": ["Súbela y", "pide el cambio"], "lines": ["Toca el clip y", "escribe: foto para", "CV, fondo gris"],
+   "say": "Segundo, toca el clip, sube tu selfie y escribe: conviértela en una foto profesional para CV, con saco, fondo gris liso y sin cambiar mi cara."},
+  {"type": "step", "n": 3, "title": ["Revisa y", "descárgala"], "lines": ["Si algo no se", "parece a ti,", "pide un ajuste"],
+   "say": "Tercero, revisa el resultado. Si algo no se parece a ti, pídele un ajuste. Cuando te guste, descárgala."},
+  {"type": "list", "badge": "OJO", "title": ["Que se", "parezca a ti"], "items": ["Tu cara real", "Sin quitarte años", "Hay límite diario"],
+   "say": "Ojo: que siga pareciéndose a ti, porque en la entrevista te van a ver en persona. Y si llegas al límite, prueba más tarde."},
+  {"type": "cta", "say": "Sigue a IA al Toque, para más trucos como este."}
+ ]
+}
